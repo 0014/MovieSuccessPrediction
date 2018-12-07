@@ -1,0 +1,12 @@
+C:\Users\genco_a\source\repos\IMDB\DataCleaner\bin\Debug\DataCleaner.exe.config
+C:\Users\genco_a\source\repos\IMDB\DataCleaner\bin\Debug\DataCleaner.exe
+C:\Users\genco_a\source\repos\IMDB\DataCleaner\bin\Debug\DataCleaner.pdb
+C:\Users\genco_a\source\repos\IMDB\DataCleaner\bin\Debug\EntityFramework.dll
+C:\Users\genco_a\source\repos\IMDB\DataCleaner\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\genco_a\source\repos\IMDB\DataCleaner\bin\Debug\EntityFramework.xml
+C:\Users\genco_a\source\repos\IMDB\DataCleaner\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\genco_a\source\repos\IMDB\DataCleaner\obj\Debug\DataCleaner.csprojResolveAssemblyReference.cache
+C:\Users\genco_a\source\repos\IMDB\DataCleaner\obj\Debug\DataCleaner.csproj.CoreCompileInputs.cache
+C:\Users\genco_a\source\repos\IMDB\DataCleaner\obj\Debug\DataCleaner.csproj.CopyComplete
+C:\Users\genco_a\source\repos\IMDB\DataCleaner\obj\Debug\DataCleaner.exe
+C:\Users\genco_a\source\repos\IMDB\DataCleaner\obj\Debug\DataCleaner.pdb

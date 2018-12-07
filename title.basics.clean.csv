@@ -1,0 +1,1745 @@
+﻿tconst,titleType,primaryTitle,originalTitle,isAdult,startYear,endYear,runtimeMinutes,genres,Id
+tt0017136,movie,Metropolis,Metropolis,0,1927,\N,153,"Drama,Sci-Fi",74628
+tt0021749,movie,City Lights,City Lights,0,1931,\N,87,"Comedy,Drama,Romance",13109
+tt0031381,movie,Gone with the Wind,Gone with the Wind,0,1939,\N,238,"Drama,History,Romance",49501
+tt0032553,movie,The Great Dictator,The Great Dictator,0,1940,\N,125,"Comedy,Drama,War",94686
+tt0034583,movie,Casablanca,Casablanca,0,1942,\N,102,"Drama,Romance,War",65608
+tt0040522,movie,Bicycle Thieves,Ladri di biciclette,0,1948,\N,89,Drama,87829
+tt0041959,movie,The Third Man,The Third Man,0,1949,\N,104,"Film-Noir,Mystery,Thriller",44308
+tt0046183,movie,Peter Pan,Peter Pan,0,1953,\N,77,"Adventure,Animation,Family",12633
+tt0046250,movie,Roman Holiday,Roman Holiday,0,1953,\N,118,"Comedy,Romance",13209
+tt0047478,movie,Seven Samurai,Shichinin no samurai,0,1954,\N,207,"Adventure,Drama",90918
+tt0050212,movie,The Bridge on the River Kwai,The Bridge on the River Kwai,0,1957,\N,161,"Adventure,Drama,War",107610
+tt0054698,movie,Breakfast at Tiffany's,Breakfast at Tiffany's,0,1961,\N,115,"Comedy,Drama,Romance",100418
+tt0032138,movie,The Wizard of Oz,The Wizard of Oz,0,1939,\N,102,"Adventure,Family,Fantasy",72546
+tt0033467,movie,Citizen Kane,Citizen Kane,0,1941,\N,119,"Drama,Mystery",22785
+tt0033870,movie,The Maltese Falcon,The Maltese Falcon,0,1941,\N,100,"Film-Noir,Mystery",43371
+tt0022100,movie,M,M - Eine Stadt sucht einen MÃ¶rder,0,1931,\N,117,"Crime,Mystery,Thriller",30595
+tt0057012,movie,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,0,1964,\N,95,Comedy,17400
+tt0038650,movie,It's a Wonderful Life,It's a Wonderful Life,0,1946,\N,130,"Drama,Family,Fantasy",16845
+tt0040746,movie,Rope,Rope,0,1948,\N,80,"Crime,Drama,Mystery",113165
+tt0027977,movie,Modern Times,Modern Times,0,1936,\N,87,"Comedy,Drama,Family",19826
+tt0058150,movie,Goldfinger,Goldfinger,0,1964,\N,110,"Action,Adventure,Thriller",78953
+tt0043014,movie,Sunset Boulevard,Sunset Blvd.,0,1950,\N,110,"Drama,Film-Noir",94225
+tt0032976,movie,Rebecca,Rebecca,0,1940,\N,130,"Drama,Mystery,Romance",1687
+tt0029583,movie,Snow White and the Seven Dwarfs,Snow White and the Seven Dwarfs,0,1937,\N,83,"Animation,Family,Fantasy",82447
+tt0058331,movie,Mary Poppins,Mary Poppins,0,1964,\N,139,"Comedy,Family,Fantasy",79131
+tt0048280,movie,Lady and the Tramp,Lady and the Tramp,0,1955,\N,76,"Adventure,Animation,Comedy",3657
+tt0032910,movie,Pinocchio,Pinocchio,0,1940,\N,88,"Animation,Comedy,Family",1622
+tt0058461,movie,A Fistful of Dollars,Per un pugno di dollari,0,1964,\N,99,Western,108465
+tt0033563,movie,Dumbo,Dumbo,0,1941,\N,64,"Animation,Drama,Family",22880
+tt0059578,movie,For a Few Dollars More,Per qualche dollaro in piÃ¹,0,1965,\N,132,Western,56941
+tt0050976,movie,The Seventh Seal,Det sjunde inseglet,0,1957,\N,96,"Drama,Fantasy",20008
+tt0059742,movie,The Sound of Music,The Sound of Music,0,1965,\N,172,"Biography,Drama,Family",57099
+tt0036775,movie,Double Indemnity,Double Indemnity,0,1944,\N,107,"Crime,Drama,Film-Noir",40477
+tt0053285,movie,Sleeping Beauty,Sleeping Beauty,0,1959,\N,75,"Animation,Family,Fantasy",42940
+tt0061512,movie,Cool Hand Luke,Cool Hand Luke,0,1967,\N,126,"Crime,Drama",33863
+tt0042332,movie,Cinderella,Cinderella,0,1950,\N,74,"Animation,Family,Fantasy",67731
+tt0054215,movie,Psycho,Psycho,0,1960,\N,109,"Horror,Mystery,Thriller",72813
+tt0063350,movie,Night of the Living Dead,Night of the Living Dead,0,1968,\N,96,Horror,51091
+tt0043274,movie,Alice in Wonderland,Alice in Wonderland,0,1951,\N,75,"Adventure,Animation,Family",4394
+tt0055254,movie,101 Dalmatians,One Hundred and One Dalmatians,0,1961,\N,79,"Adventure,Animation,Comedy",14316
+tt0055928,movie,Dr. No,Dr. No,0,1962,\N,110,"Action,Adventure,Thriller",73340
+tt0056172,movie,Lawrence of Arabia,Lawrence of Arabia,0,1962,\N,216,"Adventure,Biography,Drama",73579
+tt0052357,movie,Vertigo,Vertigo,0,1958,\N,128,"Mystery,Romance,Thriller",101608
+tt0061722,movie,The Graduate,The Graduate,0,1967,\N,106,"Comedy,Drama,Romance",66569
+tt0053125,movie,North by Northwest,North by Northwest,0,1959,\N,136,"Adventure,Mystery,Thriller",15941
+tt0061852,movie,The Jungle Book,The Jungle Book,0,1967,\N,78,"Adventure,Animation,Family",66696
+tt0053291,movie,Some Like It Hot,Some Like It Hot,0,1959,\N,121,"Comedy,Romance",42945
+tt0062622,movie,2001: A Space Odyssey,2001: A Space Odyssey,0,1968,\N,149,"Adventure,Sci-Fi",99450
+tt0054331,movie,Spartacus,Spartacus,0,1960,\N,197,"Adventure,Biography,Drama",100062
+tt0066999,movie,Dirty Harry,Dirty Harry,0,1971,\N,102,"Action,Crime,Thriller",60063
+tt0064115,movie,Butch Cassidy and the Sundance Kid,Butch Cassidy and the Sundance Kid,0,1969,\N,110,"Biography,Crime,Drama",84112
+tt0073629,movie,The Rocky Horror Picture Show,The Rocky Horror Picture Show,0,1975,\N,100,"Comedy,Musical",57808
+tt0079470,movie,Life of Brian,Life of Brian,0,1979,\N,94,Comedy,114184
+tt0056869,movie,The Birds,The Birds,0,1963,\N,119,"Drama,Horror,Mystery",17259
+tt0080455,movie,The Blues Brothers,The Blues Brothers,0,1980,\N,133,"Adventure,Comedy,Crime",42283
+tt0080678,movie,The Elephant Man,The Elephant Man,0,1980,\N,124,"Biography,Drama",93702
+tt0057115,movie,The Great Escape,The Great Escape,0,1963,\N,172,"Adventure,Drama,History",17500
+tt0080761,movie,Friday the 13th,Friday the 13th,0,1980,\N,95,"Horror,Mystery,Thriller",93785
+tt0063442,movie,Planet of the Apes,Planet of the Apes,0,1968,\N,112,"Adventure,Sci-Fi",51182
+tt0081398,movie,Raging Bull,Raging Bull,0,1980,\N,129,"Biography,Drama,Sport",26973
+tt0063522,movie,Rosemary's Baby,Rosemary's Baby,0,1968,\N,137,"Drama,Horror",51261
+tt0083987,movie,Gandhi,Gandhi,0,1982,\N,191,"Biography,Drama,History",41750
+tt0084516,movie,Poltergeist,Poltergeist,0,1982,\N,114,"Horror,Thriller",98091
+tt0084602,movie,Rocky III,Rocky III,0,1982,\N,99,"Drama,Sport",98173
+tt0084787,movie,The Thing,The Thing,0,1982,\N,109,"Horror,Mystery,Sci-Fi",32431
+tt0064116,movie,Once Upon a Time in the West,C'era una volta il West,0,1968,\N,165,Western,84113
+tt0086250,movie,Scarface,Scarface,0,1983,\N,170,"Crime,Drama",29761
+tt0066921,movie,A Clockwork Orange,A Clockwork Orange,0,1971,\N,136,"Crime,Drama,Sci-Fi",59986
+tt0086465,movie,Trading Places,Trading Places,0,1983,\N,116,Comedy,81792
+tt0071315,movie,Chinatown,Chinatown,0,1974,\N,130,"Drama,Mystery,Thriller",10632
+tt0072271,movie,The Texas Chain Saw Massacre,The Texas Chain Saw Massacre,0,1974,\N,83,Horror,90650
+tt0074958,movie,Network,Network,0,1976,\N,121,Drama,62051
+tt0086879,movie,Amadeus,Amadeus,0,1984,\N,160,"Biography,Drama,History",25016
+tt0087182,movie,Dune,Dune,0,1984,\N,137,"Action,Adventure,Sci-Fi",25311
+tt0087928,movie,Police Academy,Police Academy,0,1984,\N,96,Comedy,24624
+tt0088763,movie,Back to the Future,Back to the Future,0,1985,\N,116,"Adventure,Comedy,Sci-Fi",83006
+tt0075148,movie,Rocky,Rocky,0,1976,\N,120,"Drama,Sport",62235
+tt0088944,movie,Commando,Commando,0,1985,\N,90,"Action,Adventure,Thriller",83185
+tt0076759,movie,Star Wars: Episode IV - A New Hope,Star Wars,0,1977,\N,121,"Action,Adventure,Fantasy",76732
+tt0089927,movie,Rocky IV,Rocky IV,0,1985,\N,91,"Drama,Sport",89908
+tt0077416,movie,The Deer Hunter,The Deer Hunter,0,1978,\N,183,"Drama,War",45240
+tt0090756,movie,Blue Velvet,Blue Velvet,0,1986,\N,120,"Drama,Mystery,Thriller",101115
+tt0078788,movie,Apocalypse Now,Apocalypse Now,0,1979,\N,147,"Drama,War",23935
+tt0091042,movie,Ferris Bueller's Day Off,Ferris Bueller's Day Off,0,1986,\N,103,Comedy,47984
+tt0091064,movie,The Fly,The Fly,0,1986,\N,96,"Drama,Horror,Sci-Fi",48006
+tt0092067,movie,Castle in the Sky,TenkÃ» no shiro Rapyuta,0,1986,\N,125,"Adventure,Animation,Fantasy",1391
+tt0079116,movie,Escape from Alcatraz,Escape from Alcatraz,0,1979,\N,112,"Biography,Crime,Drama",66222
+tt0092890,movie,Dirty Dancing,Dirty Dancing,0,1987,\N,100,"Drama,Music,Romance",12183
+tt0082340,movie,Escape from New York,Escape from New York,0,1981,\N,99,"Action,Sci-Fi",8927
+tt0092965,movie,Empire of the Sun,Empire of the Sun,0,1987,\N,153,"Drama,History,War",12256
+tt0083907,movie,The Evil Dead,The Evil Dead,0,1981,\N,85,Horror,41671
+tt0093409,movie,Lethal Weapon,Lethal Weapon,0,1987,\N,109,"Action,Crime,Thriller",83587
+tt0084726,movie,Star Trek II: The Wrath of Khan,Star Trek II: The Wrath of Khan,0,1982,\N,113,"Action,Adventure,Sci-Fi",98293
+tt0093748,movie,"Planes, Trains & Automobiles","Planes, Trains & Automobiles",0,1987,\N,93,Comedy,39495
+tt0094721,movie,Beetlejuice,Beetlejuice,0,1988,\N,92,"Comedy,Fantasy",68240
+tt0084827,movie,TRON,TRON,0,1982,\N,96,"Action,Adventure,Sci-Fi",32469
+tt0095765,movie,Cinema Paradiso,Nuovo Cinema Paradiso,0,1988,\N,155,Drama,108059
+tt0095953,movie,Rain Man,Rain Man,0,1988,\N,133,Drama,108245
+tt0085959,movie,The Meaning of Life,The Meaning of Life,0,1983,\N,107,"Comedy,Musical",29475
+tt0096754,movie,The Abyss,The Abyss,0,1989,\N,145,"Adventure,Drama,Sci-Fi",68180
+tt0087800,movie,A Nightmare on Elm Street,A Nightmare on Elm Street,0,1984,\N,91,Horror,80152
+tt0096895,movie,Batman,Batman,0,1989,\N,126,"Action,Adventure",34378
+tt0087843,movie,Once Upon a Time in America,Once Upon a Time in America,0,1984,\N,229,"Crime,Drama",80194
+tt0097733,movie,Lethal Weapon 2,Lethal Weapon 2,0,1989,\N,114,"Action,Crime,Thriller",6790
+tt0097757,movie,The Little Mermaid,The Little Mermaid,0,1989,\N,83,"Animation,Family,Fantasy",6814
+tt0099487,movie,Edward Scissorhands,Edward Scissorhands,0,1990,\N,105,"Drama,Fantasy,Romance",3001
+tt0099674,movie,The Godfather: Part III,The Godfather: Part III,0,1990,\N,162,"Crime,Drama",3182
+tt0088247,movie,The Terminator,The Terminator,0,1984,\N,107,"Action,Sci-Fi",24937
+tt0099785,movie,Home Alone,Home Alone,0,1990,\N,103,"Comedy,Family",3290
+tt0088847,movie,The Breakfast Club,The Breakfast Club,0,1985,\N,97,"Comedy,Drama",83088
+tt0100405,movie,Pretty Woman,Pretty Woman,0,1990,\N,119,"Comedy,Romance",97718
+tt0091763,movie,Platoon,Platoon,0,1986,\N,120,"Drama,War",580
+tt0101272,movie,The Addams Family,The Addams Family,0,1991,\N,99,"Comedy,Fantasy",54018
+tt0092005,movie,Stand by Me,Stand by Me,0,1986,\N,89,"Adventure,Drama",1330
+tt0101414,movie,Beauty and the Beast,Beauty and the Beast,0,1991,\N,84,"Animation,Family,Fantasy",56718
+tt0101540,movie,Cape Fear,Cape Fear,0,1991,\N,128,"Crime,Thriller",38259
+tt0102057,movie,Hook,Hook,0,1991,\N,142,"Adventure,Comedy,Family",21133
+tt0103064,movie,Terminator 2: Judgment Day,Terminator 2: Judgment Day,0,1991,\N,137,"Action,Sci-Fi",10350
+tt0092099,movie,Top Gun,Top Gun,0,1986,\N,110,"Action,Drama",64526
+tt0103074,movie,Thelma & Louise,Thelma & Louise,0,1991,\N,130,"Adventure,Crime,Drama",10360
+tt0092991,movie,Evil Dead II,Evil Dead II,0,1987,\N,84,"Comedy,Horror",12280
+tt0103772,movie,Basic Instinct,Basic Instinct,0,1992,\N,127,"Drama,Mystery,Thriller",2725
+tt0093773,movie,Predator,Predator,0,1987,\N,107,"Action,Adventure,Sci-Fi",39518
+tt0104431,movie,Home Alone 2: Lost in New York,Home Alone 2: Lost in New York,0,1992,\N,120,"Adventure,Comedy,Family",114095
+tt0093822,movie,Raising Arizona,Raising Arizona,0,1987,\N,94,"Comedy,Crime",39567
+tt0106308,movie,Army of Darkness,Army of Darkness,0,1992,\N,81,"Comedy,Horror",61410
+tt0106489,movie,A Bronx Tale,A Bronx Tale,0,1993,\N,121,"Crime,Drama",61587
+tt0106519,movie,Carlito's Way,Carlito's Way,0,1993,\N,144,"Crime,Drama,Thriller",61617
+tt0106677,movie,Dazed and Confused,Dazed and Confused,0,1993,\N,102,Comedy,61773
+tt0093870,movie,RoboCop,RoboCop,0,1987,\N,102,"Action,Crime,Sci-Fi",39613
+tt0106856,movie,Falling Down,Falling Down,0,1993,\N,113,"Crime,Drama,Thriller",52341
+tt0094012,movie,Spaceballs,Spaceballs,0,1987,\N,96,"Adventure,Comedy,Sci-Fi",39745
+tt0067992,movie,Willy Wonka & the Chocolate Factory,Willy Wonka & the Chocolate Factory,0,1971,\N,100,"Family,Fantasy,Musical",16113
+tt0106977,movie,The Fugitive,The Fugitive,0,1993,\N,130,"Action,Crime,Drama",52459
+tt0094226,movie,The Untouchables,The Untouchables,0,1987,\N,119,"Crime,Drama,Thriller",35
+tt0107818,movie,Philadelphia,Philadelphia,0,1993,\N,125,Drama,37392
+tt0095705,movie,The Naked Gun: From the Files of Police Squad!,The Naked Gun: From the Files of Police Squad!,0,1988,\N,85,"Comedy,Crime",32342
+tt0108160,movie,Sleepless in Seattle,Sleepless in Seattle,0,1993,\N,105,"Comedy,Drama,Romance",37728
+tt0108778,tvSeries,Friends,Friends,0,1994,2004,22,"Comedy,Romance",45138
+tt0095956,movie,Rambo III,Rambo III,0,1988,\N,102,"Action,Adventure,Thriller",108248
+tt0109506,movie,The Crow,The Crow,0,1994,\N,102,"Action,Drama,Fantasy",115860
+tt0110148,movie,Interview with the Vampire: The Vampire Chronicles,Interview with the Vampire: The Vampire Chronicles,0,1994,\N,123,"Drama,Horror",104730
+tt0096283,movie,My Neighbor Totoro,Tonari no Totoro,0,1988,\N,86,"Animation,Family,Fantasy",67209
+tt0110632,movie,Natural Born Killers,Natural Born Killers,0,1994,\N,118,"Crime,Drama",79452
+tt0098635,movie,When Harry Met Sally...,When Harry Met Sally...,0,1989,\N,95,"Comedy,Drama,Romance",58108
+tt0111282,movie,Stargate,Stargate,0,1994,\N,116,"Action,Adventure,Sci-Fi",65384
+tt0099077,movie,Awakenings,Awakenings,0,1990,\N,121,"Biography,Drama",23339
+tt0112384,movie,Apollo 13,Apollo 13,0,1995,\N,140,"Adventure,Drama,History",52117
+tt0099088,movie,Back to the Future Part III,Back to the Future Part III,0,1990,\N,118,"Adventure,Comedy,Sci-Fi",23350
+tt0112431,movie,Babe,Babe,0,1995,\N,91,"Comedy,Drama,Family",52162
+tt0112462,movie,Batman Forever,Batman Forever,0,1995,\N,121,"Action,Adventure,Fantasy",52193
+tt0099348,movie,Dances with Wolves,Dances with Wolves,0,1990,\N,181,"Adventure,Drama,Western",28725
+tt0112508,movie,Billy Madison,Billy Madison,0,1995,\N,89,Comedy,46226
+tt0099653,movie,Ghost,Ghost,0,1990,\N,127,"Drama,Fantasy,Romance",3161
+tt0112573,movie,Braveheart,Braveheart,0,1995,\N,178,"Biography,Drama,History",46290
+tt0099685,movie,Goodfellas,Goodfellas,0,1990,\N,146,"Crime,Drama",3192
+tt0113189,movie,GoldenEye,GoldenEye,0,1995,\N,130,"Action,Adventure,Thriller",123438
+tt0113247,movie,La Haine,La haine,0,1995,\N,98,"Crime,Drama",123495
+tt0099810,movie,The Hunt for Red October,The Hunt for Red October,0,1990,\N,135,"Action,Adventure,Thriller",3313
+tt0113749,movie,Mallrats,Mallrats,0,1995,\N,94,"Comedy,Romance",120002
+tt0114709,movie,Toy Story,Toy Story,0,1995,\N,81,"Adventure,Animation,Comedy",106507
+tt0100150,movie,Miller's Crossing,Miller's Crossing,0,1990,\N,115,"Crime,Drama,Thriller",97475
+tt0117008,movie,Matilda,Matilda,0,1996,\N,98,"Comedy,Family,Fantasy",59798
+tt0100507,movie,Rocky V,Rocky V,0,1990,\N,104,"Drama,Sport",71322
+tt0117060,movie,Mission: Impossible,Mission: Impossible,0,1996,\N,110,"Action,Adventure,Thriller",59849
+tt0101507,movie,Boyz n the Hood,Boyz n the Hood,0,1991,\N,112,"Crime,Drama",56811
+tt0117665,movie,Sleepers,Sleepers,0,1996,\N,147,"Crime,Drama,Thriller",127756
+tt0068646,movie,The Godfather,The Godfather,0,1972,\N,175,"Crime,Drama",55916
+tt0070047,movie,The Exorcist,The Exorcist,0,1973,\N,122,Horror,48921
+tt0102685,movie,Point Break,Point Break,0,1991,\N,122,"Action,Crime,Thriller",9971
+tt0102926,movie,The Silence of the Lambs,The Silence of the Lambs,0,1991,\N,118,"Crime,Drama,Thriller",10212
+tt0070735,movie,The Sting,The Sting,0,1973,\N,129,"Comedy,Crime,Drama",89025
+tt0104257,movie,A Few Good Men,A Few Good Men,0,1992,\N,138,"Drama,Thriller",113929
+tt0071562,movie,The Godfather: Part II,The Godfather: Part II,0,1974,\N,202,"Crime,Drama",10872
+tt0105793,movie,Wayne's World,Wayne's World,0,1992,\N,94,"Comedy,Music",77409
+tt0072684,movie,Barry Lyndon,Barry Lyndon,0,1975,\N,185,"Adventure,Drama,History",13381
+tt0107207,movie,In the Name of the Father,In the Name of the Father,0,1993,\N,133,"Biography,Drama",52685
+tt0107614,movie,Mrs. Doubtfire,Mrs. Doubtfire,0,1993,\N,125,"Comedy,Drama,Family",46047
+tt0108052,movie,Schindler's List,Schindler's List,0,1993,\N,195,"Biography,Drama,History",37622
+tt0109040,movie,Ace Ventura: Pet Detective,Ace Ventura: Pet Detective,0,1994,\N,86,Comedy,119345
+tt0109686,movie,Dumb and Dumber,Dumb and Dumber,0,1994,\N,107,Comedy,116036
+tt0109707,movie,Ed Wood,Ed Wood,0,1994,\N,127,"Biography,Comedy,Drama",116056
+tt0112442,movie,Bad Boys,Bad Boys,0,1995,\N,119,"Action,Comedy,Crime",52173
+tt0112471,movie,Before Sunrise,Before Sunrise,0,1995,\N,101,"Drama,Romance",52202
+tt0112851,movie,Desperado,Desperado,0,1995,\N,104,"Action,Thriller",46560
+tt0113492,movie,Judge Dredd,Judge Dredd,0,1995,\N,96,"Action,Crime,Sci-Fi",123732
+tt0113568,movie,Ghost in the Shell,KÃ´kaku KidÃ´tai,0,1995,\N,83,"Action,Animation,Crime",119829
+tt0114746,movie,Twelve Monkeys,Twelve Monkeys,0,1995,\N,129,"Mystery,Sci-Fi,Thriller",106543
+tt0115798,movie,The Cable Guy,The Cable Guy,0,1996,\N,96,"Comedy,Drama,Thriller",72967
+tt0116209,movie,The English Patient,The English Patient,0,1996,\N,162,"Drama,Romance,War",60437
+tt0116483,movie,Happy Gilmore,Happy Gilmore,0,1996,\N,92,"Comedy,Sport",60701
+tt0116695,movie,Jerry Maguire,Jerry Maguire,0,1996,\N,139,"Comedy,Drama,Romance",62437
+tt0116996,movie,Mars Attacks!,Mars Attacks!,0,1996,\N,106,"Comedy,Sci-Fi",59786
+tt0117381,movie,Primal Fear,Primal Fear,0,1996,\N,129,"Crime,Drama,Mystery",127485
+tt0117500,movie,The Rock,The Rock,0,1996,\N,136,"Action,Adventure,Thriller",127598
+tt0117913,movie,A Time to Kill,A Time to Kill,0,1996,\N,149,"Crime,Drama,Thriller",124027
+tt0118583,movie,Alien: Resurrection,Alien: Resurrection,0,1997,\N,109,"Action,Horror,Sci-Fi",120964
+tt0118617,movie,Anastasia,Anastasia,0,1997,\N,94,"Adventure,Animation,Drama",120994
+tt0118694,movie,In the Mood for Love,Faa yeung nin wa,0,2000,\N,98,"Drama,Romance",121069
+tt0118842,movie,Chasing Amy,Chasing Amy,0,1997,\N,113,"Comedy,Drama,Romance",121211
+tt0119008,movie,Donnie Brasco,Donnie Brasco,0,1997,\N,127,"Biography,Crime,Drama",117626
+tt0119174,movie,The Game,The Game,0,1997,\N,129,"Drama,Mystery,Thriller",117785
+tt0119396,movie,Jackie Brown,Jackie Brown,0,1997,\N,154,"Crime,Drama,Thriller",112660
+tt0119528,movie,Liar Liar,Liar Liar,0,1997,\N,86,"Comedy,Fantasy",112784
+tt0119567,movie,The Lost World: Jurassic Park,The Lost World: Jurassic Park,0,1997,\N,129,"Action,Adventure,Sci-Fi",112821
+tt0119698,movie,Princess Mononoke,Mononoke-hime,0,1997,\N,134,"Adventure,Animation,Fantasy",112944
+tt0119738,movie,My Best Friend's Wedding,My Best Friend's Wedding,0,1997,\N,105,"Comedy,Drama,Romance",112981
+tt0120591,movie,Armageddon,Armageddon,0,1998,\N,151,"Action,Adventure,Sci-Fi",78445
+tt0120623,movie,A Bug's Life,A Bug's Life,0,1998,\N,95,"Adventure,Animation,Comedy",78472
+tt0120663,movie,Eyes Wide Shut,Eyes Wide Shut,0,1999,\N,159,"Drama,Mystery,Thriller",78503
+tt0120667,movie,Fantastic Four,Fantastic Four,0,2005,\N,106,"Action,Adventure,Fantasy",78505
+tt0120689,movie,The Green Mile,The Green Mile,0,1999,\N,189,"Crime,Drama,Fantasy",78523
+tt0120737,movie,The Lord of the Rings: The Fellowship of the Ring,The Lord of the Rings: The Fellowship of the Ring,0,2001,\N,178,"Adventure,Drama,Fantasy",78560
+tt0117705,movie,Space Jam,Space Jam,0,1996,\N,88,"Adventure,Animation,Comedy",127793
+tt0117998,movie,Twister,Twister,0,1996,\N,113,"Action,Adventure,Drama",124110
+tt0120768,movie,The Negotiator,The Negotiator,0,1998,\N,140,"Action,Crime,Drama",78587
+tt0118571,movie,Air Force One,Air Force One,0,1997,\N,124,"Action,Drama,Thriller",120953
+tt0120789,movie,Pleasantville,Pleasantville,0,1998,\N,124,"Comedy,Drama,Fantasy",78606
+tt0119094,movie,Face/Off,Face/Off,0,1997,\N,138,"Action,Crime,Sci-Fi",117707
+tt0119116,movie,The Fifth Element,Le cinquiÃ¨me Ã©lÃ©ment,0,1997,\N,126,"Action,Adventure,Sci-Fi",117729
+tt0120794,movie,The Prince of Egypt,The Prince of Egypt,0,1998,\N,99,"Adventure,Animation,Drama",78610
+tt0119177,movie,Gattaca,Gattaca,0,1997,\N,106,"Drama,Sci-Fi,Thriller",117787
+tt0120804,movie,Resident Evil,Resident Evil,0,2002,\N,100,"Action,Horror,Sci-Fi",78618
+tt0119643,movie,Meet Joe Black,Meet Joe Black,0,1998,\N,178,"Drama,Fantasy,Romance",112892
+tt0120903,movie,X-Men,X-Men,0,2000,\N,104,"Action,Adventure,Sci-Fi",78690
+tt0119822,movie,As Good as It Gets,As Good as It Gets,0,1997,\N,139,"Comedy,Drama,Romance",113571
+tt0120082,movie,Scream 2,Scream 2,0,1997,\N,120,"Horror,Mystery",96018
+tt0120915,movie,Star Wars: Episode I - The Phantom Menace,Star Wars: Episode I - The Phantom Menace,0,1999,\N,136,"Action,Adventure,Fantasy",78696
+tt0120484,movie,The Waterboy,The Waterboy,0,1998,\N,90,"Comedy,Sport",78351
+tt0121955,tvSeries,South Park,South Park,0,1997,\N,22,"Animation,Comedy",131682
+tt0120586,movie,American History X,American History X,0,1998,\N,119,"Crime,Drama",78441
+tt0122933,movie,Analyze This,Analyze This,0,1999,\N,103,"Comedy,Crime",124915
+tt0120632,movie,City of Angels,City of Angels,0,1998,\N,114,"Drama,Fantasy,Romance",78480
+tt0120647,movie,Deep Impact,Deep Impact,0,1998,\N,120,"Action,Drama,Romance",78491
+tt0120655,movie,Dogma,Dogma,0,1999,\N,130,"Adventure,Comedy,Drama",78496
+tt0120681,movie,From Hell,From Hell,0,2001,\N,122,"Horror,Mystery,Thriller",78517
+tt0128442,movie,Rounders,Rounders,0,1998,\N,121,"Crime,Drama",122455
+tt0120685,movie,Godzilla,Godzilla,0,1998,\N,139,"Action,Sci-Fi,Thriller",78520
+tt0120755,movie,Mission: Impossible II,Mission: Impossible II,0,2000,\N,123,"Action,Adventure,Thriller",78577
+tt0134119,movie,The Talented Mr. Ripley,The Talented Mr. Ripley,0,1999,\N,139,"Crime,Drama,Thriller",122239
+tt0120784,movie,Payback,Payback,0,1999,\N,100,"Action,Crime,Drama",78601
+tt0134273,movie,8MM,8MM,0,1999,\N,123,"Mystery,Thriller",120451
+tt0120855,movie,Tarzan,Tarzan,0,1999,\N,88,"Adventure,Animation,Family",78650
+tt0138097,movie,Shakespeare in Love,Shakespeare in Love,0,1998,\N,123,"Comedy,Drama,History",125483
+tt0121164,movie,Corpse Bride,Corpse Bride,0,2005,\N,77,"Animation,Drama,Family",76985
+tt0121765,movie,Star Wars: Episode II - Attack of the Clones,Star Wars: Episode II - Attack of the Clones,0,2002,\N,142,"Action,Adventure,Fantasy",131518
+tt0121766,movie,Star Wars: Episode III - Revenge of the Sith,Star Wars: Episode III - Revenge of the Sith,0,2005,\N,140,"Action,Adventure,Fantasy",131519
+tt0122151,movie,Lethal Weapon 4,Lethal Weapon 4,0,1998,\N,127,"Action,Crime,Thriller",131865
+tt0138704,movie,Pi,Pi,0,1998,\N,84,"Drama,Horror,Mystery",124630
+tt0126029,movie,Shrek,Shrek,0,2001,\N,90,"Adventure,Animation,Comedy",113770
+tt0145660,movie,Austin Powers: The Spy Who Shagged Me,Austin Powers: The Spy Who Shagged Me,0,1999,\N,95,"Action,Adventure,Comedy",138770
+tt0129387,movie,There's Something About Mary,There's Something About Mary,0,1998,\N,119,"Comedy,Romance",117188
+tt0145681,movie,The Bone Collector,The Bone Collector,0,1999,\N,118,"Crime,Drama,Mystery",138789
+tt0130827,movie,Run Lola Run,Lola rennt,0,1998,\N,81,"Crime,Drama,Thriller",140075
+tt0158983,movie,"South Park: Bigger, Longer & Uncut","South Park: Bigger, Longer & Uncut",0,1999,\N,81,"Animation,Comedy,Fantasy",147594
+tt0134847,movie,Pitch Black,Pitch Black,0,2000,\N,109,"Horror,Sci-Fi",143919
+tt0141842,tvSeries,The Sopranos,The Sopranos,0,1999,2007,55,"Crime,Drama",131182
+tt0160127,movie,Charlie's Angels,Charlie's Angels,0,2000,\N,98,"Action,Adventure,Comedy",145051
+tt0142342,movie,Big Daddy,Big Daddy,0,1999,\N,93,"Comedy,Drama",129478
+tt0145487,movie,Spider-Man,Spider-Man,0,2002,\N,121,"Action,Adventure,Sci-Fi",142627
+tt0162222,movie,Cast Away,Cast Away,0,2000,\N,143,"Adventure,Drama,Romance",158513
+tt0164052,movie,Hollow Man,Hollow Man,0,2000,\N,112,"Action,Horror,Sci-Fi",150103
+tt0147800,movie,10 Things I Hate About You,10 Things I Hate About You,0,1999,\N,97,"Comedy,Drama,Romance",156164
+tt0034492,movie,Bambi,Bambi,0,1942,\N,70,"Animation,Drama,Family",65519
+tt0169547,movie,American Beauty,American Beauty,0,1999,\N,122,Drama,176658
+tt0159097,movie,The Virgin Suicides,The Virgin Suicides,0,1999,\N,97,"Drama,Romance",147695
+tt0159365,movie,Cold Mountain,Cold Mountain,0,2003,\N,154,"Adventure,Drama,History",148443
+tt0170016,movie,How the Grinch Stole Christmas,How the Grinch Stole Christmas,0,2000,\N,104,"Comedy,Family,Fantasy",173122
+tt0164912,movie,Stuart Little,Stuart Little,0,1999,\N,84,"Adventure,Comedy,Family",151527
+tt0167261,movie,The Lord of the Rings: The Two Towers,The Lord of the Rings: The Two Towers,0,2002,\N,179,"Adventure,Drama,Fantasy",159190
+tt0172495,movie,Gladiator,Gladiator,0,2000,\N,155,"Action,Adventure,Drama",160657
+tt0172156,movie,Bad Boys II,Bad Boys II,0,2003,\N,147,"Action,Comedy,Crime",159819
+tt0177789,movie,Galaxy Quest,Galaxy Quest,0,1999,\N,102,"Adventure,Comedy,Sci-Fi",161623
+tt0181875,movie,Almost Famous,Almost Famous,0,2000,\N,122,"Adventure,Comedy,Drama",165435
+tt0181689,movie,Minority Report,Minority Report,0,2002,\N,145,"Action,Crime,Mystery",167184
+tt0182576,tvSeries,Family Guy,Family Guy,0,1998,\N,22,"Animation,Comedy",188992
+tt0187738,movie,Blade II,Blade II,0,2002,\N,117,"Action,Horror,Sci-Fi",189850
+tt0190332,movie,"Crouching Tiger, Hidden Dragon",Wo hu cang long,0,2000,\N,120,"Action,Adventure,Fantasy",174727
+tt0200465,movie,The Bank Job,The Bank Job,0,2008,\N,111,"Crime,Drama,Romance",205610
+tt0183790,movie,A Knight's Tale,A Knight's Tale,0,2001,\N,132,"Action,Adventure,Romance",182433
+tt0207201,movie,What Women Want,What Women Want,0,2000,\N,127,"Comedy,Fantasy,Romance",192576
+tt0185906,tvMiniSeries,Band of Brothers,Band of Brothers,0,2001,2001,594,"Action,Drama,History",170616
+tt0209144,movie,Memento,Memento,0,2000,\N,113,"Mystery,Thriller",213676
+tt0187078,movie,Gone in Sixty Seconds,Gone in Sixty Seconds,0,2000,\N,118,"Action,Crime,Thriller",193204
+tt0210945,movie,Remember the Titans,Remember the Titans,0,2000,\N,113,"Biography,Drama,Sport",204621
+tt0187393,movie,The Patriot,The Patriot,0,2000,\N,165,"Action,Drama,History",189526
+tt0215750,movie,Enemy at the Gates,Enemy at the Gates,0,2001,\N,131,"Drama,History,War",206599
+tt0072890,movie,Dog Day Afternoon,Dog Day Afternoon,0,1975,\N,125,"Biography,Crime,Drama",13583
+tt0073486,movie,One Flew Over the Cuckoo's Nest,One Flew Over the Cuckoo's Nest,0,1975,\N,133,Drama,57670
+tt0234215,movie,The Matrix Reloaded,The Matrix Reloaded,0,2003,\N,138,"Action,Sci-Fi",219448
+tt0074285,movie,Carrie,Carrie,0,1976,\N,98,Horror,24017
+tt0242653,movie,The Matrix Revolutions,The Matrix Revolutions,0,2003,\N,129,"Action,Sci-Fi",227602
+tt0075314,movie,Taxi Driver,Taxi Driver,0,1976,\N,114,"Crime,Drama",105428
+tt0190138,movie,The Whole Nine Yards,The Whole Nine Yards,0,2000,\N,98,"Comedy,Crime",174552
+tt0250687,movie,Rat Race,Rat Race,0,2001,\N,112,"Adventure,Comedy",236791
+tt0075686,movie,Annie Hall,Annie Hall,0,1977,\N,93,"Comedy,Romance",105789
+tt0193676,tvSeries,Freaks and Geeks,Freaks and Geeks,0,1999,2000,44,"Comedy,Drama",183975
+tt0251127,movie,How to Lose a Guy in 10 Days,How to Lose a Guy in 10 Days,0,2003,\N,116,"Comedy,Romance",235673
+tt0075860,movie,Close Encounters of the Third Kind,Close Encounters of the Third Kind,0,1977,\N,138,"Drama,Sci-Fi",30923
+tt0196229,movie,Zoolander,Zoolander,0,2001,\N,90,Comedy,197766
+tt0251160,movie,John Q,John Q,0,2002,\N,116,"Crime,Drama,Thriller",235703
+tt0258463,movie,The Bourne Identity,The Bourne Identity,0,2002,\N,119,"Action,Mystery,Thriller",246786
+tt0208092,movie,Snatch,Snatch,0,2000,\N,104,"Comedy,Crime",191225
+tt0259446,movie,My Big Fat Greek Wedding,My Big Fat Greek Wedding,0,2002,\N,95,"Comedy,Drama,Romance",243639
+tt0265208,movie,The Girl Next Door,The Girl Next Door,0,2004,\N,109,"Comedy,Drama,Romance",267065
+tt0209163,movie,The Mummy Returns,The Mummy Returns,0,2001,\N,130,"Action,Adventure,Fantasy",213694
+tt0265459,movie,One Hour Photo,One Hour Photo,0,2002,\N,96,"Drama,Thriller",263711
+tt0266915,movie,Rush Hour 2,Rush Hour 2,0,2001,\N,90,"Action,Comedy,Crime",254856
+tt0272338,movie,Punch-Drunk Love,Punch-Drunk Love,0,2002,\N,95,"Comedy,Drama,Romance",255952
+tt0211915,movie,AmÃ©lie,Le fabuleux destin d'AmÃ©lie Poulain,0,2001,\N,122,"Comedy,Romance",200406
+tt0274558,movie,The Hours,The Hours,0,2002,\N,110,"Drama,Romance",268839
+tt0217505,movie,Gangs of New York,Gangs of New York,0,2002,\N,167,"Crime,Drama",221574
+tt0221027,movie,Blow,Blow,0,2001,\N,124,"Biography,Crime,Drama",206940
+tt0275847,movie,Lilo & Stitch,Lilo & Stitch,0,2002,\N,85,"Adventure,Animation,Comedy",263426
+tt0230600,movie,The Others,The Others,0,2001,\N,101,"Horror,Mystery,Thriller",233885
+tt0240772,movie,Ocean's Eleven,Ocean's Eleven,0,2001,\N,116,"Crime,Thriller",232943
+tt0276751,movie,About a Boy,About a Boy,0,2002,\N,101,"Comedy,Drama,Romance",260170
+tt0245429,movie,Spirited Away,Sen to Chihiro no kamikakushi,0,2001,\N,125,"Adventure,Animation,Family",234343
+tt0245574,movie,Y Tu MamÃ¡ TambiÃ©n,Y tu mamÃ¡ tambiÃ©n,0,2001,\N,106,"Adventure,Comedy,Drama",234480
+tt0277296,movie,The Scorpion King,The Scorpion King,0,2002,\N,92,"Action,Adventure,Fantasy",262219
+tt0277434,movie,We Were Soldiers,We Were Soldiers,0,2002,\N,138,"Action,Drama,History",262346
+tt0246460,movie,Die Another Day,Die Another Day,0,2002,\N,133,"Action,Adventure,Thriller",232756
+tt0285331,tvSeries,24,24,0,2001,2010,44,"Action,Crime,Drama",268394
+tt0246578,movie,Donnie Darko,Donnie Darko,0,2001,\N,113,"Drama,Sci-Fi,Thriller",231331
+tt0250494,movie,Legally Blonde,Legally Blonde,0,2001,\N,96,"Comedy,Romance",236610
+tt0289043,movie,28 Days Later...,28 Days Later...,0,2002,\N,113,"Drama,Horror,Sci-Fi",273485
+tt0251075,movie,Evolution,Evolution,0,2001,\N,101,"Comedy,Sci-Fi",235623
+tt0252866,movie,American Pie 2,American Pie 2,0,2001,\N,108,Comedy,251661
+tt0289765,movie,Red Dragon,Red Dragon,0,2002,\N,124,"Crime,Drama,Thriller",272651
+tt0253474,movie,The Pianist,The Pianist,0,2002,\N,150,"Biography,Drama,Music",248644
+tt0289879,movie,The Butterfly Effect,The Butterfly Effect,0,2004,\N,113,"Drama,Sci-Fi,Thriller",274295
+tt0296572,movie,The Chronicles of Riddick,The Chronicles of Riddick,0,2004,\N,119,"Action,Adventure,Sci-Fi",286346
+tt0257076,movie,S.W.A.T.,S.W.A.T.,0,2003,\N,117,"Action,Adventure,Crime",255697
+tt0301357,movie,Good Bye Lenin!,Good Bye Lenin!,0,2003,\N,121,"Comedy,Drama,Romance",287816
+tt0257360,movie,About Schmidt,About Schmidt,0,2002,\N,125,"Comedy,Drama",252383
+tt0305224,movie,Anger Management,Anger Management,0,2003,\N,106,Comedy,294554
+tt0258000,movie,Panic Room,Panic Room,0,2002,\N,112,"Crime,Drama,Thriller",249418
+tt0308644,movie,Finding Neverland,Finding Neverland,0,2004,\N,106,"Biography,Drama,Family",301415
+tt0259324,movie,Ghost Rider,Ghost Rider,0,2007,\N,114,"Action,Adventure,Fantasy",245059
+tt0312004,movie,The Curse of the Were-Rabbit,The Curse of the Were-Rabbit,0,2005,\N,85,"Adventure,Animation,Comedy",311827
+tt0314331,movie,Love Actually,Love Actually,0,2003,\N,135,"Comedy,Drama,Romance",300256
+tt0316654,movie,Spider-Man 2,Spider-Man 2,0,2004,\N,127,"Action,Adventure,Sci-Fi",312737
+tt0259711,movie,Vanilla Sky,Vanilla Sky,0,2001,\N,136,"Fantasy,Mystery,Romance",243884
+tt0317248,movie,City of God,Cidade de Deus,0,2002,\N,130,"Crime,Drama",309724
+tt0263488,movie,Jeepers Creepers,Jeepers Creepers,0,2001,\N,90,"Horror,Mystery",249036
+tt0317740,movie,The Italian Job,The Italian Job,0,2003,\N,111,"Action,Crime,Thriller",306615
+tt0264464,movie,Catch Me If You Can,Catch Me If You Can,0,2002,\N,141,"Biography,Crime,Drama",249979
+tt0319061,movie,Big Fish,Big Fish,0,2003,\N,125,"Adventure,Drama,Fantasy",302261
+tt0265086,movie,Black Hawk Down,Black Hawk Down,0,2001,\N,144,"Drama,History,War",266950
+tt0322259,movie,2 Fast 2 Furious,2 Fast 2 Furious,0,2003,\N,107,"Action,Crime,Thriller",310994
+tt0042192,movie,All About Eve,All About Eve,0,1950,\N,138,Drama,67593
+tt0325805,movie,Matchstick Men,Matchstick Men,0,2003,\N,116,"Comedy,Crime,Drama",318031
+tt0042876,movie,Rashomon,RashÃ´mon,0,1950,\N,88,"Crime,Drama,Mystery",94090
+tt0266308,movie,Battle Royale,Batoru rowaiaru,0,2000,\N,114,"Adventure,Drama,Sci-Fi",260934
+tt0327084,movie,Over the Hedge,Over the Hedge,0,2006,\N,83,"Adventure,Animation,Comedy",312605
+tt0044079,movie,Strangers on a Train,Strangers on a Train,0,1951,\N,101,"Crime,Film-Noir,Thriller",27349
+tt0266543,movie,Finding Nemo,Finding Nemo,0,2003,\N,100,"Adventure,Animation,Comedy",257577
+tt0332280,movie,The Notebook,The Notebook,0,2004,\N,123,"Drama,Romance",313544
+tt0045152,movie,Singin' in the Rain,Singin' in the Rain,0,1952,\N,103,"Comedy,Musical,Romance",78030
+tt0266697,movie,Kill Bill: Vol. 1,Kill Bill: Vol. 1,0,2003,\N,111,"Action,Crime,Thriller",257724
+tt0332452,movie,Troy,Troy,0,2004,\N,163,"Drama,History,Romance",315247
+tt0046912,movie,Dial M for Murder,Dial M for Murder,0,1954,\N,105,"Crime,Thriller",63507
+tt0337563,movie,13 Going on 30,13 Going on 30,0,2004,\N,98,"Comedy,Fantasy,Romance",336652
+tt0337741,movie,Something's Gotta Give,Something's Gotta Give,0,2003,\N,128,"Comedy,Drama,Romance",333236
+tt0047296,movie,On the Waterfront,On the Waterfront,0,1954,\N,108,"Crime,Drama,Thriller",64395
+tt0337978,movie,Live Free or Die Hard,Live Free or Die Hard,0,2007,\N,128,"Action,Adventure,Thriller",333458
+tt0338348,movie,The Polar Express,The Polar Express,0,2004,\N,100,"Adventure,Animation,Comedy",330225
+tt0047396,movie,Rear Window,Rear Window,0,1954,\N,112,"Mystery,Thriller",64493
+tt0339291,movie,A Series of Unfortunate Events,A Series of Unfortunate Events,0,2004,\N,108,"Adventure,Comedy,Family",324476
+tt0050083,movie,12 Angry Men,12 Angry Men,0,1957,\N,96,"Crime,Drama",107483
+tt0268380,movie,Ice Age,Ice Age,0,2002,\N,81,"Adventure,Animation,Comedy",252154
+tt0340163,movie,Hostage,Hostage,0,2005,\N,113,"Action,Crime,Drama",322764
+tt0050825,movie,Paths of Glory,Paths of Glory,0,1957,\N,88,"Drama,War",19350
+tt0268695,movie,The Time Machine,The Time Machine,0,2002,\N,96,"Action,Adventure,Sci-Fi",253994
+tt0343660,movie,50 First Dates,50 First Dates,0,2004,\N,99,"Comedy,Drama,Romance",331517
+tt0052618,movie,Ben-Hur,Ben-Hur,0,1959,\N,212,"Adventure,Drama,History",102884
+tt0268978,movie,A Beautiful Mind,A Beautiful Mind,0,2001,\N,135,"Biography,Drama",254265
+tt0343818,movie,"I, Robot","I, Robot",0,2004,\N,115,"Action,Crime,Drama",328601
+tt0053604,movie,The Apartment,The Apartment,0,1960,\N,125,"Comedy,Drama,Romance",43248
+tt0350258,movie,Ray,Ray,0,2004,\N,152,"Biography,Drama,Music",348699
+tt0056592,movie,To Kill a Mockingbird,To Kill a Mockingbird,0,1962,\N,129,"Crime,Drama",103181
+tt0277027,movie,I Am Sam,I Am Sam,0,2001,\N,132,Drama,260430
+tt0351283,movie,Madagascar,Madagascar,0,2005,\N,86,"Adventure,Animation,Comedy",342541
+tt0057076,movie,From Russia with Love,From Russia with Love,0,1963,\N,115,"Action,Adventure,Thriller",17463
+tt0356150,movie,EuroTrip,EuroTrip,0,2004,\N,92,Comedy,343710
+tt0280590,movie,Mr. Deeds,Mr. Deeds,0,2002,\N,96,"Comedy,Romance",265408
+tt0060196,movie,"The Good, the Bad and the Ugly","Il buono, il brutto, il cattivo",0,1966,\N,161,Western,85700
+tt0361748,movie,Inglourious Basterds,Inglourious Basterds,0,2009,\N,153,"Adventure,Drama,War",342016
+tt0362120,movie,Scary Movie 4,Scary Movie 4,0,2006,\N,83,Comedy,343914
+tt0362270,movie,The Life Aquatic with Steve Zissou,The Life Aquatic with Steve Zissou,0,2004,\N,119,"Action,Adventure,Comedy",344060
+tt0363163,movie,Downfall,Der Untergang,0,2004,\N,156,"Biography,Drama,History",361306
+tt0363988,movie,Secret Window,Secret Window,0,2004,\N,96,"Drama,Mystery,Thriller",354936
+tt0070511,movie,Papillon,Papillon,0,1973,\N,151,"Biography,Crime,Drama",49361
+tt0364845,tvSeries,NCIS,NCIS: Naval Criminal Investigative Service,0,2003,\N,60,"Action,Comedy,Crime",349121
+tt0071230,movie,Blazing Saddles,Blazing Saddles,0,1974,\N,93,"Comedy,Western",10547
+tt0366548,movie,Happy Feet,Happy Feet,0,2006,\N,108,"Adventure,Animation,Comedy",348185
+tt0071853,movie,Monty Python and the Holy Grail,Monty Python and the Holy Grail,0,1975,\N,91,"Adventure,Comedy,Fantasy",48767
+tt0281358,movie,A Walk to Remember,A Walk to Remember,0,2002,\N,101,"Drama,Romance",266149
+tt0368891,movie,National Treasure,National Treasure,0,2004,\N,131,"Action,Adventure,Family",356065
+tt0072431,movie,Young Frankenstein,Young Frankenstein,0,1974,\N,106,Comedy,90801
+tt0369441,movie,Fun with Dick and Jane,Fun with Dick and Jane,0,2005,\N,90,"Comedy,Crime",353521
+tt0285403,tvSeries,Scrubs,Scrubs,0,2001,2010,22,"Comedy,Drama",268463
+tt0073195,movie,Jaws,Jaws,0,1975,\N,124,"Adventure,Drama,Thriller",57388
+tt0370263,movie,AVP: Alien vs. Predator,AVP: Alien vs. Predator,0,2004,\N,101,"Action,Horror,Sci-Fi",350208
+tt0285823,movie,Once Upon a Time in Mexico,Once Upon a Time in Mexico,0,2003,\N,102,"Action,Thriller",270405
+tt0077402,movie,Dawn of the Dead,Dawn of the Dead,0,1978,\N,127,"Horror,Thriller",45227
+tt0372784,movie,Batman Begins,Batman Begins,0,2005,\N,140,"Action,Adventure,Thriller",359821
+tt0077631,movie,Grease,Grease,0,1978,\N,110,"Musical,Romance",45454
+tt0374900,movie,Napoleon Dynamite,Napoleon Dynamite,0,2004,\N,96,Comedy,356232
+tt0077975,movie,Animal House,Animal House,0,1978,\N,109,Comedy,93132
+tt0386676,tvSeries,The Office,The Office,0,2005,2013,22,Comedy,369945
+tt0286716,movie,Hulk,Hulk,0,2003,\N,138,"Action,Sci-Fi",284060
+tt0078748,movie,Alien,Alien,0,1979,\N,116,"Horror,Sci-Fi",23895
+tt0387564,movie,Saw,Saw,0,2004,\N,103,"Horror,Mystery,Thriller",366715
+tt0079417,movie,Kramer vs. Kramer,Kramer vs. Kramer,0,1979,\N,105,Drama,67031
+tt0290334,movie,X-Men 2,X2,0,2003,\N,134,"Action,Adventure,Sci-Fi",274720
+tt0391198,movie,The Grudge,The Grudge,0,2004,\N,91,"Horror,Mystery,Thriller",371811
+tt0080339,movie,Airplane!,Airplane!,0,1980,\N,88,Comedy,42167
+tt0080684,movie,Star Wars: Episode V - The Empire Strikes Back,Star Wars: Episode V - The Empire Strikes Back,0,1980,\N,124,"Action,Adventure,Fantasy",93708
+tt0081505,movie,The Shining,The Shining,0,1980,\N,146,"Drama,Horror",28614
+tt0393162,movie,Coach Carter,Coach Carter,0,2005,\N,136,"Biography,Drama,Sport",386519
+tt0082096,movie,Das Boot,Das Boot,0,1981,\N,149,"Adventure,Drama,Thriller",75772
+tt0395169,movie,Hotel Rwanda,Hotel Rwanda,0,2004,\N,121,"Biography,Drama,History",378179
+tt0082971,movie,Raiders of the Lost Ark,Raiders of the Lost Ark,0,1981,\N,115,"Action,Adventure",58826
+tt0396171,movie,Perfume: The Story of a Murderer,Perfume: The Story of a Murderer,0,2006,\N,147,"Crime,Drama,Fantasy",375064
+tt0295701,movie,xXx,xXx,0,2002,\N,124,"Action,Adventure,Thriller",292663
+tt0083658,movie,Blade Runner,Blade Runner,0,1982,\N,117,"Sci-Fi,Thriller",111470
+tt0396269,movie,Wedding Crashers,Wedding Crashers,0,2005,\N,119,"Comedy,Romance",376698
+tt0083866,movie,E.T. The Extra-Terrestrial,E.T. the Extra-Terrestrial,0,1982,\N,115,"Family,Sci-Fi",41631
+tt0298148,movie,Shrek 2,Shrek 2,0,2004,\N,93,"Adventure,Animation,Comedy",280676
+tt0398286,movie,Tangled,Tangled,0,2010,\N,100,"Adventure,Animation,Comedy",387887
+tt0083944,movie,First Blood,First Blood,0,1982,\N,93,"Action,Adventure",41707
+tt0298203,movie,8 Mile,8 Mile,0,2002,\N,110,"Drama,Music",280727
+tt0399146,movie,A History of Violence,A History of Violence,0,2005,\N,96,"Drama,Thriller",382074
+tt0085334,movie,A Christmas Story,A Christmas Story,0,1983,\N,94,"Comedy,Family",84404
+tt0086190,movie,Star Wars: Episode VI - Return of the Jedi,Star Wars: Episode VI - Return of the Jedi,0,1983,\N,131,"Action,Adventure,Fantasy",29701
+tt0399201,movie,The Island,The Island,0,2005,\N,136,"Action,Adventure,Mystery",382129
+tt0304141,movie,Harry Potter and the Prisoner of Azkaban,Harry Potter and the Prisoner of Azkaban,0,2004,\N,142,"Adventure,Family,Fantasy",300678
+tt0087538,movie,The Karate Kid,The Karate Kid,0,1984,\N,126,"Action,Drama,Family",79898
+tt0399295,movie,Lord of War,Lord of War,0,2005,\N,122,"Crime,Drama,Thriller",382220
+tt0307453,movie,Shark Tale,Shark Tale,0,2004,\N,90,"Adventure,Animation,Comedy",291052
+tt0088258,movie,This Is Spinal Tap,This Is Spinal Tap,0,1984,\N,82,"Comedy,Music",24947
+tt0401729,movie,John Carter,John Carter,0,2012,\N,132,"Action,Adventure,Sci-Fi",394835
+tt0088323,movie,The NeverEnding Story,Die unendliche Geschichte,0,1984,\N,102,"Adventure,Drama,Family",26032
+tt0089530,movie,Mad Max Beyond Thunderdome,Mad Max Beyond Thunderdome,0,1985,\N,107,"Action,Adventure,Sci-Fi",88490
+tt0402022,movie,Ã†on Flux,Ã†on Flux,0,2005,\N,93,"Action,Adventure,Drama",391539
+tt0089880,movie,Rambo: First Blood Part II,Rambo: First Blood Part II,0,1985,\N,96,"Action,Adventure,Thriller",89861
+tt0090605,movie,Aliens,Aliens,0,1986,\N,137,"Action,Adventure,Sci-Fi",100968
+tt0404032,movie,The Exorcism of Emily Rose,The Exorcism of Emily Rose,0,2005,\N,119,"Drama,Horror,Thriller",384286
+tt0091369,movie,Labyrinth,Labyrinth,0,1986,\N,101,"Adventure,Family,Fantasy",48304
+tt0307901,movie,25th Hour,25th Hour,0,2002,\N,135,Drama,307867
+tt0407304,movie,War of the Worlds,War of the Worlds,0,2005,\N,116,"Adventure,Sci-Fi,Thriller",390030
+tt0093894,movie,The Running Man,The Running Man,0,1987,\N,101,"Action,Sci-Fi,Thriller",39636
+tt0410297,movie,The Lake House,The Lake House,0,2006,\N,99,"Drama,Fantasy,Romance",403185
+tt0309698,movie,Identity,Identity,0,2003,\N,90,"Mystery,Thriller",295775
+tt0094625,movie,Akira,Akira,0,1988,\N,124,"Action,Animation,Drama",1451
+tt0413300,movie,Spider-Man 3,Spider-Man 3,0,2007,\N,139,"Action,Adventure,Sci-Fi",393329
+tt0310793,movie,Bowling for Columbine,Bowling for Columbine,0,2002,\N,120,"Crime,Documentary,Drama",292740
+tt0095159,movie,A Fish Called Wanda,A Fish Called Wanda,0,1988,\N,108,"Comedy,Crime",68672
+tt0414993,movie,The Fountain,The Fountain,0,2006,\N,96,"Drama,Sci-Fi",404180
+tt0095327,movie,Grave of the Fireflies,Hotaru no haka,0,1988,\N,89,"Animation,Drama,War",31973
+tt0417299,tvSeries,Avatar: The Last Airbender,Avatar: The Last Airbender,0,2003,2008,23,"Action,Adventure,Animation",397202
+tt0311113,movie,Master and Commander: The Far Side of the World,Master and Commander: The Far Side of the World,0,2003,\N,138,"Action,Adventure,Drama",293049
+tt0096438,movie,Who Framed Roger Rabbit,Who Framed Roger Rabbit,0,1988,\N,104,"Adventure,Animation,Comedy",67360
+tt0417741,movie,Harry Potter and the Half-Blood Prince,Harry Potter and the Half-Blood Prince,0,2009,\N,153,"Adventure,Family,Fantasy",397637
+tt0096697,tvSeries,The Simpsons,The Simpsons,0,1989,\N,22,"Animation,Comedy",68124
+tt0315327,movie,Bruce Almighty,Bruce Almighty,0,2003,\N,101,"Comedy,Drama,Fantasy",297117
+tt0425061,movie,Get Smart,Get Smart,0,2008,\N,110,"Action,Adventure,Comedy",404794
+tt0097165,movie,Dead Poets Society,Dead Poets Society,0,1989,\N,128,"Comedy,Drama",34640
+tt0427944,movie,Thank You for Smoking,Thank You for Smoking,0,2005,\N,92,"Comedy,Drama",413244
+tt0097428,movie,Ghostbusters II,Ghostbusters II,0,1989,\N,108,"Action,Comedy,Fantasy",6489
+tt0435761,movie,Toy Story 3,Toy Story 3,0,2010,\N,103,"Adventure,Animation,Comedy",424444
+tt0097441,movie,Glory,Glory,0,1989,\N,122,"Biography,Drama,History",6502
+tt0448157,movie,Hancock,Hancock,0,2008,\N,92,"Action,Drama,Fantasy",440095
+tt0317919,movie,Mission: Impossible III,Mission: Impossible III,0,2006,\N,126,"Action,Adventure,Thriller",306787
+tt0449010,movie,Eragon,Eragon,0,2006,\N,104,"Action,Adventure,Family",433763
+tt0097523,movie,"Honey, I Shrunk the Kids","Honey, I Shrunk the Kids",0,1989,\N,93,"Adventure,Comedy,Family",6584
+tt0319262,movie,The Day After Tomorrow,The Day After Tomorrow,0,2004,\N,124,"Action,Adventure,Sci-Fi",300920
+tt0450259,movie,Blood Diamond,Blood Diamond,0,2006,\N,143,"Adventure,Drama,Thriller",429344
+tt0097576,movie,Indiana Jones and the Last Crusade,Indiana Jones and the Last Crusade,0,1989,\N,127,"Action,Adventure,Fantasy",6637
+tt0322330,movie,Freaky Friday,Freaky Friday,0,2003,\N,97,"Comedy,Family,Fantasy",311064
+tt0451279,movie,Wonder Woman,Wonder Woman,0,2017,\N,141,"Action,Adventure,Fantasy",430327
+tt0097958,movie,National Lampoon's Christmas Vacation,National Lampoon's Christmas Vacation,0,1989,\N,97,Comedy,81372
+tt0452694,movie,The Time Traveler's Wife,The Time Traveler's Wife,0,2009,\N,107,"Drama,Fantasy,Romance",440920
+tt0099938,movie,Kindergarten Cop,Kindergarten Cop,0,1990,\N,111,"Comedy,Crime",7532
+tt0327056,movie,Mystic River,Mystic River,0,2003,\N,138,"Crime,Drama,Mystery",312577
+tt0453451,movie,Mr. Bean's Holiday,Mr. Bean's Holiday,0,2007,\N,90,"Comedy,Family",438072
+tt0100814,movie,Tremors,Tremors,0,1990,\N,96,"Comedy,Horror",71622
+tt0327597,movie,Coraline,Coraline,0,2009,\N,100,"Animation,Drama,Fantasy",310539
+tt0453467,movie,Deja Vu,Deja Vu,0,2006,\N,126,"Action,Crime,Sci-Fi",438086
+tt0102798,movie,Robin Hood: Prince of Thieves,Robin Hood: Prince of Thieves,0,1991,\N,143,"Action,Adventure,Drama",10084
+tt0328107,movie,Man on Fire,Man on Fire,0,2004,\N,146,"Action,Crime,Drama",309495
+tt0454848,movie,Inside Man,Inside Man,0,2006,\N,129,"Crime,Drama,Mystery",432266
+tt0104691,movie,The Last of the Mohicans,The Last of the Mohicans,0,1992,\N,112,"Action,Adventure,Drama",115130
+tt0454945,movie,She's the Man,She's the Man,0,2006,\N,105,"Comedy,Romance,Sport",432357
+tt0104714,movie,Lethal Weapon 3,Lethal Weapon 3,0,1992,\N,118,"Action,Crime,Thriller",115153
+tt0455590,movie,The Last King of Scotland,The Last King of Scotland,0,2006,\N,123,"Biography,Drama,History",450912
+tt0105323,movie,Scent of a Woman,Scent of a Woman,0,1992,\N,156,Drama,99613
+tt0328828,movie,American Wedding,American Wedding,0,2003,\N,96,Comedy,328106
+tt0105695,movie,Unforgiven,Unforgiven,0,1992,\N,130,"Drama,Western",77315
+tt0458481,movie,Sin City: A Dame to Kill For,Sin City: A Dame to Kill For,0,2014,\N,102,"Crime,Thriller",437342
+tt0330793,movie,The Punisher,The Punisher,0,2004,\N,124,"Action,Adventure,Crime",319270
+tt0462499,movie,Rambo,Rambo,0,2008,\N,92,"Action,Thriller,War",441267
+tt0106179,tvSeries,The X-Files,The X Files,0,1993,\N,45,"Drama,Mystery,Sci-Fi",78302
+tt0106582,movie,Cliffhanger,Cliffhanger,0,1993,\N,113,"Action,Adventure,Thriller",61679
+tt0106918,movie,The Firm,The Firm,0,1993,\N,154,"Drama,Mystery,Thriller",52402
+tt0462590,movie,Step Up,Step Up,0,2006,\N,104,"Crime,Drama,Music",441351
+tt0107048,movie,Groundhog Day,Groundhog Day,0,1993,\N,101,"Comedy,Fantasy,Romance",52530
+tt0107290,movie,Jurassic Park,Jurassic Park,0,1993,\N,127,"Adventure,Sci-Fi,Thriller",45731
+tt0467406,movie,Juno,Juno,0,2007,\N,96,"Comedy,Drama",444498
+tt0107362,movie,Last Action Hero,Last Action Hero,0,1993,\N,130,"Action,Adventure,Comedy",45801
+tt0332379,movie,School of Rock,The School of Rock,0,2003,\N,108,"Comedy,Music",313639
+tt0470752,movie,Ex Machina,Ex Machina,0,2014,\N,108,"Drama,Mystery,Sci-Fi",451866
+tt0109830,movie,Forrest Gump,Forrest Gump,0,1994,\N,142,"Drama,Romance",116177
+tt0472033,movie,9,9,0,2009,\N,79,"Action,Adventure,Animation",450555
+tt0333766,movie,Garden State,Garden State,0,2004,\N,102,"Comedy,Drama,Romance",329342
+tt0110322,movie,Legends of the Fall,Legends of the Fall,0,1994,\N,133,"Drama,Romance,War",104900
+tt0472043,movie,Apocalypto,Apocalypto,0,2006,\N,139,"Action,Adventure,Drama",450565
+tt0335345,movie,The Passion of the Christ,The Passion of the Christ,0,2004,\N,127,Drama,320653
+tt0110413,movie,LÃ©on: The Professional,LÃ©on,0,1994,\N,110,"Crime,Drama,Thriller",79237
+tt0472399,movie,The Mechanic,The Mechanic,0,2011,\N,93,"Action,Crime,Thriller",467308
+tt0111161,movie,The Shawshank Redemption,The Shawshank Redemption,0,1994,\N,142,Drama,65266
+tt0473075,movie,Prince of Persia: The Sands of Time,Prince of Persia: The Sands of Time,0,2010,\N,116,"Action,Adventure,Fantasy",464637
+tt0338013,movie,Eternal Sunshine of the Spotless Mind,Eternal Sunshine of the Spotless Mind,0,2004,\N,108,"Drama,Romance,Sci-Fi",333489
+tt0111257,movie,Speed,Speed,0,1994,\N,116,"Action,Adventure,Crime",65359
+tt0473705,movie,State of Play,State of Play,0,2009,\N,127,"Crime,Drama,Mystery",461412
+tt0112641,movie,Casino,Casino,0,1995,\N,178,"Crime,Drama",46355
+tt0340855,movie,Monster,Monster,0,2003,\N,109,"Biography,Crime,Drama",321730
+tt0478304,movie,The Tree of Life,The Tree of Life,0,2011,\N,139,"Drama,Fantasy",463182
+tt0112642,movie,Casper,Casper,0,1995,\N,100,"Comedy,Family,Fantasy",46356
+tt0112697,movie,Clueless,Clueless,0,1995,\N,97,"Comedy,Romance",46410
+tt0479884,movie,Crank,Crank,0,2006,\N,88,"Action,Crime,Thriller",459730
+tt0112864,movie,Die Hard with a Vengeance,Die Hard with a Vengeance,0,1995,\N,128,"Action,Adventure,Thriller",46572
+tt0113497,movie,Jumanji,Jumanji,0,1995,\N,104,"Adventure,Family,Fantasy",123736
+tt0480687,movie,Hall Pass,Hall Pass,0,2011,\N,105,"Comedy,Romance",475284
+tt0114369,movie,Se7en,Se7en,0,1995,\N,127,"Crime,Drama,Mystery",116875
+tt0348150,movie,Superman Returns,Superman Returns,0,2006,\N,154,"Action,Adventure",332827
+tt0485947,movie,Mr. Nobody,Mr. Nobody,0,2009,\N,141,"Drama,Fantasy,Romance",472713
+tt0116367,movie,From Dusk Till Dawn,From Dusk Till Dawn,0,1996,\N,108,"Action,Crime,Horror",60589
+tt0496806,movie,Ocean's Thirteen,Ocean's Thirteen,0,2007,\N,122,"Crime,Thriller",467095
+tt0349903,movie,Ocean's Twelve,Ocean's Twelve,0,2004,\N,125,"Crime,Thriller",331968
+tt0116583,movie,The Hunchback of Notre Dame,The Hunchback of Notre Dame,0,1996,\N,91,"Animation,Drama,Family",60795
+tt0499448,movie,The Chronicles of Narnia: Prince Caspian,The Chronicles of Narnia: Prince Caspian,0,2008,\N,150,"Action,Adventure,Family",478196
+tt0360486,movie,Constantine,Constantine,0,2005,\N,121,"Action,Fantasy,Horror",347964
+tt0117509,movie,Romeo + Juliet,Romeo + Juliet,0,1996,\N,120,"Drama,Romance",127607
+tt0756683,movie,The Man from Earth,The Man from Earth,0,2007,\N,87,"Drama,Fantasy,Sci-Fi",735944
+tt0117571,movie,Scream,Scream,0,1996,\N,111,"Horror,Mystery",127664
+tt0758758,movie,Into the Wild,Into the Wild,0,2007,\N,148,"Adventure,Biography,Drama",732330
+tt0117731,movie,Star Trek: First Contact,Star Trek: First Contact,0,1996,\N,111,"Action,Adventure,Drama",127818
+tt0362227,movie,The Terminal,The Terminal,0,2004,\N,128,"Comedy,Drama,Romance",344018
+tt0780536,movie,In Bruges,In Bruges,0,2008,\N,107,"Comedy,Crime,Drama",769790
+tt0117951,movie,Trainspotting,Trainspotting,0,1996,\N,93,Drama,124064
+tt0780571,movie,Mr. Brooks,Mr. Brooks,0,2007,\N,120,"Crime,Drama,Thriller",769819
+tt0363771,movie,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe","The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",0,2005,\N,143,"Adventure,Family,Fantasy",354726
+tt0118276,tvSeries,Buffy the Vampire Slayer,Buffy the Vampire Slayer,0,1996,2003,44,"Action,Drama,Fantasy",124370
+tt0795176,tvMiniSeries,Planet Earth,Planet Earth,0,2006,2006,533,Documentary,770171
+tt0365737,movie,Syriana,Syriana,0,2005,\N,128,"Drama,Thriller",347408
+tt0118655,movie,Austin Powers: International Man of Mystery,Austin Powers: International Man of Mystery,0,1997,\N,94,"Adventure,Comedy",121032
+tt0800039,movie,Forgetting Sarah Marshall,Forgetting Sarah Marshall,0,2008,\N,111,"Comedy,Drama,Romance",772324
+tt0118688,movie,Batman & Robin,Batman & Robin,0,1997,\N,125,"Action,Sci-Fi",121064
+tt0800320,movie,Clash of the Titans,Clash of the Titans,0,2010,\N,106,"Action,Adventure,Fantasy",771047
+tt0369179,tvSeries,Two and a Half Men,Two and a Half Men,0,2003,2015,22,"Comedy,Romance",353269
+tt0118715,movie,The Big Lebowski,The Big Lebowski,0,1998,\N,117,"Comedy,Crime",121090
+tt0816442,movie,The Book Thief,The Book Thief,0,2013,\N,131,"Drama,War",790821
+tt0369339,movie,Collateral,Collateral,0,2004,\N,120,"Crime,Drama,Thriller",353425
+tt0118749,movie,Boogie Nights,Boogie Nights,0,1997,\N,155,Drama,121122
+tt0825232,movie,The Bucket List,The Bucket List,0,2007,\N,97,"Adventure,Comedy,Drama",796819
+tt0371746,movie,Iron Man,Iron Man,0,2008,\N,126,"Action,Adventure,Sci-Fi",365992
+tt0118884,movie,Contact,Contact,0,1997,\N,150,"Drama,Mystery,Sci-Fi",117505
+tt0838221,movie,The Darjeeling Limited,The Darjeeling Limited,0,2007,\N,91,"Adventure,Comedy,Drama",809293
+tt0118971,movie,The Devil's Advocate,The Devil's Advocate,0,1997,\N,144,"Drama,Mystery,Thriller",117589
+tt0844441,tvSeries,True Blood,True Blood,0,2008,2014,55,"Drama,Fantasy,Mystery",828105
+tt0372588,movie,Team America: World Police,Team America: World Police,0,2004,\N,98,"Action,Comedy",363220
+tt0119282,movie,Hercules,Hercules,0,1997,\N,93,"Adventure,Animation,Comedy",117886
+tt0848228,movie,The Avengers,The Avengers,0,2012,\N,143,"Action,Adventure,Sci-Fi",835366
+tt0119654,movie,Men in Black,Men in Black,0,1997,\N,98,"Adventure,Comedy,Mystery",112901
+tt0375679,movie,Crash,Crash,0,2004,\N,112,"Crime,Drama,Thriller",373373
+tt0876563,movie,Ponyo,Gake no ue no Ponyo,0,2008,\N,101,"Adventure,Animation,Comedy",844928
+tt0120201,movie,Starship Troopers,Starship Troopers,0,1997,\N,129,"Action,Adventure,Sci-Fi",96133
+tt0120363,movie,Toy Story 2,Toy Story 2,0,1999,\N,92,"Adventure,Animation,Comedy",98848
+tt0889583,movie,BrÃ¼no,BrÃ¼no,0,2009,\N,81,Comedy,859082
+tt0120382,movie,The Truman Show,The Truman Show,0,1998,\N,103,"Comedy,Drama,Sci-Fi",98867
+tt0120587,movie,Antz,Antz,0,1998,\N,83,"Adventure,Animation,Comedy",78442
+tt0892769,movie,How to Train Your Dragon,How to Train Your Dragon,0,2010,\N,98,"Action,Adventure,Animation",862141
+tt0120611,movie,Blade,Blade,0,1998,\N,120,"Action,Horror,Sci-Fi",78462
+tt0898367,movie,The Road,The Road,0,2009,\N,111,"Adventure,Drama",867495
+tt0903747,tvSeries,Breaking Bad,Breaking Bad,0,2008,2013,49,"Crime,Drama,Thriller",885464
+tt0120616,movie,The Mummy,The Mummy,0,1999,\N,124,"Action,Adventure,Fantasy",78466
+tt0918927,movie,Doubt,Doubt,0,2008,\N,104,"Drama,Mystery",885659
+tt0120630,movie,Chicken Run,Chicken Run,0,2000,\N,84,"Adventure,Animation,Comedy",78478
+tt0944835,movie,Salt,Salt,0,2010,\N,100,"Action,Mystery,Thriller",912489
+tt0120657,movie,The 13th Warrior,The 13th Warrior,0,1999,\N,102,"Action,Adventure,History",78497
+tt0947810,movie,Green Zone,Green Zone,0,2010,\N,115,"Action,Drama,Thriller",915336
+tt0120735,movie,"Lock, Stock and Two Smoking Barrels","Lock, Stock and Two Smoking Barrels",0,1998,\N,107,"Comedy,Crime",78559
+tt0949731,movie,The Happening,The Happening,0,2008,\N,91,"Mystery,Sci-Fi,Thriller",933591
+tt0120744,movie,The Man in the Iron Mask,The Man in the Iron Mask,0,1998,\N,132,"Action,Adventure,Drama",78566
+tt0970179,movie,Hugo,Hugo,0,2011,\N,126,"Adventure,Drama,Family",936984
+tt0120762,movie,Mulan,Mulan,0,1998,\N,88,"Adventure,Animation,Family",78581
+tt0376541,movie,Closer,Closer,0,2004,\N,104,"Drama,Romance",367045
+tt0970416,movie,The Day the Earth Stood Still,The Day the Earth Stood Still,0,2008,\N,104,"Drama,Sci-Fi,Thriller",937214
+tt0120812,movie,Rush Hour,Rush Hour,0,1998,\N,98,"Action,Comedy,Crime",78622
+tt0974015,movie,Justice League,Justice League,0,2017,\N,120,"Action,Adventure,Fantasy",939153
+tt0377092,movie,Mean Girls,Mean Girls,0,2004,\N,97,Comedy,363997
+tt0120863,movie,The Thin Red Line,The Thin Red Line,0,1998,\N,170,"Drama,War",78657
+tt0978762,movie,Mary and Max,Mary and Max,0,2009,\N,92,"Animation,Comedy,Drama",945239
+tt0980970,movie,The Chronicles of Narnia: The Voyage of the Dawn Treader,The Chronicles of Narnia: The Voyage of the Dawn Treader,0,2010,\N,113,"Adventure,Family,Fantasy",953012
+tt0985699,movie,Valkyrie,Valkyrie,0,2008,\N,121,"Drama,History,Thriller",954533
+tt0120888,movie,The Wedding Singer,The Wedding Singer,0,1998,\N,100,"Comedy,Music,Romance",78679
+tt0986264,movie,Like Stars on Earth,Taare Zameen Par,0,2007,\N,165,"Drama,Family",952518
+tt0120891,movie,Wild Wild West,Wild Wild West,0,1999,\N,106,"Action,Comedy,Sci-Fi",78682
+tt0988595,movie,27 Dresses,27 Dresses,0,2008,\N,111,"Comedy,Romance",964016
+tt0123755,movie,Cube,Cube,0,1997,\N,90,"Drama,Mystery,Sci-Fi",121995
+tt0381849,movie,3:10 to Yuma,3:10 to Yuma,0,2007,\N,122,"Action,Crime,Drama",365554
+tt1001508,movie,He's Just Not That Into You,He's Just Not That Into You,0,2009,\N,129,"Comedy,Drama,Romance",976584
+tt0077651,movie,Halloween,Halloween,0,1978,\N,91,"Horror,Thriller",45474
+tt0128853,movie,You've Got Mail,You've Got Mail,0,1998,\N,119,"Comedy,Drama,Romance",118876
+tt1022603,movie,500 Days of Summer,(500) Days of Summer,0,2009,\N,95,"Comedy,Drama,Romance",992721
+tt0382932,movie,Ratatouille,Ratatouille,0,2007,\N,111,"Adventure,Animation,Comedy",362511
+tt0133152,movie,Planet of the Apes,Planet of the Apes,0,2001,\N,119,"Action,Adventure,Sci-Fi",122962
+tt1034032,movie,Gamer,Gamer,0,2009,\N,95,"Action,Sci-Fi,Thriller",1011211
+tt0134084,movie,Scream 3,Scream 3,0,2000,\N,116,"Horror,Mystery",122204
+tt0140352,movie,The Insider,The Insider,0,1999,\N,157,"Biography,Drama,Thriller",141415
+tt1038988,movie,[Rec],[Rec],0,2007,\N,78,"Horror,Mystery,Thriller",1012195
+tt0142688,movie,The Ninth Gate,The Ninth Gate,0,1999,\N,133,"Mystery,Thriller",130321
+tt1045658,movie,Silver Linings Playbook,Silver Linings Playbook,0,2012,\N,122,"Comedy,Drama,Romance",1005317
+tt0144117,movie,The Boondock Saints,The Boondock Saints,0,1999,\N,108,"Action,Crime,Thriller",148703
+tt0385752,movie,The Golden Compass,The Golden Compass,0,2007,\N,113,"Adventure,Family,Fantasy",372121
+tt0146316,movie,Lara Croft: Tomb Raider,Lara Croft: Tomb Raider,0,2001,\N,100,"Action,Adventure,Fantasy",135435
+tt1059786,movie,Eagle Eye,Eagle Eye,0,2008,\N,118,"Action,Mystery,Thriller",1035904
+tt0386588,movie,Hitch,Hitch,0,2005,\N,118,"Comedy,Romance",369858
+tt0151804,movie,Office Space,Office Space,0,1999,\N,89,Comedy,139184
+tt1067583,movie,Water for Elephants,Water for Elephants,0,2011,\N,120,"Drama,Romance",1026529
+tt0387131,movie,The Constant Gardener,The Constant Gardener,0,2005,\N,129,"Drama,Mystery,Romance",367826
+tt0161081,movie,What Lies Beneath,What Lies Beneath,0,2000,\N,130,"Drama,Fantasy,Horror",168797
+tt1077258,movie,Planet Terror,Planet Terror,0,2007,\N,105,"Action,Comedy,Horror",1049029
+tt0163651,movie,American Pie,American Pie,0,1999,\N,95,Comedy,151911
+tt1080016,movie,Ice Age: Dawn of the Dinosaurs,Ice Age: Dawn of the Dinosaurs,0,2009,\N,94,"Action,Adventure,Animation",1036462
+tt0163978,movie,The Beach,The Beach,0,2000,\N,119,"Adventure,Drama,Romance",150034
+tt1091722,movie,Adventureland,Adventureland,0,2009,\N,107,"Comedy,Drama,Romance",1051259
+tt0389860,movie,Click,Click,0,2006,\N,107,"Comedy,Drama,Fantasy",379715
+tt0165598,tvSeries,That '70s Show,That '70s Show,0,1998,2006,22,"Comedy,Romance",169034
+tt1092026,movie,Paul,Paul,0,2011,\N,104,"Adventure,Comedy,Sci-Fi",1052065
+tt0397065,movie,House of Wax,House of Wax,0,2005,\N,108,"Horror,Mystery,Thriller",393859
+tt0167260,movie,The Lord of the Rings: The Return of the King,The Lord of the Rings: The Return of the King,0,2003,\N,201,"Action,Adventure,Drama",159189
+tt1100089,movie,Foxcatcher,Foxcatcher,0,2014,\N,134,"Biography,Drama,Sport",1059333
+tt0167404,movie,The Sixth Sense,The Sixth Sense,0,1999,\N,107,"Drama,Mystery,Thriller",159322
+tt0172493,movie,"Girl, Interrupted","Girl, Interrupted",0,1999,\N,127,"Biography,Drama",160655
+tt1119644,tvSeries,Fringe,Fringe,0,2008,2013,46,"Drama,Mystery,Sci-Fi",1096859
+tt0175880,movie,Magnolia,Magnolia,0,1999,\N,188,Drama,167351
+tt0177971,movie,The Perfect Storm,The Perfect Storm,0,2000,\N,130,"Action,Adventure,Drama",184703
+tt1120985,movie,Blue Valentine,Blue Valentine,0,2010,\N,112,"Drama,Romance",1090336
+tt0181865,movie,Traffic,Traffic,0,2000,\N,147,"Crime,Drama,Thriller",165425
+tt1131734,movie,Jennifer's Body,Jennifer's Body,0,2009,\N,102,"Comedy,Horror",1086562
+tt0397442,tvSeries,Gossip Girl,Gossip Girl,0,2007,2012,42,"Drama,Romance",390641
+tt0185937,movie,The Blair Witch Project,The Blair Witch Project,0,1999,\N,81,"Horror,Mystery",170646
+tt1132620,movie,The Girl with the Dragon Tattoo,MÃ¤n som hatar kvinnor,0,2009,\N,152,"Crime,Drama,Mystery",1108953
+tt0195685,movie,Erin Brockovich,Erin Brockovich,0,2000,\N,131,"Biography,Drama",201186
+tt0397892,movie,Bolt,Bolt,0,2008,\N,96,"Adventure,Animation,Comedy",387501
+tt1148204,movie,Orphan,Orphan,0,2009,\N,123,"Horror,Mystery,Thriller",1104555
+tt0195714,movie,Final Destination,Final Destination,0,2000,\N,98,"Horror,Thriller",201213
+tt0398808,movie,Bridge to Terabithia,Bridge to Terabithia,0,2007,\N,96,"Adventure,Drama,Family",384816
+tt1156398,movie,Zombieland,Zombieland,0,2009,\N,88,"Adventure,Comedy,Horror",1116463
+tt0198781,movie,"Monsters, Inc.","Monsters, Inc.",0,2001,\N,92,"Adventure,Animation,Comedy",185304
+tt0206634,movie,Children of Men,Children of Men,0,2006,\N,109,"Drama,Sci-Fi,Thriller",195990
+tt1190080,movie,2012,2012,0,2009,\N,158,"Action,Adventure,Sci-Fi",1152668
+tt0405094,movie,The Lives of Others,Das Leben der Anderen,0,2006,\N,137,"Drama,Thriller",385314
+tt0212346,movie,Miss Congeniality,Miss Congeniality,0,2000,\N,109,"Action,Comedy,Crime",199271
+tt1192628,movie,Rango,Rango,0,2011,\N,107,"Adventure,Animation,Comedy",1166540
+tt0408236,movie,Sweeney Todd: The Demon Barber of Fleet Street,Sweeney Todd: The Demon Barber of Fleet Street,0,2007,\N,116,"Drama,Horror,Musical",388374
+tt0212671,tvSeries,Malcolm in the Middle,Malcolm in the Middle,0,2000,2006,22,"Comedy,Family",200607
+tt1205489,movie,Gran Torino,Gran Torino,0,2008,\N,116,Drama,1178882
+tt0408790,movie,Flightplan,Flightplan,0,2005,\N,98,"Mystery,Thriller",387370
+tt0213149,movie,Pearl Harbor,Pearl Harbor,0,2001,\N,183,"Action,Drama,History",217451
+tt1210166,movie,Moneyball,Moneyball,0,2011,\N,133,"Biography,Drama,Sport",1179434
+tt0217869,movie,Unbreakable,Unbreakable,0,2000,\N,106,"Drama,Mystery,Sci-Fi",221923
+tt1210819,movie,The Lone Ranger,The Lone Ranger,0,2013,\N,150,"Action,Adventure,Western",1176322
+tt0223897,movie,Pay It Forward,Pay It Forward,0,2000,\N,123,Drama,216760
+tt1228705,movie,Iron Man 2,Iron Man 2,0,2010,\N,124,"Action,Sci-Fi",1185742
+tt0227445,movie,The Score,The Score,0,2001,\N,124,"Crime,Drama,Thriller",223732
+tt0413099,movie,Evan Almighty,Evan Almighty,0,2007,\N,96,"Comedy,Family,Fantasy",393130
+tt1250777,movie,Kick-Ass,Kick-Ass,0,2010,\N,117,"Action,Comedy",1202844
+tt0241303,movie,Chocolat,Chocolat,0,2000,\N,121,"Drama,Romance",230387
+tt1253863,movie,300: Rise of an Empire,300: Rise of an Empire,0,2014,\N,102,"Action,Fantasy,War",1213699
+tt0415306,movie,Talladega Nights: The Ballad of Ricky Bobby,Talladega Nights: The Ballad of Ricky Bobby,0,2006,\N,108,"Comedy,Sport",400898
+tt0242423,movie,"Dude, Where's My Car?","Dude, Where's My Car?",0,2000,\N,83,"Comedy,Mystery,Sci-Fi",227381
+tt1253864,movie,Immortals,Immortals,0,2011,\N,110,"Action,Drama,Fantasy",1213700
+tt1266020,tvSeries,Parks and Recreation,Parks and Recreation,0,2009,2015,22,Comedy,1232835
+tt0243155,movie,Bridget Jones's Diary,Bridget Jones's Diary,0,2001,\N,97,"Comedy,Drama,Romance",229617
+tt1270797,movie,Venom,Venom,0,2018,\N,112,"Action,Sci-Fi",1233649
+tt1270798,movie,X-Men: First Class,X: First Class,0,2011,\N,131,"Action,Adventure,Sci-Fi",1233650
+tt0244244,movie,Swordfish,Swordfish,0,2001,\N,99,"Action,Crime,Thriller",243450
+tt1289401,movie,Ghostbusters,Ghostbusters,0,2016,\N,116,"Action,Comedy,Fantasy",1242663
+tt0418689,movie,Flags of our Fathers,Flags of Our Fathers,0,2006,\N,135,"Drama,History,War",411354
+tt0245712,movie,Amores Perros,Amores perros,0,2000,\N,154,"Drama,Thriller",234610
+tt1302011,movie,Kung Fu Panda 2,Kung Fu Panda 2,0,2011,\N,90,"Action,Adventure,Animation",1257320
+tt0245844,movie,The Count of Monte Cristo,The Count of Monte Cristo,0,2002,\N,131,"Action,Adventure,Drama",234737
+tt0420223,movie,Stranger Than Fiction,Stranger Than Fiction,0,2006,\N,113,"Comedy,Drama,Fantasy",402612
+tt1306980,movie,50/50,50/50,0,2011,\N,100,"Comedy,Drama,Romance",1257984
+tt0247638,movie,The Princess Diaries,The Princess Diaries,0,2001,\N,111,"Comedy,Family,Romance",250262
+tt0421073,movie,Street Kings,Street Kings,0,2008,\N,109,"Action,Crime,Drama",399346
+tt1314655,movie,Devil,Devil,0,2010,\N,80,"Horror,Mystery,Thriller",1269403
+tt0257044,movie,Road to Perdition,Road to Perdition,0,2002,\N,117,"Crime,Drama,Thriller",255666
+tt0261392,movie,Jay and Silent Bob Strike Back,Jay and Silent Bob Strike Back,0,2001,\N,104,Comedy,259834
+tt1334260,movie,Never Let Me Go,Never Let Me Go,0,2010,\N,103,"Drama,Romance,Sci-Fi",1301829
+tt0421715,movie,The Curious Case of Benjamin Button,The Curious Case of Benjamin Button,0,2008,\N,166,"Drama,Fantasy,Romance",401504
+tt1340138,movie,Terminator Genisys,Terminator Genisys,0,2015,\N,126,"Action,Adventure,Sci-Fi",1293680
+tt0276919,movie,Dogville,Dogville,0,2003,\N,178,"Crime,Drama",260327
+tt0424136,movie,Hard Candy,Hard Candy,0,2005,\N,104,"Crime,Drama,Thriller",406447
+tt1351685,movie,Jack the Giant Slayer,Jack the Giant Slayer,0,2013,\N,114,"Adventure,Fantasy",1315006
+tt0278504,movie,Insomnia,Insomnia,0,2002,\N,118,"Drama,Mystery,Thriller",276179
+tt1355630,movie,If I Stay,If I Stay,0,2014,\N,107,"Drama,Fantasy,Music",1318786
+tt1365519,movie,Tomb Raider,Tomb Raider,0,2018,\N,118,"Action,Adventure,Fantasy",1321155
+tt0279600,tvSeries,Smallville,Smallville,0,2001,2011,60,"Adventure,Drama,Romance",270077
+tt1386703,movie,Total Recall,Total Recall,0,2012,\N,118,"Action,Adventure,Mystery",1341652
+tt1392170,movie,The Hunger Games,The Hunger Games,0,2012,\N,142,"Adventure,Sci-Fi,Thriller",1339793
+tt0286106,movie,Signs,Signs,0,2002,\N,106,"Drama,Mystery,Sci-Fi",270678
+tt1399683,movie,Winter's Bone,Winter's Bone,0,2010,\N,100,"Drama,Mystery",1351168
+tt0427327,movie,Hairspray,Hairspray,0,2007,\N,117,"Comedy,Drama,Music",416219
+tt0290673,movie,Irreversible,IrrÃ©versible,0,2002,\N,97,"Crime,Drama,Mystery",291410
+tt1403981,movie,Remember Me,Remember Me,0,2010,\N,113,"Drama,Romance",1355286
+tt0292506,movie,The Recruit,The Recruit,0,2003,\N,115,"Action,Drama,Mystery",282414
+tt0429493,movie,The A-Team,The A-Team,0,2010,\N,117,"Action,Adventure,Comedy",407593
+tt1411697,movie,The Hangover Part II,The Hangover Part II,0,2011,\N,102,"Comedy,Mystery",1369414
+tt0293564,movie,Rush Hour 3,Rush Hour 3,0,2007,\N,91,"Action,Comedy,Crime",277813
+tt0430357,movie,Miami Vice,Miami Vice,0,2006,\N,134,"Action,Crime,Thriller",426356
+tt0293662,movie,The Transporter,The Transporter,0,2002,\N,92,"Action,Crime,Thriller",276367
+tt1431045,movie,Deadpool,Deadpool,0,2016,\N,108,"Action,Adventure,Comedy",1378853
+tt0295297,movie,Harry Potter and the Chamber of Secrets,Harry Potter and the Chamber of Secrets,0,2002,\N,161,"Adventure,Family,Fantasy",292282
+tt1441395,movie,Under the Skin,Under the Skin,0,2013,\N,108,"Drama,Horror,Sci-Fi",1398096
+tt0432283,movie,Fantastic Mr. Fox,Fantastic Mr. Fox,0,2009,\N,87,"Adventure,Animation,Comedy",417472
+tt0299658,movie,Chicago,Chicago,0,2002,\N,113,"Comedy,Crime,Musical",296459
+tt1442449,tvSeries,Spartacus,Spartacus: Blood and Sand,0,2010,2013,55,"Action,Adventure,Biography",1392462
+tt0433035,movie,Real Steel,Real Steel,0,2011,\N,127,"Action,Drama,Family",412567
+tt0299977,movie,Hero,Ying xiong,0,2002,\N,107,"Action,Adventure,History",296753
+tt1446192,movie,Rise of the Guardians,Rise of the Guardians,0,2012,\N,97,"Adventure,Animation,Family",1396110
+tt0438097,movie,Ice Age: The Meltdown,Ice Age: The Meltdown,0,2006,\N,91,"Adventure,Animation,Comedy",415959
+tt1446714,movie,Prometheus,Prometheus,0,2012,\N,124,"Adventure,Mystery,Sci-Fi",1394062
+tt0302886,movie,Old School,Old School,0,2003,\N,88,Comedy,286673
+tt0078346,movie,Superman,Superman,0,1978,\N,143,"Action,Adventure,Drama",93489
+tt0303461,tvSeries,Firefly,Firefly,0,2002,2003,44,"Adventure,Drama,Sci-Fi",303607
+tt0442933,movie,Beowulf,Beowulf,0,2007,\N,115,"Action,Adventure,Animation",422234
+tt1448755,movie,Killer Elite,Killer Elite,0,2011,\N,116,"Action,Crime,Thriller",1412438
+tt0305357,movie,Charlie's Angels: Full Throttle,Charlie's Angels: Full Throttle,0,2003,\N,106,"Action,Adventure,Comedy",294679
+tt1462758,movie,Buried,Buried,0,2010,\N,95,"Drama,Mystery,Thriller",1415321
+tt0079501,movie,Mad Max,Mad Max,0,1979,\N,88,"Action,Adventure,Sci-Fi",114214
+tt0448134,movie,Sunshine,Sunshine,0,2007,\N,107,"Adventure,Sci-Fi,Thriller",440073
+tt0306414,tvSeries,The Wire,The Wire,0,2002,2008,59,"Crime,Drama,Thriller",290047
+tt0079522,movie,Manhattan,Manhattan,0,1979,\N,96,"Comedy,Drama,Romance",114230
+tt1489889,movie,Central Intelligence,Central Intelligence,0,2016,\N,107,"Action,Comedy,Crime",1434257
+tt0307987,movie,Bad Santa,Bad Santa,0,2003,\N,91,"Comedy,Crime,Drama",307949
+tt0079817,movie,Rocky II,Rocky II,0,1979,\N,119,"Drama,Sport",114520
+tt1502712,movie,Fantastic Four,Fantastic Four,0,2015,\N,100,"Action,Adventure,Sci-Fi",1446641
+tt0449088,movie,Pirates of the Caribbean: At World's End,Pirates of the Caribbean: At World's End,0,2007,\N,169,"Action,Adventure,Fantasy",433838
+tt0314353,movie,Tears of the Sun,Tears of the Sun,0,2003,\N,121,"Action,Drama,Thriller",300278
+tt1515091,movie,Sherlock Holmes: A Game of Shadows,Sherlock Holmes: A Game of Shadows,0,2011,\N,129,"Action,Adventure,Crime",1458566
+tt0082198,movie,Conan the Barbarian,Conan the Barbarian,0,1982,\N,129,"Adventure,Fantasy",8789
+tt0452594,movie,The Break-Up,The Break-Up,0,2006,\N,106,"Comedy,Drama,Romance",440836
+tt0315733,movie,21 Grams,21 Grams,0,2003,\N,124,"Crime,Drama,Thriller",299049
+tt1517451,movie,A Star Is Born,A Star Is Born,0,2018,\N,136,"Drama,Music,Romance",1471627
+tt0317705,movie,The Incredibles,The Incredibles,0,2004,\N,115,"Action,Adventure,Animation",306583
+tt1520211,tvSeries,The Walking Dead,The Walking Dead,0,2010,\N,44,"Drama,Horror,Sci-Fi",1465022
+tt0082694,movie,The Road Warrior,Mad Max 2,0,1981,\N,95,"Action,Adventure,Sci-Fi",58556
+tt1527186,movie,Melancholia,Melancholia,0,2011,\N,135,"Drama,Sci-Fi",1474328
+tt0318627,movie,Resident Evil: Apocalypse,Resident Evil: Apocalypse,0,2004,\N,94,"Action,Horror,Sci-Fi",304399
+tt0086960,movie,Beverly Hills Cop,Beverly Hills Cop,0,1984,\N,105,"Action,Comedy,Crime",25097
+tt0320661,movie,Kingdom of Heaven,Kingdom of Heaven,0,2005,\N,144,"Action,Adventure,Drama",320194
+tt1538403,movie,The Mortal Instruments: City of Bones,The Mortal Instruments: City of Bones,0,2013,\N,130,"Action,Fantasy,Horror",1495526
+tt0087332,movie,Ghostbusters,Ghost Busters,0,1984,\N,105,"Action,Comedy,Fantasy",25971
+tt0452623,movie,Gone Baby Gone,Gone Baby Gone,0,2007,\N,114,"Crime,Drama,Mystery",440860
+tt1549920,movie,The Last Stand,The Last Stand,0,2013,\N,107,"Action,Thriller",1509981
+tt0324216,movie,The Texas Chainsaw Massacre,The Texas Chainsaw Massacre,0,2003,\N,98,Horror,307267
+tt0087363,movie,Gremlins,Gremlins,0,1984,\N,106,"Comedy,Fantasy,Horror",26000
+tt0454841,movie,The Hills Have Eyes,The Hills Have Eyes,0,2006,\N,107,"Horror,Thriller",432260
+tt1563738,movie,One Day,One Day,0,2011,\N,107,"Drama,Romance",1515546
+tt0329101,movie,Freddy vs. Jason,Freddy vs. Jason,0,2003,\N,97,"Action,Horror",328375
+tt1568338,movie,Man on a Ledge,Man on a Ledge,0,2012,\N,102,"Action,Adventure,Crime",1519957
+tt0335438,movie,Starsky & Hutch,Starsky & Hutch,0,2004,\N,101,"Comedy,Crime",320745
+tt0455407,movie,The Crazies,The Crazies,0,2010,\N,101,"Horror,Thriller",434348
+tt1568911,movie,War Horse,War Horse,0,2011,\N,146,"Drama,History,War",1512857
+tt0338526,movie,Van Helsing,Van Helsing,0,2004,\N,131,"Action,Adventure,Fantasy",330395
+tt1587310,movie,Maleficent,Maleficent,0,2014,\N,97,"Action,Adventure,Family",1523209
+tt0455944,movie,The Equalizer,The Equalizer,0,2014,\N,132,"Action,Crime,Thriller",451255
+tt0343135,movie,Along Came Polly,Along Came Polly,0,2004,\N,90,"Comedy,Romance",334594
+tt1591095,movie,Insidious,Insidious,0,2010,\N,103,"Horror,Mystery,Thriller",1528272
+tt0457939,movie,The Holiday,The Holiday,0,2006,\N,138,"Comedy,Romance",439371
+tt0346491,movie,Alexander,Alexander,0,2004,\N,175,"Action,Adventure,Biography",341447
+tt1596363,movie,The Big Short,The Big Short,0,2015,\N,130,"Biography,Comedy,Drama",1554823
+tt0355295,movie,The Brothers Grimm,The Brothers Grimm,0,2005,\N,118,"Action,Adventure,Comedy",350040
+tt1600196,movie,The Drop,The Drop,0,2014,\N,106,"Crime,Drama",1535612
+tt0458352,movie,The Devil Wears Prada,The Devil Wears Prada,0,2006,\N,109,"Comedy,Drama",437216
+tt0357413,movie,Anchorman: The Legend of Ron Burgundy,Anchorman: The Legend of Ron Burgundy,0,2004,\N,94,Comedy,337778
+tt1601913,movie,The Grey,The Grey,0,2011,\N,117,"Action,Adventure,Drama",1552467
+tt0458525,movie,X-Men Origins: Wolverine,X-Men Origins: Wolverine,0,2009,\N,107,"Action,Adventure,Sci-Fi",437385
+tt0360717,movie,King Kong,King Kong,0,2005,\N,187,"Action,Adventure,Drama",345118
+tt1606378,movie,A Good Day to Die Hard,A Good Day to Die Hard,0,2013,\N,98,"Action,Thriller",1556778
+tt0462322,movie,Grindhouse,Grindhouse,0,2007,\N,191,"Action,Horror,Thriller",443656
+tt0365748,movie,Shaun of the Dead,Shaun of the Dead,0,2004,\N,99,"Comedy,Horror",347418
+tt1615147,movie,Margin Call,Margin Call,0,2011,\N,107,"Drama,Thriller",1561508
+tt0365907,movie,A Walk Among the Tombstones,A Walk Among the Tombstones,0,2014,\N,114,"Crime,Drama,Mystery",346029
+tt1617661,movie,Jupiter Ascending,Jupiter Ascending,0,2015,\N,127,"Action,Adventure,Sci-Fi",1575358
+tt0465602,movie,Shoot 'Em Up,Shoot 'Em Up,0,2007,\N,86,"Action,Comedy,Crime",449919
+tt0366551,movie,Harold & Kumar Go to White Castle,Harold & Kumar Go to White Castle,0,2004,\N,88,"Adventure,Comedy",348188
+tt1628841,movie,Independence Day: Resurgence,Independence Day: Resurgence,0,2016,\N,120,"Action,Adventure,Sci-Fi",1566932
+tt0468569,movie,The Dark Knight,The Dark Knight,0,2008,\N,152,"Action,Crime,Drama",463829
+tt0366627,movie,The Jacket,The Jacket,0,2005,\N,103,"Drama,Fantasy,Mystery",348259
+tt1631867,movie,Edge of Tomorrow,Edge of Tomorrow,0,2014,\N,113,"Action,Sci-Fi",1577769
+tt0367594,movie,Charlie and the Chocolate Factory,Charlie and the Chocolate Factory,0,2005,\N,115,"Adventure,Comedy,Family",361987
+tt1634122,movie,Johnny English Reborn,Johnny English Reborn,0,2011,\N,101,"Action,Adventure,Comedy",1568461
+tt0367882,movie,Indiana Jones and the Kingdom of the Crystal Skull,Indiana Jones and the Kingdom of the Crystal Skull,0,2008,\N,122,"Action,Adventure,Fantasy",362257
+tt0368447,movie,The Village,The Village,0,2004,\N,108,"Drama,Mystery,Thriller",359217
+tt1637688,movie,In Time,In Time,0,2011,\N,109,"Action,Sci-Fi,Thriller",1573314
+tt0369610,movie,Jurassic World,Jurassic World,0,2015,\N,124,"Action,Adventure,Sci-Fi",351126
+tt1638355,movie,The Man from U.N.C.L.E.,The Man from U.N.C.L.E.,0,2015,\N,116,"Action,Adventure,Comedy",1572574
+tt0472954,tvSeries,It's Always Sunny in Philadelphia,It's Always Sunny in Philadelphia,0,2005,\N,22,Comedy,464526
+tt0375063,movie,Sideways,Sideways,0,2004,\N,127,"Comedy,Drama,Romance",356388
+tt1646987,movie,Wrath of the Titans,Wrath of the Titans,0,2012,\N,99,"Action,Adventure,Fantasy",1580852
+tt0375912,movie,Layer Cake,Layer Cake,0,2004,\N,105,"Crime,Drama,Thriller",370015
+tt0475290,movie,"Hail, Caesar!","Hail, Caesar!",0,2016,\N,106,"Comedy,Mystery",453720
+tt1650062,movie,Super 8,Super 8,0,2011,\N,112,"Mystery,Sci-Fi,Thriller",1587405
+tt0378194,movie,Kill Bill: Vol. 2,Kill Bill: Vol. 2,0,2004,\N,137,"Action,Crime,Thriller",359437
+tt0379725,movie,Capote,Capote,0,2005,\N,114,"Biography,Crime,Drama",377313
+tt1655441,movie,The Age of Adaline,The Age of Adaline,0,2015,\N,112,"Drama,Fantasy,Romance",1589053
+tt0379786,movie,Serenity,Serenity,0,2005,\N,119,"Action,Adventure,Sci-Fi",377372
+tt0380510,movie,The Lovely Bones,The Lovely Bones,0,2009,\N,135,"Drama,Fantasy,Thriller",374491
+tt1655442,movie,The Artist,The Artist,0,2011,\N,100,"Comedy,Drama,Romance",1589054
+tt0381061,movie,Casino Royale,Casino Royale,0,2006,\N,144,"Action,Adventure,Thriller",371443
+tt0477347,movie,Night at the Museum,Night at the Museum,0,2006,\N,108,"Adventure,Comedy,Family",468875
+tt1659337,movie,The Perks of Being a Wallflower,The Perks of Being a Wallflower,0,2012,\N,103,"Drama,Romance",1594705
+tt0381681,movie,Before Sunset,Before Sunset,0,2004,\N,80,"Drama,Romance",368461
+tt1663202,movie,The Revenant,The Revenant,0,2015,\N,156,"Action,Adventure,Biography",1597905
+tt0478970,movie,Ant-Man,Ant-Man,0,2015,\N,117,"Action,Adventure,Comedy",461924
+tt0382625,movie,The Da Vinci Code,The Da Vinci Code,0,2006,\N,149,"Mystery,Thriller",363751
+tt1670345,movie,Now You See Me,Now You See Me,0,2013,\N,115,"Crime,Mystery,Thriller",1614864
+tt0479952,movie,Madagascar: Escape 2 Africa,Madagascar: Escape 2 Africa,0,2008,\N,89,"Adventure,Animation,Comedy",459794
+tt0383574,movie,Pirates of the Caribbean: Dead Man's Chest,Pirates of the Caribbean: Dead Man's Chest,0,2006,\N,151,"Action,Adventure,Fantasy",364672
+tt1690953,movie,Despicable Me 2,Despicable Me 2,0,2013,\N,98,"Adventure,Animation,Comedy",1638564
+tt0384537,movie,Silent Hill,Silent Hill,0,2006,\N,125,Horror,381750
+tt1707386,movie,Les MisÃ©rables,Les MisÃ©rables,0,2012,\N,158,"Drama,History,Musical",1658166
+tt0481499,movie,The Croods,The Croods,0,2013,\N,98,"Action,Adventure,Animation",467912
+tt0384766,tvSeries,Rome,Rome,0,2005,2007,90,"Action,Drama,History",378336
+tt1714206,movie,The Spectacular Now,The Spectacular Now,0,2013,\N,95,"Comedy,Drama,Romance",1647205
+tt0482571,movie,The Prestige,The Prestige,0,2006,\N,130,"Drama,Mystery,Sci-Fi",457673
+tt0387808,movie,Idiocracy,Idiocracy,0,2006,\N,84,"Adventure,Comedy,Sci-Fi",368489
+tt1723121,movie,We're the Millers,We're the Millers,0,2013,\N,110,"Comedy,Crime",1654403
+tt0487831,tvSeries,The IT Crowd,The IT Crowd,0,2006,2013,25,Comedy,456646
+tt0388482,movie,Transporter 2,Transporter 2,0,2005,\N,87,"Action,Crime,Thriller",385533
+tt1723811,movie,Shame,Shame,0,2011,\N,101,Drama,1677955
+tt0397306,tvSeries,American Dad!,American Dad!,0,2005,\N,22,"Animation,Comedy",390509
+tt1727824,movie,Bohemian Rhapsody,Bohemian Rhapsody,0,2018,\N,134,"Biography,Drama,Music",1681792
+tt0489099,movie,Jumper,Jumper,0,2008,\N,88,"Action,Adventure,Sci-Fi",483510
+tt0397535,movie,Memoirs of a Geisha,Memoirs of a Geisha,0,2005,\N,145,"Drama,Romance",390733
+tt1758429,tvMiniSeries,Spartacus: Gods of the Arena,Spartacus: Gods of the Arena,0,2011,2011,55,"Action,Adventure,Biography",1707039
+tt0398165,movie,The Longest Yard,The Longest Yard,0,2005,\N,113,"Comedy,Crime,Sport",387769
+tt0489270,movie,Saw III,Saw III,0,2006,\N,108,"Horror,Mystery,Thriller",483674
+tt1815862,movie,After Earth,After Earth,0,2013,\N,100,"Action,Adventure,Sci-Fi",1757767
+tt0405422,movie,The 40-Year-Old Virgin,The 40 Year Old Virgin,0,2005,\N,116,"Comedy,Romance",402015
+tt0407362,tvSeries,Battlestar Galactica,Battlestar Galactica,0,2004,2009,44,"Action,Adventure,Drama",390088
+tt0410975,tvSeries,Desperate Housewives,Desperate Housewives,0,2004,2012,45,"Comedy,Drama,Mystery",396686
+tt1825683,movie,Black Panther,Black Panther,0,2018,\N,134,"Action,Adventure,Sci-Fi",1760509
+tt0412142,tvSeries,House,House M.D.,0,2004,2012,44,"Drama,Mystery",392189
+tt0413267,movie,Shrek the Third,Shrek the Third,0,2007,\N,93,"Adventure,Animation,Comedy",393296
+tt1826940,tvSeries,New Girl,New Girl,0,2011,2018,22,Comedy,1759172
+tt0413573,tvSeries,Grey's Anatomy,Grey's Anatomy,0,2005,\N,41,"Drama,Romance",409977
+tt0499549,movie,Avatar,Avatar,0,2009,\N,162,"Action,Adventure,Fantasy",478287
+tt1832382,movie,A Separation,Jodaeiye Nader az Simin,0,2011,\N,123,"Crime,Drama,Family",1777222
+tt0416320,movie,Match Point,Match Point,0,2005,\N,124,"Drama,Romance,Thriller",396241
+tt1843866,movie,Captain America: The Winter Soldier,Captain America: The Winter Soldier,0,2014,\N,136,"Action,Adventure,Sci-Fi",1775476
+tt0417148,movie,Snakes on a Plane,Snakes on a Plane,0,2006,\N,105,"Action,Adventure,Crime",395521
+tt1855325,movie,Resident Evil: Retribution,Resident Evil: Retribution,0,2012,\N,95,"Action,Horror,Sci-Fi",1789086
+tt0418279,movie,Transformers,Transformers,0,2007,\N,144,"Action,Adventure,Sci-Fi",414535
+tt0758752,movie,Love & Other Drugs,Love & Other Drugs,0,2010,\N,112,"Comedy,Drama,Romance",732324
+tt1856101,movie,Blade Runner 2049,Blade Runner 2049,0,2017,\N,164,"Drama,Mystery,Sci-Fi",1785721
+tt0418763,movie,Jarhead,Jarhead,0,2005,\N,125,"Biography,Drama,War",411425
+tt1860357,movie,Deepwater Horizon,Deepwater Horizon,0,2016,\N,107,"Action,Drama,History",1789854
+tt0421239,movie,Red Eye,Red Eye,0,2005,\N,85,"Mystery,Thriller",399504
+tt0762107,movie,I Now Pronounce You Chuck & Larry,I Now Pronounce You Chuck & Larry,0,2007,\N,115,"Comedy,Romance",735579
+tt1924429,movie,Trance,Trance,0,2013,\N,101,"Crime,Drama,Mystery",1851669
+tt0425112,movie,Hot Fuzz,Hot Fuzz,0,2007,\N,121,"Action,Comedy",403305
+tt0773262,tvSeries,Dexter,Dexter,0,2006,2013,53,"Crime,Drama,Mystery",755537
+tt1937390,movie,Nymphomaniac: Vol. I,Nymphomaniac: Vol. I,0,2013,\N,117,Drama,1865689
+tt0425210,movie,Lucky Number Slevin,Lucky Number Slevin,0,2006,\N,110,"Crime,Drama,Mystery",403402
+tt0780504,movie,Drive,Drive,0,2011,\N,100,"Crime,Drama",769761
+tt1939659,movie,Carrie,Carrie,0,2013,\N,100,"Drama,Horror",1873511
+tt0430922,movie,Role Models,Role Models,0,2008,\N,99,Comedy,423324
+tt0432021,movie,Resident Evil: Extinction,Resident Evil: Extinction,0,2007,\N,94,"Action,Horror,Sci-Fi",417219
+tt1951261,movie,The Hangover Part III,The Hangover Part III,0,2013,\N,100,"Adventure,Comedy,Crime",1891704
+tt0433362,movie,Daybreakers,Daybreakers,0,2009,\N,98,"Action,Fantasy,Horror",412880
+tt0434409,movie,V for Vendetta,V for Vendetta,0,2005,\N,132,"Action,Drama,Sci-Fi",413897
+tt1951266,movie,The Hunger Games: Mockingjay - Part 2,The Hunger Games: Mockingjay - Part 2,0,2015,\N,137,"Action,Adventure,Sci-Fi",1891709
+tt0435625,movie,The Descent,The Descent,0,2005,\N,99,"Adventure,Horror,Thriller",424315
+tt1959490,movie,Noah,Noah,0,2014,\N,138,"Action,Adventure,Drama",1903241
+tt0443272,movie,Lincoln,Lincoln,0,2012,\N,150,"Biography,Drama,History",438953
+tt1972591,movie,King Arthur: Legend of the Sword,King Arthur: Legend of the Sword,0,2017,\N,126,"Action,Adventure,Drama",1912367
+tt0443274,movie,Vantage Point,Vantage Point,0,2008,\N,90,"Action,Crime,Drama",438955
+tt0780521,movie,The Princess and the Frog,The Princess and the Frog,0,2009,\N,97,"Adventure,Animation,Comedy",769776
+tt0443453,movie,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,0,2006,\N,84,Comedy,435547
+tt2034800,movie,The Great Wall,The Great Wall,0,2016,\N,103,"Action,Adventure,Fantasy",1959759
+tt0783233,movie,Atonement,Atonement,0,2007,\N,123,"Drama,Mystery,Romance",756026
+tt0443543,movie,The Illusionist,The Illusionist,0,2006,\N,110,"Drama,Mystery,Romance",435631
+tt2085059,tvSeries,Black Mirror,Black Mirror,0,2011,\N,60,"Drama,Sci-Fi,Thriller",2011248
+tt0443680,movie,The Assassination of Jesse James by the Coward Robert Ford,The Assassination of Jesse James by the Coward Robert Ford,0,2007,\N,160,"Biography,Crime,Drama",435759
+tt0445934,movie,Blades of Glory,Blades of Glory,0,2007,\N,93,"Comedy,Sport",425166
+tt2096672,movie,Dumb and Dumber To,Dumb and Dumber To,0,2014,\N,109,"Adventure,Comedy",2020544
+tt0448694,movie,Puss in Boots,Puss in Boots,0,2011,\N,90,"Action,Adventure,Animation",437036
+tt0790636,movie,Dallas Buyers Club,Dallas Buyers Club,0,2013,\N,117,"Biography,Drama",768840
+tt2177771,movie,The Monuments Men,The Monuments Men,0,2014,\N,118,"Comedy,Drama,History",2088919
+tt0449059,movie,Little Miss Sunshine,Little Miss Sunshine,0,2006,\N,101,"Comedy,Drama",433810
+tt0803096,movie,Warcraft,Warcraft,0,2016,\N,123,"Action,Adventure,Fantasy",780902
+tt2267968,movie,Kung Fu Panda 3,Kung Fu Panda 3,0,2016,\N,95,"Action,Adventure,Animation",2185868
+tt0804497,movie,It's Kind of a Funny Story,It's Kind of a Funny Story,0,2010,\N,101,"Comedy,Drama,Romance",775102
+tt2267998,movie,Gone Girl,Gone Girl,0,2014,\N,149,"Crime,Drama,Mystery",2185896
+tt0450278,movie,Hostel,Hostel,0,2005,\N,94,"Horror,Mystery,Thriller",429362
+tt0450385,movie,1408,1408,0,2007,\N,104,"Drama,Horror",427929
+tt0454876,movie,Life of Pi,Life of Pi,0,2012,\N,127,"Adventure,Drama,Fantasy",432292
+tt2278388,movie,The Grand Budapest Hotel,The Grand Budapest Hotel,0,2014,\N,99,"Adventure,Comedy,Drama",2187768
+tt0455824,movie,Australia,Australia,0,2008,\N,165,"Adventure,Comedy,Drama",451137
+tt2294449,movie,22 Jump Street,22 Jump Street,0,2014,\N,112,"Action,Comedy,Crime",2190441
+tt0460681,tvSeries,Supernatural,Supernatural,0,2005,\N,44,"Drama,Fantasy,Horror",452320
+tt0804503,tvSeries,Mad Men,Mad Men,0,2007,2015,47,Drama,775106
+tt2306299,tvSeries,Vikings,Vikings,0,2013,\N,44,"Action,Adventure,Drama",2208786
+tt0463854,movie,28 Weeks Later,28 Weeks Later,0,2007,\N,100,"Drama,Horror,Sci-Fi",442591
+tt2334873,movie,Blue Jasmine,Blue Jasmine,0,2013,\N,98,Drama,2230026
+tt0805564,movie,Lars and the Real Girl,Lars and the Real Girl,0,2007,\N,106,"Comedy,Drama,Romance",794069
+tt0463985,movie,The Fast and the Furious: Tokyo Drift,The Fast and the Furious: Tokyo Drift,0,2006,\N,104,"Action,Crime,Thriller",459144
+tt2357547,tvSeries,Jessica Jones,Jessica Jones,0,2015,\N,56,"Action,Crime,Drama",2253684
+tt0810819,movie,The Danish Girl,The Danish Girl,0,2015,\N,119,"Biography,Drama,History",792053
+tt0464141,movie,The Orphanage,El orfanato,0,2007,\N,105,"Drama,Horror,Mystery",459298
+tt2369135,movie,Need for Speed,Need for Speed,0,2014,\N,132,"Action,Crime,Thriller",2258321
+tt0465494,movie,Hitman,Hitman,0,2007,\N,100,"Action,Crime,Drama",453401
+tt2379713,movie,Spectre,Spectre,0,2015,\N,148,"Action,Adventure,Thriller",2281303
+tt0813715,tvSeries,Heroes,Heroes,0,2006,2010,45,"Drama,Fantasy,Sci-Fi",785668
+tt2406566,movie,Atomic Blonde,Atomic Blonde,0,2017,\N,115,"Action,Mystery,Thriller",2293533
+tt0469494,movie,There Will Be Blood,There Will Be Blood,0,2007,\N,158,Drama,457286
+tt2446980,movie,Joy,Joy,0,2015,\N,124,Drama,2311985
+tt0475394,movie,Smokin' Aces,Smokin' Aces,0,2006,\N,109,"Action,Crime,Drama",453815
+tt0814255,movie,Percy Jackson & the Olympians: The Lightning Thief,Percy Jackson & the Olympians: The Lightning Thief,0,2010,\N,118,"Adventure,Family,Fantasy",802561
+tt0475784,tvSeries,Westworld,Westworld,0,2016,\N,62,"Drama,Mystery,Sci-Fi",452656
+tt2554274,movie,Crimson Peak,Crimson Peak,0,2015,\N,119,"Drama,Fantasy,Horror",2358002
+tt0477080,movie,Unstoppable,Unstoppable,0,2010,\N,98,"Action,Thriller",471839
+tt2561572,movie,Get Hard,Get Hard,0,2015,\N,100,"Comedy,Crime",2367571
+tt0478087,movie,21,21,0,2008,\N,123,"Crime,Drama,History",466169
+tt2562232,movie,Birdman or (The Unexpected Virtue of Ignorance),Birdman or (The Unexpected Virtue of Ignorance),0,2014,\N,119,"Comedy,Drama",2364268
+tt0822854,movie,Shooter,Shooter,0,2007,\N,124,"Action,Crime,Drama",807325
+tt0479143,movie,Rocky Balboa,Rocky Balboa,0,2006,\N,102,"Drama,Sport",462092
+tt2632424,tvSeries,The Originals,The Originals,0,2013,2018,45,"Drama,Fantasy,Horror",2393415
+tt0480025,movie,This Is England,This Is England,0,2006,\N,101,"Crime,Drama",459864
+tt0824747,movie,Changeling,Changeling,0,2008,\N,141,"Biography,Crime,Drama",798925
+tt2713180,movie,Fury,Fury,0,2014,\N,134,"Action,Drama,War",2420263
+tt0481369,movie,The Number 23,The Number 23,0,2007,\N,98,"Crime,Drama,Horror",472033
+tt2788710,movie,The Interview,The Interview,0,2014,\N,112,Comedy,2458731
+tt0481536,movie,Harold & Kumar Escape from Guantanamo Bay,Harold & Kumar Escape from Guantanamo Bay,0,2008,\N,104,"Adventure,Comedy",467948
+tt2802144,movie,Kingsman: The Secret Service,Kingsman: The Secret Service,0,2014,\N,129,"Action,Adventure,Comedy",2457303
+tt0486576,movie,Fantastic 4: Rise of the Silver Surfer,4: Rise of the Silver Surfer,0,2007,\N,92,"Action,Adventure,Fantasy",469624
+tt0486655,movie,Stardust,Stardust,0,2007,\N,127,"Adventure,Family,Fantasy",469694
+tt0830515,movie,Quantum of Solace,Quantum of Solace,0,2008,\N,106,"Action,Adventure,Thriller",801877
+tt3011894,movie,Wild Tales,Relatos salvajes,0,2014,\N,122,"Comedy,Drama,Thriller",2551805
+tt0486822,movie,Disturbia,Disturbia,0,2007,\N,105,"Crime,Drama,Mystery",465404
+tt0840361,movie,The Town,The Town,0,2010,\N,125,"Crime,Drama,Thriller",820585
+tt0486946,movie,Wild Hogs,Wild Hogs,0,2007,\N,100,"Adventure,Comedy",465527
+tt0844471,movie,Cloudy with a Chance of Meatballs,Cloudy with a Chance of Meatballs,0,2009,\N,90,"Action,Adventure,Animation",828135
+tt3040964,movie,The Jungle Book,The Jungle Book,0,2016,\N,106,"Adventure,Drama,Family",2563922
+tt0488120,movie,Fracture,Fracture,0,2007,\N,113,"Crime,Drama,Mystery",456927
+tt3079380,movie,Spy,Spy,0,2015,\N,119,"Action,Comedy,Crime",2583598
+tt0497465,movie,Vicky Cristina Barcelona,Vicky Cristina Barcelona,0,2008,\N,96,"Drama,Romance",491631
+tt3152624,movie,Trainwreck,Trainwreck,0,2015,\N,125,"Comedy,Drama,Romance",2599529
+tt0884328,movie,The Mist,The Mist,0,2007,\N,126,"Horror,Sci-Fi,Thriller",853970
+tt3170832,movie,Room,Room,0,2015,\N,118,"Drama,Thriller",2608659
+tt0758730,movie,Aliens vs. Predator: Requiem,AVPR: Aliens vs Predator - Requiem,0,2007,\N,94,"Action,Horror,Sci-Fi",732306
+tt0892782,movie,Monsters vs. Aliens,Monsters vs. Aliens,0,2009,\N,94,"Action,Adventure,Animation",862152
+tt3235888,movie,It Follows,It Follows,0,2014,\N,100,"Horror,Mystery",2639125
+tt0758774,movie,Body of Lies,Body of Lies,0,2008,\N,128,"Action,Drama,Thriller",732345
+tt0910970,movie,WALLÂ·E,WALLÂ·E,0,2008,\N,98,"Adventure,Animation,Family",879606
+tt3322312,tvSeries,Daredevil,Daredevil,0,2015,2018,54,"Action,Crime,Drama",2679660
+tt0765010,movie,Brothers,Brothers,0,2009,\N,105,"Drama,War",744026
+tt3397884,movie,Sicario,Sicario,0,2015,\N,121,"Action,Crime,Drama",2712526
+tt0790724,movie,Jack Reacher,Jack Reacher,0,2012,\N,130,"Action,Crime,Thriller",765842
+tt3402236,movie,Murder on the Orient Express,Murder on the Orient Express,0,2017,\N,114,"Crime,Drama,Mystery",2723562
+tt0926084,movie,Harry Potter and the Deathly Hallows: Part 1,Harry Potter and the Deathly Hallows: Part 1,0,2010,\N,146,"Adventure,Family,Fantasy",899841
+tt0790736,movie,R.I.P.D.,R.I.P.D.,0,2013,\N,96,"Action,Adventure,Comedy",765852
+tt3464902,movie,The Lobster,The Lobster,0,2015,\N,119,"Comedy,Drama,Romance",2758142
+tt0934814,tvSeries,Chuck,Chuck,0,2007,2012,43,"Action,Comedy,Drama",905298
+tt0795421,movie,Mamma Mia!,Mamma Mia!,0,2008,\N,108,"Comedy,Musical,Romance",767840
+tt3521164,movie,Moana,Moana,0,2016,\N,107,"Adventure,Animation,Comedy",2765808
+tt0800080,movie,The Incredible Hulk,The Incredible Hulk,0,2008,\N,112,"Action,Adventure,Sci-Fi",772362
+tt0814314,movie,Seven Pounds,Seven Pounds,0,2008,\N,123,"Drama,Romance",802619
+tt3553976,movie,Captain Fantastic,Captain Fantastic,0,2016,\N,118,"Comedy,Drama",2789127
+tt0815236,movie,She's Out of My League,She's Out of My League,0,2010,\N,104,"Comedy,Romance",796337
+tt0816692,movie,Interstellar,Interstellar,0,2014,\N,169,"Adventure,Drama,Sci-Fi",788494
+tt3631112,movie,The Girl on the Train,The Girl on the Train,0,2016,\N,112,"Crime,Drama,Mystery",2814080
+tt0832266,movie,"Definitely, Maybe","Definitely, Maybe",0,2008,\N,112,"Comedy,Drama,Romance",812761
+tt3659388,movie,The Martian,The Martian,0,2015,\N,144,"Adventure,Drama,Sci-Fi",2826358
+tt0834001,movie,Underworld: Rise of the Lycans,Underworld: Rise of the Lycans,0,2009,\N,92,"Action,Adventure,Fantasy",803700
+tt0944947,tvSeries,Game of Thrones,Game of Thrones,0,2011,\N,57,"Action,Adventure,Drama",912591
+tt3682448,movie,Bridge of Spies,Bridge of Spies,0,2015,\N,142,"Drama,History,Thriller",2851884
+tt0837562,movie,Hotel Transylvania,Hotel Transylvania,0,2012,\N,91,"Animation,Comedy,Family",811235
+tt3731562,movie,Kong: Skull Island,Kong: Skull Island,0,2017,\N,118,"Action,Adventure,Fantasy",2865575
+tt0945513,movie,Source Code,Source Code,0,2011,\N,93,"Mystery,Romance,Sci-Fi",929521
+tt0842926,movie,The Kids Are All Right,The Kids Are All Right,0,2010,\N,106,"Comedy,Drama,Romance",812284
+tt3896198,movie,Guardians of the Galaxy Vol. 2,Guardians of the Galaxy Vol. 2,0,2017,\N,136,"Action,Adventure,Comedy",2946362
+tt0955308,movie,Robin Hood,Robin Hood,0,2010,\N,140,"Action,Adventure,Drama",928240
+tt0859163,movie,The Mummy: Tomb of the Dragon Emperor,The Mummy: Tomb of the Dragon Emperor,0,2008,\N,112,"Action,Adventure,Fantasy",829644
+tt4034228,movie,Manchester by the Sea,Manchester by the Sea,0,2016,\N,137,Drama,3001141
+tt0877057,tvSeries,Death Note,Death Note: Desu nÃ´to,0,2006,2007,24,"Animation,Crime,Drama",846949
+tt4052882,movie,The Shallows,The Shallows,0,2016,\N,86,"Drama,Horror,Thriller",3005845
+tt0959337,movie,Revolutionary Road,Revolutionary Road,0,2008,\N,119,"Drama,Romance",935706
+tt4283088,tvEpisode,Battle of the Bastards,Battle of the Bastards,0,2016,\N,60,"Action,Adventure,Drama",3109004
+tt0878804,movie,The Blind Side,The Blind Side,0,2009,\N,129,"Biography,Drama,Sport",857864
+tt0964517,movie,The Fighter,The Fighter,0,2010,\N,116,"Biography,Drama,Sport",934077
+tt0887912,movie,The Hurt Locker,The Hurt Locker,0,2008,\N,131,"Drama,Thriller,War",860007
+tt4574334,tvSeries,Stranger Things,Stranger Things,0,2016,\N,51,"Drama,Fantasy,Horror",3240073
+tt0890870,movie,Saw IV,Saw IV,0,2007,\N,93,"Horror,Mystery,Thriller",873111
+tt0904208,tvSeries,Californication,Californication,0,2007,2014,28,"Comedy,Drama",882324
+tt4630562,movie,The Fate of the Furious,The Fate of the Furious,0,2017,\N,136,"Action,Crime,Thriller",3262109
+tt0910936,movie,Pineapple Express,Pineapple Express,0,2008,\N,111,"Action,Comedy,Crime",879580
+tt0918940,movie,The Legend of Tarzan,The Legend of Tarzan,0,2016,\N,110,"Action,Adventure,Drama",885672
+tt4881806,movie,Jurassic World: Fallen Kingdom,Jurassic World: Fallen Kingdom,0,2018,\N,128,"Action,Adventure,Sci-Fi",3365518
+tt0974661,movie,17 Again,17 Again,0,2009,\N,102,"Comedy,Drama,Fantasy",941291
+tt0936501,movie,Taken,Taken,0,2008,\N,93,"Action,Crime,Thriller",904390
+tt5164214,movie,Ocean's Eight,Ocean's Eight,0,2018,\N,110,"Action,Comedy,Crime",3497721
+tt0938283,movie,The Last Airbender,The Last Airbender,0,2010,\N,103,"Action,Adventure,Family",911752
+tt5290382,tvSeries,Mindhunter,Mindhunter,0,2017,\N,60,"Crime,Drama,Thriller",3561539
+tt0976051,movie,The Reader,The Reader,0,2008,\N,124,"Drama,Romance",951810
+tt5519340,movie,Bright,Bright,0,2017,\N,117,"Action,Crime,Fantasy",3658902
+tt0942385,movie,Tropic Thunder,Tropic Thunder,0,2008,\N,107,"Action,Adventure,Comedy",919333
+tt6468322,tvSeries,Money Heist,La casa de papel,0,2017,\N,70,"Action,Crime,Mystery",3902111
+tt0978764,movie,Sucker Punch,Sucker Punch,0,2011,\N,110,"Action,Fantasy",945241
+tt0988045,movie,Sherlock Holmes,Sherlock Holmes,0,2009,\N,128,"Action,Adventure,Crime",967076
+tt0985694,movie,Machete,Machete,0,2010,\N,105,"Action,Crime,Thriller",954530
+tt1001526,movie,Megamind,Megamind,0,2010,\N,95,"Action,Animation,Comedy",976599
+tt1046173,movie,G.I. Joe: The Rise of Cobra,G.I. Joe: The Rise of Cobra,0,2009,\N,118,"Action,Adventure,Sci-Fi",1005989
+tt0986263,movie,Surrogates,Surrogates,0,2009,\N,89,"Action,Sci-Fi,Thriller",952517
+tt1058017,movie,The Invention of Lying,The Invention of Lying,0,2009,\N,100,"Comedy,Fantasy,Romance",1019365
+tt1000774,movie,Sex and the City,Sex and the City,0,2008,\N,145,"Comedy,Drama,Romance",979608
+tt1060277,movie,Cloverfield,Cloverfield,0,2008,\N,85,"Action,Horror,Sci-Fi",1032606
+tt1013743,movie,Knight and Day,Knight and Day,0,2010,\N,109,"Action,Adventure,Comedy",987974
+tt1078912,movie,Night at the Museum: Battle of the Smithsonian,Night at the Museum: Battle of the Smithsonian,0,2009,\N,105,"Adventure,Comedy,Family",1039005
+tt1086772,movie,Blended,Blended,0,2014,\N,117,"Comedy,Romance",1054387
+tt1013753,movie,Milk,Milk,0,2008,\N,128,"Biography,Drama",987983
+tt1104001,movie,TRON: Legacy,Tron,0,2010,\N,125,"Action,Adventure,Fantasy",1067042
+tt1124373,tvSeries,Sons of Anarchy,Sons of Anarchy,0,2008,2014,45,"Crime,Drama,Thriller",1101080
+tt1014759,movie,Alice in Wonderland,Alice in Wonderland,0,2010,\N,108,"Adventure,Family,Fantasy",980751
+tt1132626,movie,Saw V,Saw V,0,2008,\N,92,"Horror,Mystery,Thriller",1108959
+tt1019452,movie,A Serious Man,A Serious Man,0,2009,\N,106,"Comedy,Drama",981799
+tt1133985,movie,Green Lantern,Green Lantern,0,2011,\N,114,"Action,Adventure,Sci-Fi",1102543
+tt1024648,movie,Argo,Argo,0,2012,\N,120,"Biography,Drama,Thriller",982175
+tt1139328,movie,The Ghost Writer,The Ghost Writer,0,2010,\N,128,"Drama,Mystery,Thriller",1099984
+tt1155076,movie,The Karate Kid,The Karate Kid,0,2010,\N,140,"Action,Drama,Family",1122792
+tt0087469,movie,Indiana Jones and the Temple of Doom,Indiana Jones and the Temple of Doom,0,1984,\N,118,"Action,Adventure",79830
+tt1028528,movie,Death Proof,Death Proof,0,2007,\N,113,"Action,Thriller",988327
+tt1172570,movie,Bronson,Bronson,0,2008,\N,92,"Action,Biography,Crime",1135838
+tt0087544,movie,NausicaÃ¤ of the Valley of the Wind,Kaze no tani no Naushika,0,1984,\N,117,"Adventure,Animation,Fantasy",79904
+tt1179904,movie,Paranormal Activity,Paranormal Activity,0,2007,\N,86,Horror,1154274
+tt1028532,movie,Hachi: A Dog's Tale,Hachi: A Dog's Tale,0,2009,\N,93,"Drama,Family",988331
+tt0088846,movie,Brazil,Brazil,0,1985,\N,132,"Drama,Sci-Fi",83087
+tt1182345,movie,Moon,Moon,0,2009,\N,97,"Drama,Mystery,Sci-Fi",1137337
+tt1032755,movie,RocknRolla,RocknRolla,0,2008,\N,114,"Action,Crime,Thriller",992423
+tt0089218,movie,The Goonies,The Goonies,0,1985,\N,114,"Adventure,Comedy,Family",30098
+tt1188729,movie,Pandorum,Pandorum,0,2009,\N,108,"Action,Horror,Mystery",1158833
+tt0090728,movie,Big Trouble in Little China,Big Trouble in Little China,0,1986,\N,99,"Action,Adventure,Comedy",101089
+tt1034303,movie,Defiance,Defiance,0,2008,\N,137,"Action,Drama,History",1011464
+tt1189340,movie,The Lincoln Lawyer,The Lincoln Lawyer,0,2011,\N,118,"Crime,Drama,Thriller",1155689
+tt0091203,movie,Highlander,Highlander,0,1986,\N,116,"Action,Adventure,Fantasy",48140
+tt1049413,movie,Up,Up,0,2009,\N,96,"Adventure,Animation,Comedy",1011101
+tt0093058,movie,Full Metal Jacket,Full Metal Jacket,0,1987,\N,116,"Drama,War",15417
+tt1194173,movie,The Bourne Legacy,The Bourne Legacy,0,2012,\N,135,"Action,Adventure,Thriller",1156585
+tt1054606,movie,The Imaginarium of Doctor Parnassus,The Imaginarium of Doctor Parnassus,0,2009,\N,123,"Adventure,Comedy,Fantasy",1011984
+tt0093105,movie,"Good Morning, Vietnam","Good Morning, Vietnam",0,1987,\N,121,"Biography,Comedy,Drama",15463
+tt1196946,tvSeries,The Mentalist,The Mentalist,0,2008,2015,43,"Crime,Drama,Mystery",1170662
+tt0093437,movie,The Lost Boys,The Lost Boys,0,1987,\N,97,"Comedy,Horror",83615
+tt1197624,movie,Law Abiding Citizen,Law Abiding Citizen,0,2009,\N,109,"Crime,Drama,Thriller",1163666
+tt1055369,movie,Transformers: Revenge of the Fallen,Transformers: Revenge of the Fallen,0,2009,\N,150,"Action,Adventure,Sci-Fi",1035614
+tt0093779,movie,The Princess Bride,The Princess Bride,0,1987,\N,98,"Adventure,Family,Fantasy",39524
+tt1201167,movie,Funny People,Funny People,0,2009,\N,146,"Comedy,Drama",1174745
+tt0094291,movie,Wall Street,Wall Street,0,1987,\N,126,"Crime,Drama",99
+tt1204975,movie,Last Vegas,Last Vegas,0,2013,\N,105,"Comedy,Drama",1157595
+tt1057500,movie,Invictus,Invictus,0,2009,\N,134,"Biography,Drama,History",1022296
+tt0094737,movie,Big,Big,0,1988,\N,104,"Comedy,Drama,Family",68256
+tt0094898,movie,Coming to America,Coming to America,0,1988,\N,116,"Comedy,Romance",68416
+tt1205537,movie,Jack Ryan: Shadow Recruit,Jack Ryan: Shadow Recruit,0,2014,\N,105,"Action,Drama,Thriller",1178926
+tt1065073,movie,Boyhood,Boyhood,0,2014,\N,165,Drama,1033533
+tt0095016,movie,Die Hard,Die Hard,0,1988,\N,132,"Action,Thriller",68534
+tt0096320,movie,Twins,Twins,0,1988,\N,107,"Comedy,Crime",67246
+tt1211837,movie,Doctor Strange,Doctor Strange,0,2016,\N,115,"Action,Adventure,Fantasy",1169631
+tt1068680,movie,Yes Man,Yes Man,0,2008,\N,104,"Comedy,Romance",1044469
+tt0096874,movie,Back to the Future Part II,Back to the Future Part II,0,1989,\N,108,"Adventure,Comedy,Sci-Fi",34357
+tt1213663,movie,The World's End,The World's End,0,2013,\N,109,"Action,Comedy,Sci-Fi",1186728
+tt1091191,movie,Lone Survivor,Lone Survivor,0,2013,\N,121,"Action,Biography,Drama",1054707
+tt0098800,tvSeries,The Fresh Prince of Bel-Air,The Fresh Prince of Bel-Air,0,1990,1996,22,Comedy,58267
+tt1217209,movie,Brave,Brave,0,2012,\N,93,"Adventure,Animation,Comedy",1168566
+tt0098904,tvSeries,Seinfeld,Seinfeld,0,1989,1998,22,Comedy,23174
+tt1119646,movie,The Hangover,The Hangover,0,2009,\N,100,Comedy,1096861
+tt0098936,tvSeries,Twin Peaks,Twin Peaks,0,1990,1991,47,"Crime,Drama,Mystery",23205
+tt1219024,tvSeries,Castle,Castle,0,2009,2016,43,"Comedy,Crime,Drama",1184144
+tt1129442,movie,Transporter 3,Transporter 3,0,2008,\N,104,"Action,Crime,Thriller",1098227
+tt0099423,movie,Die Hard 2,Die Hard 2,0,1990,\N,124,"Action,Thriller",28799
+tt1219289,movie,Limitless,Limitless,0,2011,\N,105,"Mystery,Sci-Fi,Thriller",1184398
+tt1130884,movie,Shutter Island,Shutter Island,0,2010,\N,138,"Mystery,Thriller",1091926
+tt0100157,movie,Misery,Misery,0,1990,\N,107,"Crime,Drama,Thriller",97482
+tt1219827,movie,Ghost in the Shell,Ghost in the Shell,0,2017,\N,107,"Action,Drama,Sci-Fi",1181163
+tt0100403,movie,Predator 2,Predator 2,0,1990,\N,108,"Action,Horror,Sci-Fi",97716
+tt1142988,movie,The Ugly Truth,The Ugly Truth,0,2009,\N,96,"Comedy,Romance",1107490
+tt1220634,movie,Resident Evil: Afterlife,Resident Evil: Afterlife,0,2010,\N,96,"Action,Adventure,Horror",1174080
+tt0100802,movie,Total Recall,Total Recall,0,1990,\N,113,"Action,Sci-Fi,Thriller",71610
+tt1220719,movie,Ip Man,Yip Man,0,2008,\N,106,"Action,Biography,Drama",1174160
+tt1155056,movie,"I Love You, Man","I Love You, Man",0,2009,\N,105,"Comedy,Romance",1122779
+tt0101410,movie,Barton Fink,Barton Fink,0,1991,\N,116,"Comedy,Drama,Thriller",56714
+tt1228987,movie,Let Me In,Let Me In,0,2010,\N,116,"Drama,Fantasy,Horror",1186009
+tt0102138,movie,JFK,JFK,0,1991,\N,189,"Drama,History,Thriller",21213
+tt1229238,movie,Mission: Impossible - Ghost Protocol,Mission: Impossible - Ghost Protocol,0,2011,\N,132,"Action,Adventure,Thriller",1182316
+tt1174732,movie,An Education,An Education,0,2009,\N,100,Drama,1126453
+tt0103639,movie,Aladdin,Aladdin,0,1992,\N,90,"Adventure,Animation,Comedy",2593
+tt1229340,movie,Anchorman 2: The Legend Continues,Anchorman 2: The Legend Continues,0,2013,\N,119,Comedy,1182414
+tt0103644,movie,AlienÂ³,AlienÂ³,0,1992,\N,114,"Action,Horror,Sci-Fi",2598
+tt1234721,movie,RoboCop,RoboCop,0,2014,\N,117,"Action,Crime,Sci-Fi",1184003
+tt1179034,movie,From Paris with Love,From Paris with Love,0,2010,\N,92,"Action,Crime,Thriller",1130545
+tt0103776,movie,Batman Returns,Batman Returns,0,1992,\N,126,"Action,Crime,Fantasy",2729
+tt1242460,movie,We Need to Talk About Kevin,We Need to Talk About Kevin,0,2011,\N,112,"Drama,Mystery,Thriller",1195432
+tt1245526,movie,RED,RED,0,2010,\N,111,"Action,Comedy,Crime",1205703
+tt1259521,movie,The Cabin in the Woods,The Cabin in the Woods,0,2012,\N,95,"Comedy,Horror",1211750
+tt0103855,movie,The Bodyguard,The Bodyguard,0,1992,\N,129,"Drama,Music,Romance",2807
+tt1272878,movie,2 Guns,2 Guns,0,2013,\N,109,"Action,Comedy,Crime",1221776
+tt1179933,movie,10 Cloverfield Lane,10 Cloverfield Lane,0,2016,\N,103,"Drama,Horror,Mystery",1154302
+tt0103874,movie,Bram Stoker's Dracula,Dracula,0,1992,\N,128,Horror,2826
+tt1279935,movie,Date Night,Date Night,0,2010,\N,88,"Comedy,Crime,Romance",1239336
+tt1193138,movie,Up in the Air,Up in the Air,0,2009,\N,109,"Drama,Romance",1163080
+tt0105236,movie,Reservoir Dogs,Reservoir Dogs,0,1992,\N,99,"Crime,Drama,Thriller",99527
+tt1284575,movie,Bad Teacher,Bad Teacher,0,2011,\N,92,"Comedy,Romance",1240662
+tt0106697,movie,Demolition Man,Demolition Man,0,1993,\N,115,"Action,Crime,Sci-Fi",61793
+tt0107688,movie,The Nightmare Before Christmas,The Nightmare Before Christmas,0,1993,\N,76,"Animation,Family,Fantasy",46119
+tt1201607,movie,Harry Potter and the Deathly Hallows: Part 2,Harry Potter and the Deathly Hallows: Part 2,0,2011,\N,130,"Adventure,Drama,Fantasy",1171233
+tt0107977,movie,Robin Hood: Men in Tights,Robin Hood: Men in Tights,0,1993,\N,104,"Adventure,Comedy,Musical",37547
+tt1216475,movie,Cars 2,Cars 2,0,2011,\N,106,"Adventure,Animation,Comedy",1170074
+tt0108358,movie,Tombstone,Tombstone,0,1993,\N,130,"Action,Biography,Drama",33972
+tt1217613,movie,Battle Los Angeles,Battle Los Angeles,0,2011,\N,116,"Action,Sci-Fi",1167583
+tt0108399,movie,True Romance,True Romance,0,1993,\N,119,"Crime,Drama,Romance",34013
+tt1226229,movie,Get Him to the Greek,Get Him to the Greek,0,2010,\N,109,"Adventure,Comedy,Music",1175817
+tt0108550,movie,What's Eating Gilbert Grape,What's Eating Gilbert Grape,0,1993,\N,118,Drama,34163
+tt1235099,tvSeries,Lie to Me,Lie to Me,0,2009,2011,43,"Crime,Drama,Mystery",1207256
+tt1255953,movie,Incendies,Incendies,0,2010,\N,131,"Drama,Mystery,War",1206118
+tt1262416,movie,Scream 4,Scream 4,0,2011,\N,111,"Horror,Mystery",1221900
+tt1288558,movie,Evil Dead,Evil Dead,0,2013,\N,91,"Fantasy,Horror,Thriller",1247485
+tt1291150,movie,Teenage Mutant Ninja Turtles,Teenage Mutant Ninja Turtles,0,2014,\N,101,"Action,Adventure,Comedy",1260714
+tt1291584,movie,Warrior,Warrior,0,2011,\N,140,"Drama,Sport",1257543
+tt1298650,movie,Pirates of the Caribbean: On Stranger Tides,Pirates of the Caribbean: On Stranger Tides,0,2011,\N,136,"Action,Adventure,Fantasy",1249971
+tt1300854,movie,Iron Man 3,Iron Man 3,0,2013,\N,130,"Action,Adventure,Sci-Fi",1262862
+tt1320253,movie,The Expendables,The Expendables,0,2010,\N,103,"Action,Adventure,Thriller",1272184
+tt0109445,movie,Clerks,Clerks,0,1994,\N,92,Comedy,115801
+tt1324999,movie,The Twilight Saga: Breaking Dawn - Part 1,The Twilight Saga: Breaking Dawn - Part 1,0,2011,\N,117,"Adventure,Drama,Fantasy",1276693
+tt0109831,movie,Four Weddings and a Funeral,Four Weddings and a Funeral,0,1994,\N,117,"Comedy,Drama,Romance",116178
+tt1340800,movie,Tinker Tailor Soldier Spy,Tinker Tailor Soldier Spy,0,2011,\N,122,"Drama,Mystery,Thriller",1291768
+tt0110357,movie,The Lion King,The Lion King,0,1994,\N,88,"Adventure,Animation,Drama",104935
+tt1343092,movie,The Great Gatsby,The Great Gatsby,0,2013,\N,143,"Drama,Romance",1306763
+tt0110475,movie,The Mask,The Mask,0,1994,\N,101,"Comedy,Fantasy",79298
+tt1343727,movie,Dredd,Dredd,0,2012,\N,95,"Action,Crime,Sci-Fi",1303753
+tt0110912,movie,Pulp Fiction,Pulp Fiction,0,1994,\N,154,"Crime,Drama",79728
+tt0111503,movie,True Lies,True Lies,0,1994,\N,141,"Action,Comedy,Thriller",59074
+tt1345836,movie,The Dark Knight Rises,The Dark Knight Rises,0,2012,\N,164,"Action,Thriller",1295058
+tt0112281,movie,Ace Ventura: When Nature Calls,Ace Ventura: When Nature Calls,0,1995,\N,90,"Adventure,Comedy,Crime",47407
+tt1358522,tvSeries,White Collar,White Collar,0,2009,2014,40,"Comedy,Crime,Drama",1307222
+tt0113277,movie,Heat,Heat,0,1995,\N,170,"Crime,Drama,Thriller",123525
+tt1389137,movie,We Bought a Zoo,We Bought a Zoo,0,2011,\N,124,"Comedy,Drama,Family",1354771
+tt0113627,movie,Leaving Las Vegas,Leaving Las Vegas,0,1995,\N,111,"Drama,Romance",119885
+tt1390411,movie,In the Heart of the Sea,In the Heart of the Sea,0,2015,\N,122,"Action,Adventure,Biography",1348828
+tt0114148,movie,Pocahontas,Pocahontas,0,1995,\N,81,"Adventure,Animation,Drama",116660
+tt1398426,movie,Straight Outta Compton,Straight Outta Compton,0,2015,\N,147,"Biography,Drama,History",1360197
+tt1403865,movie,True Grit,True Grit,0,2010,\N,110,"Adventure,Drama,Western",1355196
+tt1409024,movie,Men in Black 3,Men in Black 3,0,2012,\N,106,"Action,Adventure,Comedy",1357597
+tt1411238,movie,No Strings Attached,No Strings Attached,0,2011,\N,108,"Comedy,Romance",1368967
+tt1454468,movie,Gravity,Gravity,0,2013,\N,91,"Drama,Sci-Fi,Thriller",1407295
+tt1457767,movie,The Conjuring,The Conjuring,0,2013,\N,112,"Horror,Mystery,Thriller",1414048
+tt1485796,movie,The Greatest Showman,The Greatest Showman,0,2017,\N,105,"Biography,Drama,Musical",1430328
+tt1486217,tvSeries,Archer,Archer,0,2009,\N,22,"Action,Animation,Comedy",1432255
+tt1488555,movie,The Change-Up,The Change-Up,0,2011,\N,112,"Comedy,Fantasy",1437058
+tt1490017,movie,The Lego Movie,The Lego Movie,0,2014,\N,100,"Action,Adventure,Animation",1434381
+tt1499658,movie,Horrible Bosses,Horrible Bosses,0,2011,\N,98,"Comedy,Crime",1461605
+tt1517260,movie,The Host,The Host,0,2013,\N,125,"Action,Adventure,Drama",1471437
+tt1528100,movie,Exodus: Gods and Kings,Exodus: Gods and Kings,0,2014,\N,150,"Action,Adventure,Drama",1471117
+tt1535108,movie,Elysium,Elysium,0,2013,\N,109,"Action,Drama,Sci-Fi",1485021
+tt1535109,movie,Captain Phillips,Captain Phillips,0,2013,\N,134,"Biography,Drama,Thriller",1485022
+tt1547234,movie,Premium Rush,Premium Rush,0,2012,\N,91,"Action,Crime,Thriller",1500719
+tt1560747,movie,The Master,The Master,0,2012,\N,138,Drama,1504974
+tt1567432,tvSeries,Teen Wolf,Teen Wolf,0,2011,2017,41,"Action,Comedy,Drama",1522841
+tt0114814,movie,The Usual Suspects,The Usual Suspects,0,1995,\N,106,"Crime,Mystery,Thriller",106605
+tt1578873,tvSeries,Pretty Little Liars,Pretty Little Liars,0,2010,2017,44,"Drama,Mystery,Romance",1515017
+tt0114898,movie,Waterworld,Waterworld,0,1995,\N,135,"Action,Adventure,Sci-Fi",106686
+tt1588173,movie,Warm Bodies,Warm Bodies,0,2013,\N,98,"Comedy,Horror,Romance",1546925
+tt0116282,movie,Fargo,Fargo,0,1996,\N,98,"Crime,Drama,Thriller",60505
+tt1596350,movie,This Means War,This Means War,0,2012,\N,103,"Action,Comedy,Romance",1554813
+tt0116629,movie,Independence Day,Independence Day,0,1996,\N,145,"Action,Adventure,Sci-Fi",62375
+tt1596365,movie,The Woman in Black,The Woman in Black,0,2012,\N,95,"Drama,Fantasy,Horror",1554824
+tt0116922,movie,Lost Highway,Lost Highway,0,1997,\N,134,"Mystery,Thriller",59714
+tt1605630,movie,American Reunion,American Reunion,0,2012,\N,113,Comedy,1559796
+tt1605783,movie,Midnight in Paris,Midnight in Paris,0,2011,\N,94,"Comedy,Fantasy,Romance",1559948
+tt1606389,movie,The Vow,The Vow,0,2012,\N,104,"Drama,Romance",1556788
+tt1611224,movie,Abraham Lincoln: Vampire Hunter,Abraham Lincoln: Vampire Hunter,0,2012,\N,105,"Action,Fantasy,Horror",1553779
+tt1616195,movie,J. Edgar,J. Edgar,0,2011,\N,137,"Biography,Crime,Drama",1554630
+tt1632708,movie,Friends with Benefits,Friends with Benefits,0,2011,\N,109,"Comedy,Romance",1574636
+tt0117438,movie,Ransom,Ransom,0,1996,\N,121,"Action,Crime,Thriller",127538
+tt1645170,movie,The Dictator,The Dictator,0,2012,\N,83,Comedy,1586650
+tt1700841,movie,Sausage Party,Sausage Party,0,2016,\N,89,"Adventure,Animation,Comedy",1636481
+tt0118799,movie,Life Is Beautiful,La vita Ã¨ bella,0,1997,\N,116,"Comedy,Drama,Romance",121171
+tt0118880,movie,Con Air,Con Air,0,1997,\N,115,"Action,Crime,Thriller",117501
+tt0118929,movie,Dark City,Dark City,0,1998,\N,100,"Mystery,Sci-Fi,Thriller",117549
+tt1706593,movie,Chronicle,Chronicle,0,2012,\N,84,"Drama,Sci-Fi,Thriller",1661360
+tt0119081,movie,Event Horizon,Event Horizon,0,1997,\N,96,"Horror,Sci-Fi,Thriller",117695
+tt1790809,movie,Pirates of the Caribbean: Dead Men Tell No Tales,Pirates of the Caribbean: Dead Men Tell No Tales,0,2017,\N,129,"Action,Adventure,Fantasy",1726017
+tt0119217,movie,Good Will Hunting,Good Will Hunting,0,1997,\N,126,"Drama,Romance",117823
+tt1796960,tvSeries,Homeland,Homeland,0,2011,\N,55,"Crime,Drama,Mystery",1724025
+tt0119345,movie,I Know What You Did Last Summer,I Know What You Did Last Summer,0,1997,\N,101,"Horror,Mystery,Thriller",117947
+tt1798709,movie,Her,Her,0,2013,\N,126,"Drama,Romance,Sci-Fi",1740789
+tt0119488,movie,L.A. Confidential,L.A. Confidential,0,1997,\N,138,"Crime,Drama,Mystery",112746
+tt1800241,movie,American Hustle,American Hustle,0,2013,\N,138,"Crime,Drama",1730592
+tt1821694,movie,RED 2,RED 2,0,2013,\N,116,"Action,Comedy,Crime",1754101
+tt1823672,movie,Chappie,Chappie,0,2015,\N,120,"Action,Crime,Drama",1768824
+tt1837492,tvSeries,13 Reasons Why,13 Reasons Why,0,2017,\N,60,"Drama,Mystery",1774963
+tt1840309,movie,Divergent,Divergent,0,2014,\N,139,"Action,Adventure,Mystery",1788418
+tt1844624,tvSeries,American Horror Story,American Horror Story,0,2011,\N,60,"Drama,Horror,Thriller",1792553
+tt1856010,tvSeries,House of Cards,House of Cards,0,2013,2018,51,Drama,1787171
+tt1907668,movie,Flight,Flight,0,2012,\N,138,"Drama,Thriller",1837043
+tt1911644,movie,The Call,The Call,0,2013,\N,94,"Crime,Horror,Thriller",1839266
+tt1915581,movie,Magic Mike,Magic Mike,0,2012,\N,110,"Comedy,Drama",1843070
+tt1922777,movie,Sinister,Sinister,0,2012,\N,110,"Horror,Mystery,Thriller",1857223
+tt1964418,movie,Tomorrowland,Tomorrowland,0,2015,\N,130,"Action,Adventure,Family",1904450
+tt1980209,movie,Pain & Gain,Pain & Gain,0,2013,\N,129,"Action,Comedy,Crime",1906886
+tt1981677,movie,Pitch Perfect,Pitch Perfect,0,2012,\N,112,"Comedy,Music,Romance",1917515
+tt2004420,movie,Neighbors,Neighbors,0,2014,\N,97,Comedy,1930317
+tt2005151,movie,War Dogs,War Dogs,0,2016,\N,114,"Comedy,Crime,Drama",1929487
+tt2053463,movie,Side Effects,Side Effects,0,2013,\N,106,"Crime,Drama,Mystery",1987097
+tt2096673,movie,Inside Out,Inside Out,0,2015,\N,95,"Adventure,Animation,Comedy",2020545
+tt2101441,movie,Spring Breakers,Spring Breakers,0,2012,\N,94,"Comedy,Crime,Drama",2021126
+tt2103281,movie,Dawn of the Planet of the Apes,Dawn of the Planet of the Apes,0,2014,\N,130,"Action,Adventure,Drama",2038276
+tt2119532,movie,Hacksaw Ridge,Hacksaw Ridge,0,2016,\N,139,"Biography,Drama,History",2035823
+tt2120120,movie,Pixels,Pixels,0,2015,\N,105,"Action,Comedy,Sci-Fi",2034958
+tt2140373,movie,Saving Mr. Banks,Saving Mr. Banks,0,2013,\N,125,"Biography,Comedy,Drama",2061588
+tt2170439,movie,Horrible Bosses 2,Horrible Bosses 2,0,2014,\N,108,"Comedy,Crime",2099995
+tt2180411,movie,Into the Woods,Into the Woods,0,2014,\N,125,"Adventure,Comedy,Drama",2105070
+tt2184339,movie,The Purge,The Purge,0,2013,\N,85,"Horror,Thriller",2112358
+tt2191701,movie,Grown Ups 2,Grown Ups 2,0,2013,\N,101,Comedy,2101304
+tt2193021,tvSeries,Arrow,Arrow,0,2012,\N,42,"Action,Adventure,Crime",2123957
+tt2226417,movie,Insidious: Chapter 2,Insidious: Chapter 2,0,2013,\N,106,"Horror,Mystery,Thriller",2149018
+tt2234155,movie,The Internship,The Internship,0,2013,\N,119,Comedy,2138834
+tt2239822,movie,Valerian and the City of a Thousand Planets,Valerian and the City of a Thousand Planets,0,2017,\N,137,"Action,Adventure,Fantasy",2164846
+tt2265171,movie,The Raid 2,Serbuan maut 2: Berandal,0,2014,\N,150,"Action,Crime,Thriller",2171984
+tt2283362,movie,Jumanji: Welcome to the Jungle,Jumanji: Welcome to the Jungle,0,2017,\N,119,"Action,Adventure,Comedy",2188333
+tt2316204,movie,Alien: Covenant,Alien: Covenant,0,2017,\N,122,"Horror,Sci-Fi,Thriller",2214251
+tt2333784,movie,The Expendables 3,The Expendables 3,0,2014,\N,126,"Action,Adventure,Thriller",2236980
+tt0120102,movie,Seven Years in Tibet,Seven Years in Tibet,0,1997,\N,136,"Adventure,Biography,Drama",96036
+tt0120188,movie,Three Kings,Three Kings,0,1999,\N,114,"Action,Adventure,Comedy",96120
+tt1298649,movie,The Watch,The Watch,0,2012,\N,102,"Action,Comedy,Horror",1249970
+tt0120338,movie,Titanic,Titanic,0,1997,\N,194,"Drama,Romance",98825
+tt0120347,movie,Tomorrow Never Dies,Tomorrow Never Dies,0,1997,\N,119,"Action,Adventure,Thriller",98832
+tt1305806,movie,The Secret in Their Eyes,El secreto de sus ojos,0,2009,\N,129,"Drama,Mystery,Romance",1260941
+tt0120601,movie,Being John Malkovich,Being John Malkovich,0,1999,\N,113,"Comedy,Drama,Fantasy",78452
+tt1318514,movie,Rise of the Planet of the Apes,Rise of the Planet of the Apes,0,2011,\N,105,"Action,Drama,Sci-Fi",1276146
+tt0120660,movie,Enemy of the State,Enemy of the State,0,1998,\N,132,"Action,Crime,Mystery",78500
+tt1321870,movie,Gangster Squad,Gangster Squad,0,2013,\N,113,"Action,Crime,Drama",1286505
+tt0120669,movie,Fear and Loathing in Las Vegas,Fear and Loathing in Las Vegas,0,1998,\N,118,"Adventure,Comedy,Drama",78507
+tt2338151,movie,PK,PK,0,2014,\N,153,"Comedy,Drama,Fantasy",2244360
+tt1325004,movie,The Twilight Saga: Eclipse,The Twilight Saga: Eclipse,0,2010,\N,124,"Adventure,Drama,Fantasy",1276697
+tt0120746,movie,The Mask of Zorro,The Mask of Zorro,0,1998,\N,136,"Action,Adventure,Comedy",78568
+tt1327801,tvSeries,Glee,Glee,0,2009,2015,44,"Comedy,Drama,Music",1281851
+tt0120783,movie,The Parent Trap,The Parent Trap,0,1998,\N,128,"Adventure,Comedy,Drama",78600
+tt2356777,tvSeries,True Detective,True Detective,0,2014,\N,55,"Crime,Drama,Mystery",2260714
+tt1335975,movie,47 Ronin,47 Ronin,0,2013,\N,128,"Action,Adventure,Drama",1289652
+tt0120815,movie,Saving Private Ryan,Saving Private Ryan,0,1998,\N,169,"Drama,War",78624
+tt0120912,movie,Men in Black II,Men in Black II,0,2002,\N,88,"Action,Adventure,Comedy",78694
+tt2361509,movie,The Intern,The Intern,0,2015,\N,121,"Comedy,Drama",2264878
+tt0120917,movie,The Emperor's New Groove,The Emperor's New Groove,0,2000,\N,78,"Adventure,Animation,Comedy",78697
+tt2381111,movie,Brooklyn,Brooklyn,0,2015,\N,117,"Drama,Romance",2275859
+tt0122690,movie,Ronin,Ronin,0,1998,\N,122,"Action,Adventure,Crime",128401
+tt2397535,movie,Predestination,Predestination,0,2014,\N,97,"Drama,Mystery,Sci-Fi",2304334
+tt0125439,movie,Notting Hill,Notting Hill,0,1999,\N,124,"Comedy,Drama,Romance",107971
+tt2404435,movie,The Magnificent Seven,The Magnificent Seven,0,2016,\N,132,"Action,Adventure,Western",2296567
+tt0125664,movie,Man on the Moon,Man on the Moon,0,1999,\N,118,"Biography,Comedy,Drama",100621
+tt2404463,movie,The Heat,The Heat,0,2013,\N,117,"Action,Comedy,Crime",2296592
+tt2488496,movie,Star Wars: The Force Awakens,Star Wars: Episode VII - The Force Awakens,0,2015,\N,136,"Action,Adventure,Fantasy",2341885
+tt2527336,movie,Star Wars: The Last Jedi,Star Wars: Episode VIII - The Last Jedi,0,2017,\N,152,"Action,Adventure,Fantasy",2344366
+tt2543164,movie,Arrival,Arrival,0,2016,\N,116,"Drama,Mystery,Sci-Fi",2353570
+tt2582496,movie,Me and Earl and the Dying Girl,Me and Earl and the Dying Girl,0,2015,\N,105,"Comedy,Drama,Romance",2372579
+tt2582846,movie,The Fault in Our Stars,The Fault in Our Stars,0,2014,\N,126,"Drama,Romance",2372720
+tt2704998,movie,Game Night,Game Night,0,2018,\N,100,"Action,Comedy,Crime",2418422
+tt2848292,movie,Pitch Perfect 2,Pitch Perfect 2,0,2015,\N,115,"Comedy,Music",2478422
+tt2872732,movie,Lucy,Lucy,0,2014,\N,89,"Action,Sci-Fi,Thriller",2501735
+tt2908446,movie,Insurgent,Insurgent,0,2015,\N,119,"Action,Adventure,Sci-Fi",2504102
+tt2975590,movie,Batman v Superman: Dawn of Justice,Batman v Superman: Dawn of Justice,0,2016,\N,151,"Action,Adventure,Fantasy",2261091
+tt2980516,movie,The Theory of Everything,The Theory of Everything,0,2014,\N,123,"Biography,Drama,Romance",2542656
+tt3062096,movie,Inferno,Inferno,0,2016,\N,121,"Action,Adventure,Crime",2568977
+tt3076658,movie,Creed,Creed,0,2015,\N,133,"Drama,Sport",2590124
+tt3110958,movie,Now You See Me 2,Now You See Me 2,0,2016,\N,129,"Action,Adventure,Comedy",2589066
+tt3263904,movie,Sully,Sully,0,2016,\N,96,"Biography,Drama",2654290
+tt3315342,movie,Logan,Logan,0,2017,\N,137,"Action,Drama,Sci-Fi",2689468
+tt3316960,movie,Still Alice,Still Alice,0,2014,\N,101,Drama,2686581
+tt3371366,movie,Transformers: The Last Knight,Transformers: The Last Knight,0,2017,\N,154,"Action,Adventure,Sci-Fi",2717374
+tt1355683,movie,Black Mass,Black Mass,0,2015,\N,123,"Biography,Crime,Drama",1318832
+tt3385516,movie,X-Men: Apocalypse,X-Men: Apocalypse,0,2016,\N,144,"Action,Adventure,Sci-Fi",2709687
+tt3393786,movie,Jack Reacher: Never Go Back,Jack Reacher: Never Go Back,0,2016,\N,118,"Action,Adventure,Thriller",2716395
+tt1371111,movie,Cloud Atlas,Cloud Atlas,0,2012,\N,172,"Action,Drama,Mystery",1319398
+tt3416742,movie,What We Do in the Shadows,What We Do in the Shadows,0,2014,\N,86,"Comedy,Horror",2720676
+tt1375666,movie,Inception,Inception,0,2010,\N,148,"Action,Adventure,Sci-Fi",1323790
+tt3470600,movie,Sing,Sing,0,2016,\N,108,"Animation,Comedy,Family",2746647
+tt1375670,movie,Grown Ups,Grown Ups,0,2010,\N,102,Comedy,1323794
+tt1386697,movie,Suicide Squad,Suicide Squad,0,2016,\N,123,"Action,Adventure,Fantasy",1341646
+tt1392214,movie,Prisoners,Prisoners,0,2013,\N,153,"Crime,Drama,Mystery",1339836
+tt3488710,movie,The Walk,The Walk,0,2015,\N,123,"Adventure,Biography,Drama",2754458
+tt1396484,movie,It,It,0,2017,\N,135,"Horror,Thriller",1343969
+tt1397280,movie,Taken 2,Taken 2,0,2012,\N,92,"Action,Crime,Thriller",1346293
+tt3498820,movie,Captain America: Civil War,Captain America: Civil War,0,2016,\N,147,"Action,Adventure,Sci-Fi",2758942
+tt1405406,tvSeries,The Vampire Diaries,The Vampire Diaries,0,2009,2017,43,"Drama,Fantasy,Horror",1352553
+tt3741834,movie,Lion,Lion,0,2016,\N,118,"Biography,Drama",2866376
+tt1411250,movie,Riddick,Riddick,0,2013,\N,119,"Action,Sci-Fi,Thriller",1368978
+tt3748528,movie,Rogue One: A Star Wars Story,Rogue One,0,2016,\N,133,"Action,Adventure,Sci-Fi",2880758
+tt1430132,movie,The Wolverine,The Wolverine,0,2013,\N,126,"Action,Adventure,Sci-Fi",1377975
+tt1439629,tvSeries,Community,Community,0,2009,2015,22,Comedy,1387175
+tt0128445,movie,Rushmore,Rushmore,0,1998,\N,93,"Comedy,Drama",122458
+tt3778644,movie,Solo: A Star Wars Story,Solo: A Star Wars Story,0,2018,\N,135,"Action,Adventure,Fantasy",2886184
+tt1440129,movie,Battleship,Battleship,0,2012,\N,131,"Action,Adventure,Sci-Fi",1404047
+tt0129167,movie,The Iron Giant,The Iron Giant,0,1999,\N,86,"Action,Adventure,Animation",119690
+tt1442437,tvSeries,Modern Family,Modern Family,0,2009,\N,22,"Comedy,Romance",1392450
+tt4154756,movie,Avengers: Infinity War,Avengers: Infinity War,0,2018,\N,149,"Action,Adventure,Fantasy",3051778
+tt0133093,movie,The Matrix,The Matrix,0,1999,\N,136,"Action,Sci-Fi",122906
+tt1453405,movie,Monsters University,Monsters University,0,2013,\N,104,"Adventure,Animation,Comedy",1413425
+tt1454029,movie,The Help,The Help,0,2011,\N,146,Drama,1406861
+tt1464540,movie,I Am Number Four,I Am Number Four,0,2011,\N,111,"Action,Adventure,Sci-Fi",1409886
+tt4158110,tvSeries,Mr. Robot,Mr. Robot,0,2015,\N,49,"Crime,Drama,Thriller",3046567
+tt1469304,movie,Baywatch,Baywatch,0,2017,\N,116,"Action,Comedy,Crime",1415992
+tt4178092,movie,The Gift,The Gift,0,2015,\N,108,"Drama,Mystery,Thriller",3056338
+tt1475582,tvSeries,Sherlock,Sherlock,0,2010,\N,88,"Crime,Drama,Mystery",1427686
+tt4196776,movie,Jason Bourne,Jason Bourne,0,2016,\N,123,"Action,Thriller",3081143
+tt1478338,movie,Bridesmaids,Bridesmaids,0,2011,\N,125,"Comedy,Romance",1441039
+tt4283094,tvEpisode,The Winds of Winter,The Winds of Winter,0,2016,\N,68,"Action,Adventure,Drama",3109006
+tt1486185,movie,Red Riding Hood,Red Riding Hood,0,2011,\N,100,"Fantasy,Horror,Mystery",1432227
+tt1504320,movie,The King's Speech,The King's Speech,0,2010,\N,118,"Biography,Drama,History",1462533
+tt1524137,movie,Contraband,Contraband,0,2012,\N,109,"Action,Crime,Drama",1468827
+tt4555426,movie,Darkest Hour,Darkest Hour,0,2017,\N,125,"Biography,Drama,History",3235114
+tt1570728,movie,"Crazy, Stupid, Love.","Crazy, Stupid, Love.",0,2011,\N,118,"Comedy,Drama,Romance",1507083
+tt1596343,movie,Fast Five,Fast Five,0,2011,\N,130,"Action,Crime,Thriller",1554806
+tt4912910,movie,Mission: Impossible - Fallout,Mission: Impossible - Fallout,0,2018,\N,147,"Action,Adventure,Thriller",3397039
+tt1598778,movie,Contagion,Contagion,0,2011,\N,106,"Drama,Thriller",1541792
+tt4975722,movie,Moonlight,Moonlight,0,2016,\N,111,Drama,3428865
+tt1637725,movie,Ted,Ted,0,2012,\N,106,"Comedy,Fantasy,Romance",1573348
+tt5013056,movie,Dunkirk,Dunkirk,0,2017,\N,106,"Action,Drama,History",3441871
+tt1650554,movie,Kick-Ass 2,Kick-Ass 2,0,2013,\N,103,"Action,Comedy,Crime",1585671
+tt1661199,movie,Cinderella,Cinderella,0,2015,\N,105,"Drama,Family,Fantasy",1609809
+tt1673434,movie,The Twilight Saga: Breaking Dawn - Part 2,The Twilight Saga: Breaking Dawn - Part 2,0,2012,\N,115,"Adventure,Drama,Fantasy",1625343
+tt5027774,movie,"Three Billboards Outside Ebbing, Missouri","Three Billboards Outside Ebbing, Missouri",0,2017,\N,115,"Comedy,Crime,Drama",3430901
+tt1675434,movie,The Intouchables,Intouchables,0,2011,\N,112,"Biography,Comedy,Drama",1611896
+tt5362988,movie,Wind River,Wind River,0,2017,\N,107,"Crime,Drama,Mystery",3598136
+tt1727388,movie,The Way Way Back,The Way Way Back,0,2013,\N,103,"Comedy,Drama",1658515
+tt5463162,movie,Deadpool 2,Deadpool 2,0,2018,\N,119,"Action,Adventure,Comedy",3636788
+tt1735898,movie,Snow White and the Huntsman,Snow White and the Huntsman,0,2012,\N,127,"Action,Adventure,Drama",1666718
+tt5675620,tvSeries,The Punisher,The Punisher,0,2017,\N,53,"Action,Adventure,Crime",3728713
+tt1748122,movie,Moonrise Kingdom,Moonrise Kingdom,0,2012,\N,94,"Adventure,Comedy,Drama",1679911
+tt1764234,movie,Killing Them Softly,Killing Them Softly,0,2012,\N,97,"Crime,Thriller",1704913
+tt1764651,movie,The Expendables 2,The Expendables 2,0,2012,\N,103,"Action,Adventure,Thriller",1701391
+tt7784604,movie,Hereditary,Hereditary,0,2018,\N,127,"Drama,Horror,Mystery",4696179
+tt1790864,movie,The Maze Runner,The Maze Runner,0,2014,\N,113,"Action,Mystery,Sci-Fi",1726072
+tt1790886,movie,The Campaign,The Campaign,0,2012,\N,85,Comedy,1726093
+tt1798684,movie,Southpaw,Southpaw,0,2015,\N,124,"Drama,Sport",1740764
+tt1809398,movie,Unbroken,Unbroken,0,2014,\N,137,"Biography,Drama,Sport",1737279
+tt1817273,movie,The Place Beyond the Pines,The Place Beyond the Pines,0,2012,\N,140,"Crime,Drama,Thriller",1750417
+tt1821549,movie,Nebraska,Nebraska,0,2013,\N,115,"Adventure,Comedy,Drama",1753963
+tt1837642,tvSeries,Revenge,Revenge,0,2011,2015,44,"Drama,Mystery,Thriller",1775109
+tt1839578,tvSeries,Person of Interest,Person of Interest,0,2011,2016,43,"Action,Crime,Drama",1769786
+tt1843230,tvSeries,Once Upon a Time,Once Upon a Time,0,2011,2018,60,"Adventure,Fantasy,Romance",1774854
+tt1862079,movie,Safety Not Guaranteed,Safety Not Guaranteed,0,2012,\N,86,"Comedy,Drama,Romance",1805848
+tt1872194,movie,The Judge,The Judge,0,2014,\N,141,"Crime,Drama",1805422
+tt1877832,movie,X-Men: Days of Future Past,X-Men: Days of Future Past,0,2014,\N,132,"Action,Adventure,Sci-Fi",1808359
+tt1895587,movie,Spotlight,Spotlight,0,2015,\N,129,"Crime,Drama,History",1841720
+tt1899353,movie,The Raid: Redemption,Serbuan maut,0,2011,\N,101,"Action,Thriller",1829034
+tt1905041,movie,Fast & Furious 6,Furious 6,0,2013,\N,130,"Action,Crime,Thriller",1843720
+tt1924435,movie,Let's Be Cops,Let's Be Cops,0,2014,\N,104,"Comedy,Crime",1851675
+tt1931533,movie,Seven Psychopaths,Seven Psychopaths,0,2012,\N,110,"Comedy,Crime",1862551
+tt1981115,movie,Thor: The Dark World,Thor: The Dark World,0,2013,\N,112,"Action,Adventure,Fantasy",1920557
+tt2024544,movie,12 Years a Slave,12 Years a Slave,0,2013,\N,134,"Biography,Drama,History",1955468
+tt2084970,movie,The Imitation Game,The Imitation Game,0,2014,\N,114,"Biography,Drama,Thriller",2011160
+tt2094766,movie,Assassin's Creed,Assassin's Creed,0,2016,\N,115,"Action,Adventure,Fantasy",2030183
+tt2126355,movie,San Andreas,San Andreas,0,2015,\N,114,"Action,Adventure,Drama",2055925
+tt2140479,movie,The Accountant,The Accountant,0,2016,\N,128,"Action,Crime,Drama",2061693
+tt2179136,movie,American Sniper,American Sniper,0,2014,\N,133,"Action,Biography,Drama",2111602
+tt2209418,movie,Before Midnight,Before Midnight,0,2013,\N,109,"Drama,Romance",2122698
+tt2243973,tvSeries,Hannibal,Hannibal,0,2013,2015,44,"Crime,Drama,Horror",2147743
+tt2245084,movie,Big Hero 6,Big Hero 6,0,2014,\N,102,"Action,Adventure,Animation",2165625
+tt2250912,movie,Spider-Man: Homecoming,Spider-Man: Homecoming,0,2017,\N,133,"Action,Adventure,Sci-Fi",2163333
+tt2277860,movie,Finding Dory,Finding Dory,0,2016,\N,97,"Adventure,Animation,Comedy",2191040
+tt2278871,movie,Blue Is the Warmest Color,La vie d'AdÃ¨le,0,2013,\N,180,"Drama,Romance",2184288
+tt2293640,movie,Minions,Minions,0,2015,\N,91,"Action,Adventure,Animation",2193814
+tt2305051,movie,Wild,Wild,0,2014,\N,115,"Adventure,Biography,Drama",2215322
+tt2310332,movie,The Hobbit: The Battle of the Five Armies,The Hobbit: The Battle of the Five Armies,0,2014,\N,144,"Adventure,Fantasy",2216426
+tt2316411,movie,Enemy,Enemy,0,2013,\N,91,"Mystery,Thriller",2211719
+tt2321549,movie,The Babadook,The Babadook,0,2014,\N,93,"Drama,Horror",2216730
+tt2322441,movie,Fifty Shades of Grey,Fifty Shades of Grey,0,2015,\N,125,"Drama,Romance,Thriller",2238500
+tt2334879,movie,White House Down,White House Down,0,2013,\N,131,"Action,Drama,Thriller",2230031
+tt2345759,movie,The Mummy,The Mummy,0,2017,\N,110,"Action,Adventure,Fantasy",2237787
+tt2364582,tvSeries,Agents of S.H.I.E.L.D.,Agents of S.H.I.E.L.D.,0,2013,\N,45,"Action,Adventure,Drama",2275169
+tt2372162,tvSeries,Orange Is the New Black,Orange Is the New Black,0,2013,\N,59,"Comedy,Crime,Drama",2266021
+tt0133751,movie,The Faculty,The Faculty,0,1998,\N,104,"Horror,Sci-Fi",121375
+tt0137523,movie,Fight Club,Fight Club,0,1999,\N,139,Drama,127108
+tt0139134,movie,Cruel Intentions,Cruel Intentions,0,1999,\N,97,"Drama,Romance",147924
+tt0139654,movie,Training Day,Training Day,0,2001,\N,122,"Crime,Drama,Thriller",144441
+tt0143145,movie,The World Is Not Enough,The World Is Not Enough,0,1999,\N,128,"Action,Adventure,Thriller",128837
+tt0144084,movie,American Psycho,American Psycho,0,2000,\N,101,"Crime,Drama",148671
+tt0146838,movie,Any Given Sunday,Any Given Sunday,0,1999,\N,162,"Drama,Sport",133775
+tt0146882,movie,High Fidelity,High Fidelity,0,2000,\N,113,"Comedy,Drama,Music",133817
+tt0149261,movie,Deep Blue Sea,Deep Blue Sea,0,1999,\N,105,"Action,Sci-Fi,Thriller",146194
+tt0149460,tvSeries,Futurama,Futurama,0,1999,2013,22,"Animation,Comedy,Sci-Fi",146380
+tt0162346,movie,Ghost World,Ghost World,0,2001,\N,111,"Comedy,Drama",158629
+tt0162661,movie,Sleepy Hollow,Sleepy Hollow,0,1999,\N,105,"Fantasy,Horror,Mystery",158932
+tt0163025,movie,Jurassic Park III,Jurassic Park III,0,2001,\N,92,"Action,Adventure,Sci-Fi",155285
+tt2380307,movie,Coco,Coco,0,2017,\N,105,"Adventure,Animation,Comedy",2278258
+tt0166924,movie,Mulholland Dr.,Mulholland Dr.,0,2001,\N,147,"Drama,Mystery,Thriller",162854
+tt0167190,movie,Hellboy,Hellboy,0,2004,\N,122,"Action,Fantasy,Horror",159126
+tt2381249,movie,Mission: Impossible - Rogue Nation,Mission: Impossible - Rogue Nation,0,2015,\N,131,"Action,Adventure,Thriller",2275979
+tt0175142,movie,Scary Movie,Scary Movie,0,2000,\N,88,Comedy,174353
+tt0180093,movie,Requiem for a Dream,Requiem for a Dream,0,2000,\N,102,Drama,175297
+tt2388715,movie,Oculus,Oculus,0,2013,\N,104,"Horror,Mystery",2292890
+tt0181852,movie,Terminator 3: Rise of the Machines,Terminator 3: Rise of the Machines,0,2003,\N,109,"Action,Sci-Fi",165413
+tt2395427,movie,Avengers: Age of Ultron,Avengers: Age of Ultron,0,2015,\N,141,"Action,Adventure,Sci-Fi",2286028
+tt0183505,movie,"Me, Myself & Irene","Me, Myself & Irene",0,2000,\N,116,Comedy,182170
+tt2404311,movie,The Family,The Family,0,2013,\N,111,"Comedy,Crime,Thriller",2296461
+tt0183649,movie,Phone Booth,Phone Booth,0,2002,\N,81,"Crime,Thriller",182303
+tt2431438,tvSeries,Sense8,Sense8,0,2015,2018,60,"Drama,Mystery,Sci-Fi",2311130
+tt0184894,movie,Shanghai Noon,Shanghai Noon,0,2000,\N,110,"Action,Adventure,Comedy",175811
+tt2467372,tvSeries,Brooklyn Nine-Nine,Brooklyn Nine-Nine,0,2013,\N,22,"Comedy,Crime",2336823
+tt0190590,movie,"O Brother, Where Art Thou?","O Brother, Where Art Thou?",0,2000,\N,107,"Adventure,Comedy,Crime",175482
+tt2557490,movie,A Million Ways to Die in the West,A Million Ways to Die in the West,0,2014,\N,116,"Comedy,Western",2356692
+tt0203009,movie,Moulin Rouge!,Moulin Rouge!,0,2001,\N,127,"Drama,Musical,Romance",188624
+tt2637276,movie,Ted 2,Ted 2,0,2015,\N,115,Comedy,2389685
+tt0212338,movie,Meet the Parents,Meet the Parents,0,2000,\N,108,"Comedy,Romance",199263
+tt2674426,movie,Me Before You,Me Before You,0,2016,\N,106,"Drama,Romance",2405082
+tt2709768,movie,The Secret Life of Pets,The Secret Life of Pets,0,2016,\N,87,"Adventure,Animation,Comedy",2426023
+tt2719848,movie,Everest,Everest,0,2015,\N,121,"Action,Adventure,Biography",2430125
+tt2771200,movie,Beauty and the Beast,Beauty and the Beast,0,2017,\N,129,"Family,Fantasy,Musical",2445797
+tt2820852,movie,Furious 7,Furious Seven,0,2015,\N,137,"Action,Crime,Thriller",2465282
+tt2861424,tvSeries,Rick and Morty,Rick and Morty,0,2013,\N,23,"Adventure,Animation,Comedy",2483953
+tt2873282,movie,Red Sparrow,Red Sparrow,0,2018,\N,140,"Action,Drama,Thriller",2501940
+tt2911666,movie,John Wick,John Wick,0,2014,\N,101,"Action,Crime,Thriller",2518237
+tt2975578,movie,The Purge: Anarchy,The Purge: Anarchy,0,2014,\N,103,"Action,Horror,Thriller",2261086
+tt3032476,tvSeries,Better Call Saul,Better Call Saul,0,2015,\N,46,"Crime,Drama",2556429
+tt3183660,movie,Fantastic Beasts and Where to Find Them,Fantastic Beasts and Where to Find Them,0,2016,\N,133,"Adventure,Family,Fantasy",2631700
+tt3460252,movie,The Hateful Eight,The Hateful Eight,0,2015,\N,187,"Crime,Drama,Mystery",2742328
+tt3501632,movie,Thor: Ragnarok,Thor: Ragnarok,0,2017,\N,130,"Action,Adventure,Comedy",2757601
+tt3532216,movie,American Made,American Made,0,2017,\N,115,"Action,Biography,Comedy",2786847
+tt3569230,movie,Legend,Legend,0,2015,\N,132,"Biography,Crime,Drama",2802876
+tt3606756,movie,Incredibles 2,Incredibles 2,0,2018,\N,118,"Action,Adventure,Animation",2794880
+tt3640424,movie,Allied,Allied,0,2016,\N,124,"Action,Drama,Romance",2818187
+tt3749900,tvSeries,Gotham,Gotham,0,2014,\N,42,"Action,Crime,Drama",2877412
+tt3774114,movie,Snowden,Snowden,0,2016,\N,134,"Biography,Drama,Thriller",2870429
+tt3783958,movie,La La Land,La La Land,0,2016,\N,128,"Comedy,Drama,Music",2875173
+tt4052886,tvSeries,Lucifer,Lucifer,0,2015,\N,42,"Crime,Drama,Fantasy",3005847
+tt4160708,movie,Don't Breathe,Don't Breathe,0,2016,\N,88,"Crime,Horror,Thriller",3065092
+tt4263482,movie,The Witch,The VVitch: A New-England Folktale,0,2015,\N,92,"Horror,Mystery",3103683
+tt4972582,movie,Split,Split,0,2016,\N,117,"Horror,Thriller",3408693
+tt5074352,movie,Dangal,Dangal,0,2016,\N,161,"Action,Biography,Drama",3452179
+tt5109784,movie,Mother!,Mother!,0,2017,\N,121,"Drama,Horror,Mystery",3469663
+tt5311514,movie,Your Name.,Kimi no na wa.,0,2016,\N,106,"Animation,Drama,Fantasy",3562360
+tt5442430,movie,Life,Life,0,2017,\N,104,"Horror,Sci-Fi,Thriller",3634547
+tt5580390,movie,The Shape of Water,The Shape of Water,0,2017,\N,123,"Adventure,Drama,Fantasy",3693040
+tt6644200,movie,A Quiet Place,A Quiet Place,0,2018,\N,90,"Drama,Horror,Mystery",4160584
+tt0212720,movie,A.I. Artificial Intelligence,Artificial Intelligence: AI,0,2001,\N,146,"Adventure,Drama,Sci-Fi",200656
+tt0212985,movie,Hannibal,Hannibal,0,2001,\N,131,"Crime,Drama,Thriller",200910
+tt0215129,movie,Road Trip,Road Trip,0,2000,\N,93,"Adventure,Comedy",208573
+tt0216216,movie,The 6th Day,The 6th Day,0,2000,\N,123,"Action,Mystery,Sci-Fi",203976
+tt0232500,movie,The Fast and the Furious,The Fast and the Furious,0,2001,\N,106,"Action,Crime,Thriller",224982
+tt0238380,movie,Equilibrium,Equilibrium,0,2002,\N,107,"Action,Drama,Sci-Fi",223475
+tt0241527,movie,Harry Potter and the Sorcerer's Stone,Harry Potter and the Sorcerer's Stone,0,2001,\N,152,"Adventure,Family,Fantasy",230602
+tt0248654,tvSeries,Six Feet Under,Six Feet Under,0,2001,2005,55,"Comedy,Drama",244073
+tt0249462,movie,Billy Elliot,Billy Elliot,0,2000,\N,110,"Drama,Music,Romance",241257
+tt0253556,movie,Reign of Fire,Reign of Fire,0,2002,\N,101,"Action,Adventure,Fantasy",245141
+tt0256380,movie,Shallow Hal,Shallow Hal,0,2001,\N,114,"Comedy,Drama,Fantasy",258616
+tt0257106,movie,Scary Movie 2,Scary Movie 2,0,2001,\N,83,Comedy,255726
+tt0265666,movie,The Royal Tenenbaums,The Royal Tenenbaums,0,2001,\N,110,"Comedy,Drama",263903
+tt0266987,movie,Spy Game,Spy Game,0,2001,\N,126,"Action,Crime,Thriller",254922
+tt0268126,movie,Adaptation.,Adaptation.,0,2002,\N,115,"Comedy,Drama",251918
+tt0272152,movie,K-PAX,K-PAX,0,2001,\N,120,"Drama,Sci-Fi",257317
+tt0274166,movie,Johnny English,Johnny English,0,2003,\N,88,"Action,Adventure,Comedy",272053
+tt0287978,movie,Daredevil,Daredevil,0,2003,\N,103,"Action,Adventure,Crime",278102
+tt0290002,movie,Meet the Fockers,Meet the Fockers,0,2004,\N,115,"Comedy,Romance",274404
+tt0293508,movie,The Phantom of the Opera,The Phantom of the Opera,0,2004,\N,143,"Drama,Musical,Romance",277759
+tt0295178,movie,Austin Powers in Goldmember,Austin Powers in Goldmember,0,2002,\N,94,"Action,Adventure,Comedy",295753
+tt0298130,movie,The Ring,The Ring,0,2002,\N,115,"Horror,Mystery",280658
+tt0306047,movie,Scary Movie 3,Scary Movie 3,0,2003,\N,84,Comedy,289695
+tt0309593,movie,Final Destination 2,Final Destination 2,0,2003,\N,90,"Horror,Thriller",298744
+tt0311429,movie,The League of Extraordinary Gentlemen,The League of Extraordinary Gentlemen,0,2003,\N,110,"Action,Adventure,Fantasy",294888
+tt0317219,movie,Cars,Cars,0,2006,\N,117,"Animation,Comedy,Family",309695
+tt0319343,movie,Elf,Elf,0,2003,\N,97,"Comedy,Family,Fantasy",300997
+tt0320691,movie,Underworld,Underworld,0,2003,\N,121,"Action,Fantasy,Thriller",320224
+tt0325703,movie,Lara Croft Tomb Raider: The Cradle of Life,Lara Croft Tomb Raider: The Cradle of Life,0,2003,\N,117,"Action,Adventure,Fantasy",317931
+tt0325710,movie,The Last Samurai,The Last Samurai,0,2003,\N,154,"Action,Drama,History",317938
+tt0325980,movie,Pirates of the Caribbean: The Curse of the Black Pearl,Pirates of the Caribbean: The Curse of the Black Pearl,0,2003,\N,143,"Action,Adventure,Fantasy",318199
+tt0330373,movie,Harry Potter and the Goblet of Fire,Harry Potter and the Goblet of Fire,0,2005,\N,157,"Adventure,Family,Fantasy",318861
+tt0335266,movie,Lost in Translation,Lost in Translation,0,2003,\N,102,Drama,320576
+tt0338564,movie,Infernal Affairs,Mou gaan dou,0,2002,\N,101,"Crime,Drama,Mystery",330432
+tt0338751,movie,The Aviator,The Aviator,0,2004,\N,170,"Biography,Drama,History",327027
+tt0347149,movie,Howl's Moving Castle,Hauru no ugoku shiro,0,2004,\N,119,"Adventure,Animation,Family",338511
+tt0349683,movie,King Arthur,King Arthur,0,2004,\N,126,"Action,Adventure,Drama",331752
+tt0352248,movie,Cinderella Man,Cinderella Man,0,2005,\N,144,"Biography,Drama,Sport",336833
+tt0356910,movie,Mr. & Mrs. Smith,Mr. & Mrs. Smith,0,2005,\N,120,"Action,Comedy,Crime",338823
+tt0358082,movie,Robots,Robots,0,2005,\N,91,"Adventure,Animation,Comedy",339973
+tt0358273,movie,Walk the Line,Walk the Line,0,2005,\N,136,"Biography,Drama,Music",340159
+tt0359013,movie,Blade: Trinity,Blade: Trinity,0,2004,\N,113,"Action,Adventure,Horror",353685
+tt0359950,movie,The Secret Life of Walter Mitty,The Secret Life of Walter Mitty,0,2013,\N,114,"Adventure,Comedy,Drama",351023
+tt0361596,movie,Fahrenheit 9/11,Fahrenheit 9/11,0,2004,\N,122,"Documentary,Drama,War",341871
+tt0361862,movie,The Machinist,The Machinist,0,2004,\N,101,"Drama,Thriller",342126
+tt0363547,movie,Dawn of the Dead,Dawn of the Dead,0,2004,\N,101,"Action,Horror,Thriller",358094
+tt0364569,movie,Oldboy,Oldeuboi,0,2003,\N,120,"Action,Drama,Mystery",351924
+tt0364725,movie,Dodgeball: A True Underdog Story,Dodgeball: A True Underdog Story,0,2004,\N,92,"Comedy,Sport",352078
+tt0367279,tvSeries,Arrested Development,Arrested Development,0,2003,\N,22,Comedy,365269
+tt0371724,movie,The Hitchhiker's Guide to the Galaxy,The Hitchhiker's Guide to the Galaxy,0,2005,\N,109,"Adventure,Comedy,Sci-Fi",365970
+tt0372183,movie,The Bourne Supremacy,The Bourne Supremacy,0,2004,\N,108,"Action,Mystery,Thriller",366411
+tt0373051,movie,Journey to the Center of the Earth,Journey to the Center of the Earth,0,2008,\N,93,"Action,Adventure,Family",360078
+tt0373074,movie,Kung Fu Hustle,Kung fu,0,2004,\N,99,"Action,Comedy,Crime",360101
+tt0373469,movie,Kiss Kiss Bang Bang,Kiss Kiss Bang Bang,0,2005,\N,103,"Action,Comedy,Crime",357411
+tt0373883,movie,Halloween,Halloween,0,2007,\N,109,"Fantasy,Horror",355251
+tt0373889,movie,Harry Potter and the Order of the Phoenix,Harry Potter and the Order of the Phoenix,0,2007,\N,138,"Adventure,Family,Fantasy",355257
+tt0376994,movie,X-Men: The Last Stand,X-Men: The Last Stand,0,2006,\N,104,"Action,Adventure,Sci-Fi",363904
+tt0381707,movie,White Chicks,White Chicks,0,2004,\N,109,"Comedy,Crime",365415
+tt0384793,movie,Accepted,Accepted,0,2006,\N,93,Comedy,378363
+tt0385002,movie,Green Street Hooligans,Hooligans,0,2005,\N,109,"Crime,Drama,Sport",378566
+tt0385004,movie,House of Flying Daggers,Shi mian mai fu,0,2004,\N,119,"Action,Adventure,Drama",378568
+tt0387199,tvSeries,Entourage,Entourage,0,2004,2011,28,"Comedy,Drama",367893
+tt0388795,movie,Brokeback Mountain,Brokeback Mountain,0,2005,\N,134,"Drama,Romance",385842
+tt0389722,movie,30 Days of Night,30 Days of Night,0,2007,\N,113,"Horror,Thriller",379579
+tt0389790,movie,Bee Movie,Bee Movie,0,2007,\N,91,"Adventure,Animation,Comedy",379646
+tt0401792,movie,Sin City,Sin City,0,2005,\N,124,"Crime,Thriller",394897
+tt0401855,movie,Underworld: Evolution,Underworld: Evolution,0,2006,\N,106,"Action,Adventure,Fantasy",394960
+tt0405159,movie,Million Dollar Baby,Million Dollar Baby,0,2004,\N,132,"Drama,Sport",401760
+tt0407887,movie,The Departed,The Departed,0,2006,\N,151,"Crime,Drama,Thriller",388037
+tt0408306,movie,Munich,Munich,0,2005,\N,164,"Drama,History,Thriller",388439
+tt0409459,movie,Watchmen,Watchmen,0,2009,\N,162,"Action,Drama,Mystery",405945
+tt0409847,movie,Cowboys & Aliens,Cowboys & Aliens,0,2011,\N,119,"Action,Sci-Fi,Thriller",406324
+tt0411008,tvSeries,Lost,Lost,0,2004,2010,44,"Adventure,Drama,Fantasy",396719
+tt0411477,movie,Hellboy II: The Golden Army,Hellboy II: The Golden Army,0,2008,\N,120,"Action,Adventure,Fantasy",394099
+tt0414387,movie,Pride & Prejudice,Pride & Prejudice,0,2005,\N,129,"Drama,Romance",407180
+tt0414982,movie,Final Destination 3,Final Destination 3,0,2006,\N,93,"Horror,Thriller",404169
+tt0416449,movie,300,300,0,2006,\N,117,"Action,Fantasy",396369
+tt0424345,movie,Clerks II,Clerks II,0,2006,\N,97,Comedy,406651
+tt0430105,movie,Four Brothers,Four Brothers,0,2005,\N,109,"Action,Crime,Drama",409725
+tt0431197,movie,The Kingdom,The Kingdom,0,2007,\N,110,"Action,Drama,Thriller",423582
+tt0431308,movie,P.S. I Love You,P.S. I Love You,0,2007,\N,126,"Drama,Romance",423690
+tt0432348,movie,Saw II,Saw II,0,2005,\N,93,"Horror,Mystery",417534
+tt0435651,movie,The Giver,The Giver,0,2014,\N,97,"Drama,Romance,Sci-Fi",424339
+tt0435705,movie,Next,Next,0,2007,\N,96,"Action,Sci-Fi,Thriller",424391
+tt0436992,tvSeries,Doctor Who,Doctor Who,0,2005,\N,45,"Adventure,Drama,Family",418986
+tt0438488,movie,Terminator Salvation,Terminator Salvation,0,2009,\N,115,"Action,Adventure,Sci-Fi",417882
+tt0440963,movie,The Bourne Ultimatum,The Bourne Ultimatum,0,2007,\N,115,"Action,Mystery,Thriller",422875
+tt0441773,movie,Kung Fu Panda,Kung Fu Panda,0,2008,\N,92,"Action,Adventure,Animation",421100
+tt0443649,movie,"10,000 BC","10,000 BC",0,2008,\N,109,"Action,Adventure,Drama",435728
+tt0443706,movie,Zodiac,Zodiac,0,2007,\N,157,"Crime,Drama,Mystery",435782
+tt0446029,movie,Scott Pilgrim vs. the World,Scott Pilgrim vs. the World,0,2010,\N,112,"Action,Comedy,Fantasy",425256
+tt0448011,movie,Knowing,Knowing,0,2009,\N,121,"Action,Drama,Mystery",439953
+tt0449467,movie,Babel,Babel,0,2006,\N,143,Drama,431131
+tt0450232,movie,16 Blocks,16 Blocks,0,2006,\N,102,"Action,Crime,Drama",429318
+tt0451079,movie,Horton Hears a Who!,Horton Hears a Who!,0,2008,\N,86,"Adventure,Animation,Comedy",430144
+tt0452046,tvSeries,Criminal Minds,Criminal Minds,0,2005,\N,42,"Crime,Drama,Mystery",443883
+tt0452608,movie,Death Race,Death Race,0,2008,\N,105,"Action,Sci-Fi,Thriller",440849
+tt0454921,movie,The Pursuit of Happyness,The Pursuit of Happyness,0,2006,\N,117,"Biography,Drama",432334
+tt0455275,tvSeries,Prison Break,Prison Break,0,2005,2017,44,"Action,Crime,Drama",434220
+tt0457430,movie,Pan's Labyrinth,El laberinto del fauno,0,2006,\N,118,"Drama,Fantasy,War",441945
+tt0458339,movie,Captain America: The First Avenger,Captain America: The First Avenger,0,2011,\N,124,"Action,Adventure,Sci-Fi",437204
+tt0460627,tvSeries,Bones,Bones,0,2005,2017,40,"Comedy,Crime,Drama",452267
+tt0460649,tvSeries,How I Met Your Mother,How I Met Your Mother,0,2005,2014,22,"Comedy,Romance",452288
+tt0461770,movie,Enchanted,Enchanted,0,2007,\N,107,"Animation,Comedy,Family",446209
+tt0462538,movie,The Simpsons Movie,The Simpsons Movie,0,2007,\N,87,"Adventure,Animation,Comedy",441302
+tt0465234,movie,National Treasure: Book of Secrets,National Treasure: Book of Secrets,0,2007,\N,124,"Action,Adventure,Family",453152
+tt0465538,movie,Michael Clayton,Michael Clayton,0,2007,\N,119,"Crime,Drama,Mystery",453443
+tt0467197,movie,Max Payne,Max Payne,0,2008,\N,100,"Action,Crime,Drama",444295
+tt0471042,movie,Tower Heist,Tower Heist,0,2011,\N,104,"Action,Comedy,Crime",449584
+tt0477348,movie,No Country for Old Men,No Country for Old Men,0,2007,\N,122,"Crime,Drama,Thriller",468876
+tt0478311,movie,Knocked Up,Knocked Up,0,2007,\N,129,"Comedy,Romance",463189
+tt0480249,movie,I Am Legend,I Am Legend,0,2007,\N,101,"Drama,Horror,Sci-Fi",461093
+tt0482606,movie,The Strangers,The Strangers,0,2008,\N,86,"Horror,Mystery,Thriller",457706
+tt0493464,movie,Wanted,Wanted,0,2008,\N,110,"Action,Crime,Fantasy",487793
+tt0496424,tvSeries,30 Rock,30 Rock,0,2006,2013,22,Comedy,468621
+tt0498380,movie,Letters from Iwo Jima,Letters from Iwo Jima,0,2006,\N,141,"Drama,History,War",484844
+tt0765429,movie,American Gangster,American Gangster,0,2007,\N,157,"Biography,Crime,Drama",741365
+tt0765443,movie,Eastern Promises,Eastern Promises,0,2007,\N,100,"Crime,Drama,Mystery",741377
+tt0770828,movie,Man of Steel,Man of Steel,0,2013,\N,143,"Action,Adventure,Fantasy",742438
+tt0796366,movie,Star Trek,Star Trek,0,2009,\N,127,"Action,Adventure,Sci-Fi",767206
+tt0800369,movie,Thor,Thor,0,2011,\N,115,"Action,Adventure,Fantasy",771090
+tt0808151,movie,Angels & Demons,Angels & Demons,0,2009,\N,138,"Mystery,Thriller",780236
+tt0816711,movie,World War Z,World War Z,0,2013,\N,116,"Action,Adventure,Horror",788512
+tt0817230,movie,Valentine's Day,Valentine's Day,0,2010,\N,125,"Comedy,Romance",787486
+tt0822832,movie,Marley & Me,Marley & Me,0,2008,\N,115,"Comedy,Drama,Family",807308
+tt0822847,movie,Priest,Priest,0,2011,\N,87,"Action,Fantasy,Horror",807319
+tt0829150,movie,Dracula Untold,Dracula Untold,0,2014,\N,92,"Action,Drama,Fantasy",803120
+tt0829482,movie,Superbad,Superbad,0,2007,\N,113,Comedy,800870
+tt0831387,movie,Godzilla,Godzilla,0,2014,\N,123,"Action,Adventure,Sci-Fi",815511
+tt0838283,movie,Step Brothers,Step Brothers,0,2008,\N,98,Comedy,807813
+tt0870984,movie,Antichrist,Antichrist,0,2009,\N,108,"Drama,Horror",843634
+tt0887883,movie,Burn After Reading,Burn After Reading,0,2008,\N,96,"Comedy,Crime,Drama",863051
+tt0892791,movie,Shrek Forever After,Shrek Forever After,0,2010,\N,93,"Adventure,Animation,Comedy",862161
+tt0898266,tvSeries,The Big Bang Theory,The Big Bang Theory,0,2007,\N,22,"Comedy,Romance",867397
+tt0903624,movie,The Hobbit: An Unexpected Journey,The Hobbit: An Unexpected Journey,0,2012,\N,169,"Adventure,Family,Fantasy",885349
+tt0905372,movie,The Thing,The Thing,0,2011,\N,103,"Horror,Mystery,Sci-Fi",876781
+tt0907657,movie,Once,Once,0,2007,\N,86,"Drama,Music,Romance",889213
+tt0914798,movie,The Boy in the Striped Pajamas,The Boy in the Striped Pyjamas,0,2008,\N,94,"Drama,War",881759
+tt0947798,movie,Black Swan,Black Swan,0,2010,\N,108,"Drama,Thriller",915326
+tt0948470,movie,The Amazing Spider-Man,The Amazing Spider-Man,0,2012,\N,136,"Action,Adventure,Sci-Fi",914444
+tt0960144,movie,You Don't Mess with the Zohan,You Don't Mess with the Zohan,0,2008,\N,113,Comedy,929835
+tt0963966,movie,The Sorcerer's Apprentice,The Sorcerer's Apprentice,0,2010,\N,109,"Action,Adventure,Family",936614
+tt0979432,tvSeries,Boardwalk Empire,Boardwalk Empire,0,2010,2014,55,"Crime,Drama,History",962262
+tt0983193,movie,The Adventures of Tintin,The Adventures of Tintin,0,2011,\N,107,"Action,Adventure,Animation",949553
+tt0989757,movie,Dear John,Dear John,0,2010,\N,108,"Drama,Romance,War",958496
+tt0990407,movie,The Green Hornet,The Green Hornet,0,2011,\N,119,"Action,Comedy,Crime",956568
+tt0993842,movie,Hanna,Hanna,0,2011,\N,111,"Action,Drama,Thriller",962459
+tt0993846,movie,The Wolf of Wall Street,The Wolf of Wall Street,0,2013,\N,180,"Biography,Comedy,Crime",962461
+tt1007028,movie,Zack and Miri Make a Porno,Zack and Miri Make a Porno,0,2008,\N,101,"Comedy,Romance",975096
+tt1010048,movie,Slumdog Millionaire,Slumdog Millionaire,0,2008,\N,120,"Drama,Romance",980077
+tt1013752,movie,Fast & Furious,Fast & Furious,0,2009,\N,107,"Action,Crime,Thriller",987982
+tt1033575,movie,The Descendants,The Descendants,0,2011,\N,115,"Comedy,Drama",1014689
+tt1033643,movie,What Happens in Vegas,What Happens in Vegas,0,2008,\N,99,"Comedy,Romance",1014752
+tt1037705,movie,The Book of Eli,The Book of Eli,0,2010,\N,118,"Action,Adventure,Drama",997822
+tt1038919,movie,The Bounty Hunter,The Bounty Hunter,0,2010,\N,110,"Action,Comedy,Romance",1012127
+tt1041829,movie,The Proposal,The Proposal,0,2009,\N,108,"Comedy,Drama,Romance",999757
+tt1055292,movie,Life as We Know It,Life as We Know It,0,2010,\N,114,"Comedy,Drama,Romance",1035543
+tt1071875,movie,Ghost Rider: Spirit of Vengeance,Ghost Rider: Spirit of Vengeance,0,2011,\N,96,"Action,Fantasy,Thriller",1051550
+tt1074638,movie,Skyfall,Skyfall,0,2012,\N,143,"Action,Adventure,Thriller",1034892
+tt1077368,movie,Dark Shadows,Dark Shadows,0,2012,\N,113,"Comedy,Fantasy,Horror",1049137
+tt1099212,movie,Twilight,Twilight,0,2008,\N,122,"Drama,Fantasy,Romance",1066414
+tt1111422,movie,The Taking of Pelham 123,The Taking of Pelham 123,0,2009,\N,106,"Action,Crime,Thriller",1081702
+tt1121931,movie,Crank: High Voltage,Crank: High Voltage,0,2009,\N,96,"Action,Crime,Thriller",1083476
+tt1124035,movie,The Ides of March,The Ides of March,0,2011,\N,101,"Drama,Thriller",1100778
+tt1125849,movie,The Wrestler,The Wrestler,0,2008,\N,109,"Drama,Sport",1091084
+tt1127180,movie,Drag Me to Hell,Drag Me to Hell,0,2009,\N,99,"Horror,Thriller",1082265
+tt1136608,movie,District 9,District 9,0,2009,\N,112,"Sci-Fi,Thriller",1089862
+tt1139797,movie,Let the Right One In,LÃ¥t den rÃ¤tte komma in,0,2008,\N,115,"Drama,Horror,Romance",1096489
+tt1152836,movie,Public Enemies,Public Enemies,0,2009,\N,140,"Biography,Crime,Drama",1106850
+tt1170358,movie,The Hobbit: The Desolation of Smaug,The Hobbit: The Desolation of Smaug,0,2013,\N,161,"Adventure,Fantasy",1124104
+tt1187043,movie,3 Idiots,3 Idiots,0,2009,\N,170,"Comedy,Drama",1139592
+tt1189073,movie,The Skin I Live In,La piel que habito,0,2011,\N,120,"Drama,Horror,Thriller",1159164
+tt1211956,movie,Escape Plan,Escape Plan,0,2013,\N,115,"Action,Crime,Mystery",1169747
+tt1212450,movie,Lawless,Lawless,0,2012,\N,116,"Crime,Drama",1166778
+tt1231583,movie,Due Date,Due Date,0,2010,\N,95,"Adventure,Comedy,Drama",1199922
+tt1231587,movie,Hot Tub Time Machine,Hot Tub Time Machine,0,2010,\N,101,"Comedy,Sci-Fi",1199924
+tt1232829,movie,21 Jump Street,21 Jump Street,0,2012,\N,109,"Action,Comedy,Crime",1193641
+tt1234548,movie,The Men Who Stare at Goats,The Men Who Stare at Goats,0,2009,\N,94,"Comedy,War",1183837
+tt1243957,movie,The Tourist,The Tourist,0,2010,\N,103,"Action,Adventure,Crime",1215618
+tt1245492,movie,This Is the End,This Is the End,0,2013,\N,107,"Comedy,Fantasy",1205669
+tt1259571,movie,The Twilight Saga: New Moon,The Twilight Saga: New Moon,0,2009,\N,130,"Adventure,Drama,Fantasy",1211795
+tt1267297,movie,Hercules,Hercules,0,2014,\N,98,"Action,Adventure,Fantasy",1222634
+tt1276104,movie,Looper,Looper,0,2012,\N,113,"Action,Crime,Drama",1231016
+tt1277953,movie,Madagascar 3: Europe's Most Wanted,Madagascar 3: Europe's Most Wanted,0,2012,\N,93,"Adventure,Animation,Comedy",1248179
+tt1282140,movie,Easy A,Easy A,0,2010,\N,92,"Comedy,Drama,Romance",1235769
+tt1285016,movie,The Social Network,The Social Network,0,2010,\N,120,"Biography,Drama",1238526
+tt1307068,movie,Seeking a Friend for the End of the World,Seeking a Friend for the End of the World,0,2012,\N,101,"Adventure,Comedy,Drama",1258068
+tt1323594,movie,Despicable Me,Despicable Me,0,2010,\N,95,"Animation,Comedy,Family",1275359
+tt1327773,movie,Lee Daniels' The Butler,The Butler,0,2013,\N,132,"Biography,Drama",1281824
+tt1355644,movie,Passengers,Passengers,0,2016,\N,116,"Drama,Romance,Sci-Fi",1318795
+tt1385826,movie,The Adjustment Bureau,The Adjustment Bureau,0,2011,\N,106,"Romance,Sci-Fi,Thriller",1344395
+tt1386588,movie,The Other Guys,The Other Guys,0,2010,\N,107,"Action,Comedy,Crime",1341543
+tt1392190,movie,Mad Max: Fury Road,Mad Max: Fury Road,0,2015,\N,120,"Action,Adventure,Sci-Fi",1339813
+tt1399103,movie,Transformers: Dark of the Moon,Transformers: Dark of the Moon,0,2011,\N,154,"Action,Adventure,Sci-Fi",1353685
+tt1401152,movie,Unknown,Unknown,0,2011,\N,113,"Action,Mystery,Thriller",1350029
+tt1408101,movie,Star Trek: Into Darkness,Star Trek: Into Darkness,0,2013,\N,132,"Action,Adventure,Sci-Fi",1359274
+tt1424381,movie,Predators,Predators,0,2010,\N,107,"Action,Adventure,Sci-Fi",1381622
+tt1428538,movie,Hansel & Gretel: Witch Hunters,Hansel & Gretel: Witch Hunters,0,2013,\N,88,"Action,Fantasy,Horror",1385647
+tt1436562,movie,Rio,Rio,0,2011,\N,96,"Adventure,Animation,Comedy",1397052
+tt1458175,movie,The Next Three Days,The Next Three Days,0,2010,\N,133,"Action,Crime,Drama",1414447
+tt1465522,movie,Tucker and Dale vs Evil,Tucker and Dale vs Evil,0,2010,\N,89,"Comedy,Horror",1428770
+tt1483013,movie,Oblivion,Oblivion,0,2013,\N,124,"Action,Adventure,Mystery",1441965
+tt1496025,movie,Underworld Awakening,Underworld Awakening,0,2012,\N,88,"Action,Fantasy,Horror",1450950
+tt1542344,movie,127 Hours,127 Hours,0,2010,\N,94,"Adventure,Biography,Drama",1499297
+tt1564367,movie,Just Go with It,Just Go with It,0,2011,\N,117,"Comedy,Romance",1512413
+tt1568346,movie,The Girl with the Dragon Tattoo,The Girl with the Dragon Tattoo,0,2011,\N,158,"Crime,Drama,Mystery",1519963
+tt1583421,movie,G.I. Joe: Retaliation,G.I. Joe: Retaliation,0,2013,\N,110,"Action,Adventure,Sci-Fi",1519431
+tt1586680,tvSeries,Shameless,Shameless,0,2011,\N,46,"Comedy,Drama",1526693
+tt1599348,movie,Safe House,Safe House,0,2012,\N,115,"Action,Adventure,Crime",1538377
+tt1606375,tvSeries,Downton Abbey,Downton Abbey,0,2010,2015,58,"Drama,Romance",1556775
+tt1615065,movie,Savages,Savages,0,2012,\N,131,"Crime,Drama,Thriller",1561428
+tt1623205,movie,Oz the Great and Powerful,Oz the Great and Powerful,0,2013,\N,130,"Adventure,Family,Fantasy",1573083
+tt1632701,tvSeries,Suits,Suits,0,2011,\N,44,"Comedy,Drama",1574630
+tt1636826,movie,Project X,Project X,0,2012,\N,88,Comedy,1578616
+tt1646971,movie,How to Train Your Dragon 2,How to Train Your Dragon 2,0,2014,\N,102,"Action,Adventure,Animation",1580839
+tt1649419,movie,The Impossible,Lo imposible,0,2012,\N,114,"Drama,History,Thriller",1590738
+tt1663662,movie,Pacific Rim,Pacific Rim,0,2013,\N,131,"Action,Adventure,Sci-Fi",1596961
+tt1667889,movie,Ice Age: Continental Drift,Ice Age: Continental Drift,0,2012,\N,88,"Adventure,Animation,Comedy",1602891
+tt1677720,movie,Ready Player One,Ready Player One,0,2018,\N,140,"Action,Adventure,Sci-Fi",1629494
+tt1692486,movie,Carnage,Carnage,0,2011,\N,80,"Comedy,Drama",1628405
+tt1706620,movie,Snowpiercer,Snowpiercer,0,2013,\N,126,"Action,Drama,Sci-Fi",1661380
+tt1731141,movie,Ender's Game,Ender's Game,0,2013,\N,114,"Action,Adventure,Fantasy",1663513
+tt1758830,movie,This Is 40,This Is 40,0,2012,\N,134,"Comedy,Romance",1707428
+tt1772341,movie,Wreck-It Ralph,Wreck-It Ralph,0,2012,\N,101,"Adventure,Animation,Comedy",1716133
+tt1790885,movie,Zero Dark Thirty,Zero Dark Thirty,0,2012,\N,157,"Drama,Thriller",1726092
+tt1853728,movie,Django Unchained,Django Unchained,0,2012,\N,165,"Drama,Western",1797781
+tt1855199,movie,End of Watch,End of Watch,0,2012,\N,109,"Action,Crime,Drama",1788960
+tt1872181,movie,The Amazing Spider-Man 2,The Amazing Spider-Man 2,0,2014,\N,142,"Action,Adventure,Sci-Fi",1805409
+tt1904996,movie,Parker,Parker,0,2013,\N,118,"Action,Crime,Romance",1843676
+tt1935179,movie,Mud,Mud,0,2012,\N,130,Drama,1869187
+tt1935859,movie,Miss Peregrine's Home for Peculiar Children,Miss Peregrine's Home for Peculiar Children,0,2016,\N,127,"Adventure,Drama,Fantasy",1866770
+tt1951264,movie,The Hunger Games: Catching Fire,The Hunger Games: Catching Fire,0,2013,\N,146,"Action,Adventure,Mystery",1891707
+tt1951265,movie,The Hunger Games: Mockingjay - Part 1,The Hunger Games: Mockingjay - Part 1,0,2014,\N,123,"Action,Adventure,Sci-Fi",1891708
+tt1959563,movie,The Hitman's Bodyguard,The Hitman's Bodyguard,0,2017,\N,118,"Action,Comedy,Thriller",1903314
+tt1979320,movie,Rush,Rush,0,2013,\N,123,"Action,Biography,Drama",1904495
+tt1980929,movie,Begin Again,Begin Again,0,2013,\N,104,"Comedy,Drama,Music",1920376
+tt2015381,movie,Guardians of the Galaxy,Guardians of the Galaxy,0,2014,\N,121,"Action,Adventure,Comedy",1950101
+tt2023587,movie,Mama,Mama,0,2013,\N,100,"Horror,Thriller",1961704
+tt2024432,movie,Identity Thief,Identity Thief,0,2013,\N,111,"Adventure,Comedy,Crime",1955358
+tt2024469,movie,Non-Stop,Non-Stop,0,2014,\N,106,"Action,Mystery,Thriller",1955395
+tt2042568,movie,Inside Llewyn Davis,Inside Llewyn Davis,0,2013,\N,104,"Drama,Music",1967206
+tt2080374,movie,Steve Jobs,Steve Jobs,0,2015,\N,122,"Biography,Drama",2003882
+tt2106476,movie,The Hunt,Jagten,0,2012,\N,115,Drama,2024234
+tt2109248,movie,Transformers: Age of Extinction,Transformers: Age of Extinction,0,2014,\N,165,"Action,Adventure,Sci-Fi",2036364
+tt2194499,movie,About Time,About Time,0,2013,\N,123,"Comedy,Drama,Fantasy",2113784
+tt2203939,movie,The Other Woman,The Other Woman,0,2014,\N,109,"Comedy,Romance",2121991
+tt2209764,movie,Transcendence,Transcendence,0,2014,\N,119,"Drama,Mystery,Romance",2122989
+tt2229499,movie,Don Jon,Don Jon,0,2013,\N,90,"Comedy,Drama,Romance",2134740
+tt2294629,movie,Frozen,Frozen,0,2013,\N,102,"Adventure,Animation,Comedy",2190609
+tt2302755,movie,Olympus Has Fallen,Olympus Has Fallen,0,2013,\N,119,"Action,Thriller",2202097
+tt2381941,movie,Focus,Focus,0,2015,\N,105,"Comedy,Crime,Drama",2274050
+tt2442560,tvSeries,Peaky Blinders,Peaky Blinders,0,2013,\N,60,"Crime,Drama",2312739
+tt2446042,movie,Taken 3,Taken 3,0,2014,\N,108,"Action,Thriller",2311622
+tt2560140,tvSeries,Attack on Titan,Shingeki no kyojin,0,2013,\N,24,"Action,Adventure,Animation",2370576
+tt2582782,movie,Hell or High Water,Hell or High Water,0,2016,\N,102,"Action,Crime,Drama",2372691
+tt2582802,movie,Whiplash,Whiplash,0,2014,\N,106,"Drama,Music",2372701
+tt2660888,movie,Star Trek: Beyond,Star Trek: Beyond,0,2016,\N,122,"Action,Adventure,Sci-Fi",2408567
+tt2661044,tvSeries,The 100,The 100,0,2014,\N,43,"Drama,Mystery,Sci-Fi",2408627
+tt2692904,movie,Locke,Locke,0,2013,\N,85,Drama,2411911
+tt2707408,tvSeries,Narcos,Narcos,0,2015,2017,49,"Biography,Crime,Drama",2432228
+tt2741602,tvSeries,The Blacklist,The Blacklist,0,2013,\N,43,"Crime,Drama,Mystery",2433366
+tt2798920,movie,Annihilation,Annihilation,0,2018,\N,115,"Adventure,Drama,Horror",2460072
+tt2802850,tvSeries,Fargo,Fargo,0,2014,\N,53,"Crime,Drama,Thriller",2459135
+tt2872718,movie,Nightcrawler,Nightcrawler,0,2014,\N,117,"Crime,Drama,Thriller",2501730
+tt2883512,movie,Chef,Chef,0,2014,\N,114,"Adventure,Comedy,Drama",2502730
+tt2884206,movie,I Origins,I Origins,0,2014,\N,106,"Drama,Romance,Sci-Fi",2499433
+tt2948356,movie,Zootopia,Zootopia,0,2016,\N,108,"Adventure,Animation,Comedy",2520773
+tt3065204,movie,The Conjuring 2,The Conjuring 2,0,2016,\N,134,"Horror,Mystery,Thriller",2562704
+tt3107288,tvSeries,The Flash,The Flash,0,2014,\N,43,"Action,Adventure,Drama",2598970
+tt3300542,movie,London Has Fallen,London Has Fallen,0,2016,\N,99,"Action,Thriller",2672785
+tt3322940,movie,Annabelle,Annabelle,0,2014,\N,99,"Horror,Mystery,Thriller",2679923
+tt3450958,movie,War for the Planet of the Apes,War for the Planet of the Apes,0,2017,\N,140,"Action,Adventure,Drama",2738481
+tt3799694,movie,The Nice Guys,The Nice Guys,0,2016,\N,116,"Action,Comedy,Crime",2887750
+tt3890160,movie,Baby Driver,Baby Driver,0,2017,\N,112,"Action,Crime,Drama",2932255
+tt4046784,movie,Maze Runner: The Scorch Trials,Maze Runner: The Scorch Trials,0,2015,\N,131,"Action,Sci-Fi,Thriller",2992988
+tt4116284,movie,The Lego Batman Movie,The Lego Batman Movie,0,2017,\N,104,"Action,Animation,Comedy",3037877
+tt4425200,movie,John Wick: Chapter 2,John Wick: Chapter 2,0,2017,\N,122,"Action,Crime,Thriller",3180814
+tt4550098,movie,Nocturnal Animals,Nocturnal Animals,0,2016,\N,116,"Crime,Drama,Romance",3222060
+tt4649466,movie,Kingsman: The Golden Circle,Kingsman: The Golden Circle,0,2017,\N,141,"Action,Adventure,Comedy",3268109
+tt4776998,movie,The Promise,The Promise,0,2016,\N,133,"Drama,History",3328764
+tt4846340,movie,Hidden Figures,Hidden Figures,0,2016,\N,127,"Biography,Drama,History",3350526
+tt4925292,movie,Lady Bird,Lady Bird,0,2017,\N,94,"Comedy,Drama",3391228
+tt5052448,movie,Get Out,Get Out,0,2017,\N,104,"Horror,Mystery,Thriller",3451839
+tt5095030,movie,Ant-Man and the Wasp,Ant-Man and the Wasp,0,2018,\N,118,"Action,Adventure,Comedy",3482315
+tt5580036,movie,"I, Tonya","I, Tonya",0,2017,\N,120,"Biography,Comedy,Drama",3696471
+tt5726616,movie,Call Me by Your Name,Call Me by Your Name,0,2017,\N,132,"Drama,Romance",3761881

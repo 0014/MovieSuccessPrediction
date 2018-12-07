@@ -1,0 +1,1738 @@
+﻿Id,Title,StaringActorId,ActorAgeGapId,AgeGapDefinition,Genres,NumberOfVotes,Rating,Success
+1,It's a Wonderful Life,12534,4,30s,"Drama,Family,Fantasy",339858,8.6,1
+2,Gone with the Wind,12485,4,30s,"Drama,History,Romance",256446,8.2,1
+3,The Wizard of Oz,12486,6,teenager,"Adventure,Family,Fantasy",342128,8.0,1
+4,The Great Dictator,12585,2,50s,"Comedy,Drama,War",172952,8.5,1
+5,Pinocchio,404833,6,teenager,"Animation,Comedy,Family",111035,7.5,1
+6,Rebecca,12522,4,30s,"Drama,Mystery,Romance",107403,8.1,1
+7,Citizen Kane,12543,5,20s,"Drama,Mystery",352700,8.4,1
+8,Dumbo,11963,4,30s,"Animation,Drama,Family",102813,7.3,1
+9,The Maltese Falcon,12470,3,40s,"Film-Noir,Mystery",136795,8.1,1
+10,Bambi,35181,4,30s,"Animation,Drama,Family",112965,7.3,1
+11,Casablanca,12470,3,40s,"Drama,Romance,War",460503,8.5,1
+12,Double Indemnity,509180,4,30s,"Crime,Drama,Film-Noir",122163,8.3,1
+13,Ladri di biciclette,522070,4,30s,Drama,120938,8.3,1
+14,Rope,12534,4,30s,"Crime,Drama,Mystery",112106,8.0,1
+15,The Third Man,12543,4,30s,"Film-Noir,Mystery,Thriller",138661,8.2,1
+16,City Lights,12585,3,40s,"Comedy,Drama,Romance",139749,8.5,1
+17,M - Eine Stadt sucht einen MÃ¶rder,12511,5,20s,"Crime,Mystery,Thriller",122419,8.3,1
+18,Modern Times,12585,3,40s,"Comedy,Drama,Family",181571,8.5,1
+19,Snow White and the Seven Dwarfs,144399,5,20s,"Animation,Family,Fantasy",158470,7.6,1
+20,All About Eve,12475,3,40s,Drama,103448,8.3,1
+21,Cinderella,902078,5,20s,"Animation,Family,Fantasy",126426,7.3,1
+22,RashÃ´mon,12140,5,20s,"Crime,Drama,Mystery",128528,8.3,1
+23,Sunset Blvd.,12497,4,30s,"Drama,Film-Noir",172127,8.4,1
+24,Alice in Wonderland,75323,6,teenager,"Adventure,Animation,Family",112284,7.4,1
+25,Strangers on a Train,336867,5,20s,"Crime,Film-Noir,Thriller",111345,8.0,1
+26,Singin' in the Rain,12500,4,30s,"Comedy,Musical,Romance",188651,8.3,1
+27,Peter Pan,235710,6,teenager,"Adventure,Animation,Family",107573,7.3,1
+28,Roman Holiday,12523,4,30s,"Comedy,Romance",114931,8.1,1
+29,Metropolis,364745,5,20s,"Drama,Sci-Fi",137747,8.3,1
+30,Galaxy Quest,13204,3,40s,"Adventure,Comedy,Sci-Fi",135556,7.3,1
+31,The Perfect Storm,12586,4,30s,"Action,Adventure,Drama",144481,6.4,0
+32,Requiem for a Dream,11599,1,+60s,Drama,679094,8.3,1
+33,Minority Report,12592,4,30s,"Action,Crime,Mystery",457606,7.7,1
+34,Terminator 3: Rise of the Machines,12679,2,50s,"Action,Sci-Fi",341841,6.3,0
+35,Traffic,12603,2,50s,"Crime,Drama,Thriller",183555,7.6,1
+36,Almost Famous,11686,4,30s,"Adventure,Comedy,Drama",230504,7.9,1
+37,Falling Down,12603,3,40s,"Crime,Drama,Thriller",152233,7.6,1
+38,The Firm,12592,4,30s,"Drama,Mystery,Thriller",102692,6.8,0
+39,The Fugitive,12611,2,50s,"Action,Crime,Drama",239306,7.8,1
+40,Groundhog Day,12658,3,40s,"Comedy,Fantasy,Romance",525309,8.0,1
+41,In the Name of the Father,12821,4,30s,"Biography,Drama",136875,8.1,1
+42,Jurassic Park,13017,3,40s,"Adventure,Sci-Fi,Thriller",755498,8.1,1
+43,Last Action Hero,12679,3,40s,"Action,Adventure,Comedy",121370,6.3,0
+44,Mrs. Doubtfire,12708,3,40s,"Comedy,Drama,Family",212684,7.0,0
+45,The Nightmare Before Christmas,12847,4,30s,"Animation,Family,Fantasy",261069,8.0,1
+46,Philadelphia,12621,4,30s,Drama,201615,7.7,1
+47,Robin Hood: Men in Tights,12607,4,30s,"Adventure,Comedy,Musical",103978,6.7,0
+48,Schindler's List,13016,3,40s,"Biography,Drama,History",1043890,8.9,1
+49,Sleepless in Seattle,12621,4,30s,"Comedy,Drama,Romance",140978,6.8,0
+50,Tombstone,13084,3,40s,"Action,Biography,Drama",110730,7.8,1
+51,True Romance,12688,5,20s,"Crime,Drama,Romance",184002,7.9,1
+52,What's Eating Gilbert Grape,12599,5,20s,Drama,192914,7.8,1
+53,Friends,12561,5,20s,"Comedy,Romance",628972,8.9,1
+54,Ace Ventura: Pet Detective,12583,4,30s,Comedy,247898,6.9,0
+55,Clerks,615617,5,20s,Comedy,198029,7.8,1
+56,The Crow,12951,5,20s,"Action,Drama,Fantasy",151987,7.6,1
+57,Dumb and Dumber,12583,4,30s,Comedy,321903,7.3,1
+58,Ed Wood,12599,4,30s,"Biography,Comedy,Drama",154866,7.9,1
+59,Forrest Gump,12621,4,30s,"Drama,Romance",1541203,8.8,1
+60,Four Weddings and a Funeral,12887,4,30s,"Comedy,Drama,Romance",122665,7.1,0
+61,Poltergeist,12455,4,30s,"Horror,Thriller",125141,7.4,1
+62,Rocky III,12693,4,30s,"Drama,Sport",148962,6.8,0
+63,Star Trek II: The Wrath of Khan,13101,2,50s,"Action,Adventure,Sci-Fi",102747,7.7,1
+64,The Thing,13084,4,30s,"Horror,Mystery,Sci-Fi",319312,8.1,1
+65,TRON,12776,4,30s,"Action,Adventure,Sci-Fi",104041,6.8,0
+66,A Christmas Story,71766,6,teenager,"Comedy,Family",117584,8.0,1
+67,The Meaning of Life,12555,3,40s,"Comedy,Musical",101109,7.6,1
+68,Star Wars: Episode VI - Return of the Jedi,12897,4,30s,"Action,Adventure,Fantasy",832773,8.3,1
+69,Scarface,12662,3,40s,"Crime,Drama",641507,8.3,1
+70,Trading Places,13015,5,20s,Comedy,119474,7.5,1
+71,Amadeus,13182,3,40s,"Biography,Drama,History",325579,8.3,1
+72,Beverly Hills Cop,13015,5,20s,"Action,Comedy,Crime",144885,7.3,1
+73,Dune,12096,5,20s,"Action,Adventure,Sci-Fi",108522,6.6,0
+74,Ghost Busters,12658,4,30s,"Action,Comedy,Fantasy",314479,7.8,1
+75,Gremlins,13623,6,teenager,"Comedy,Fantasy,Horror",170382,7.2,0
+76,The Graduate,12626,5,20s,"Comedy,Drama,Romance",232930,8.0,1
+77,The Jungle Book,345467,1,+60s,"Adventure,Animation,Family",145564,7.6,1
+78,2001: A Space Odyssey,11762,4,30s,"Adventure,Sci-Fi",522112,8.3,1
+79,Night of the Living Dead,404873,4,30s,Horror,102429,7.9,1
+80,Planet of the Apes,12495,3,40s,"Adventure,Sci-Fi",153316,8.0,1
+81,Rosemary's Baby,11805,5,20s,"Drama,Horror",164601,8.0,1
+82,Butch Cassidy and the Sundance Kid,12519,3,40s,"Biography,Crime,Drama",181998,8.1,1
+83,C'era una volta il West,12483,1,+60s,Western,261761,8.5,1
+84,Psycho,13041,5,20s,"Horror,Mystery,Thriller",516078,8.5,1
+85,Spartacus,12481,3,40s,"Adventure,Biography,Drama",110609,7.9,1
+86,Breakfast at Tiffany's,12493,4,30s,"Comedy,Drama,Romance",147216,7.7,1
+87,One Hundred and One Dalmatians,12396,4,30s,"Adventure,Animation,Comedy",132637,7.2,0
+88,Dr. No,12588,4,30s,"Action,Adventure,Thriller",130888,7.3,1
+89,Lawrence of Arabia,13027,5,20s,"Adventure,Biography,Drama",233521,8.3,1
+90,To Kill a Mockingbird,12523,3,40s,"Crime,Drama",263029,8.3,1
+91,The Birds,12396,4,30s,"Drama,Horror,Mystery",150590,7.7,1
+92,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,13097,4,30s,Comedy,403021,8.4,1
+93,From Russia with Love,12588,4,30s,"Action,Adventure,Thriller",102727,7.5,1
+94,The Great Escape,13000,4,30s,"Adventure,Drama,History",198970,8.2,1
+95,Goldfinger,12588,4,30s,"Action,Adventure,Thriller",154979,7.7,1
+96,Mary Poppins,12730,5,20s,"Comedy,Family,Fantasy",129246,7.8,1
+97,Per un pugno di dollari,12605,4,30s,Western,172762,8.0,1
+98,Per qualche dollaro in piÃ¹,12605,4,30s,Western,196896,8.3,1
+99,The Sound of Music,12730,5,20s,"Biography,Drama,Family",174427,8.0,1
+100,"Il buono, il brutto, il cattivo",12605,4,30s,Western,599317,8.9,1
+101,Cool Hand Luke,12519,3,40s,"Crime,Drama",143447,8.1,1
+102,A Clockwork Orange,12995,5,20s,"Crime,Drama,Sci-Fi",665743,8.3,1
+103,Dirty Harry,12605,3,40s,"Action,Crime,Thriller",128859,7.8,1
+104,Willy Wonka & the Chocolate Factory,13161,4,30s,"Family,Fantasy,Musical",154307,7.8,1
+105,Dial M for Murder,12141,3,40s,"Crime,Thriller",135451,8.2,1
+106,On the Waterfront,12471,5,20s,"Crime,Drama,Thriller",124442,8.2,1
+107,Rear Window,12534,3,40s,"Mystery,Thriller",384035,8.5,1
+108,Shichinin no samurai,12140,4,30s,"Adventure,Drama",273493,8.7,1
+109,Lady and the Tramp,511094,3,40s,"Adventure,Animation,Comedy",104164,7.3,1
+110,12 Angry Men,12483,2,50s,"Crime,Drama",567370,8.9,1
+111,The Bridge on the River Kwai,12497,4,30s,"Adventure,Drama,War",180630,8.2,1
+112,Paths of Glory,12481,3,40s,"Drama,War",149696,8.4,1
+113,Det sjunde inseglet,13417,5,20s,"Drama,Fantasy",138034,8.2,1
+114,Vertigo,12534,3,40s,"Mystery,Romance,Thriller",308189,8.3,1
+115,Ben-Hur,12495,4,30s,"Adventure,Drama,History",195750,8.1,1
+116,North by Northwest,12489,2,50s,"Adventure,Mystery,Thriller",262620,8.3,1
+117,Sleeping Beauty,161739,5,20s,"Animation,Family,Fantasy",118190,7.3,1
+118,Some Like It Hot,12517,4,30s,"Comedy,Romance",212170,8.2,1
+119,The Apartment,12956,4,30s,"Comedy,Drama,Romance",137266,8.3,1
+120,The Godfather,12471,3,40s,"Crime,Drama",1385556,9.2,1
+121,Indiana Jones and the Temple of Doom,12611,3,40s,"Action,Adventure",389879,7.6,1
+122,The Karate Kid,12098,5,20s,"Action,Drama,Family",153577,7.2,0
+123,Kaze no tani no Naushika,764108,5,20s,"Adventure,Animation,Fantasy",123429,8.1,1
+124,A Nightmare on Elm Street,12949,6,teenager,Horror,179462,7.5,1
+125,Once Upon a Time in America,12597,3,40s,"Crime,Drama",266834,8.4,1
+126,Police Academy,12893,5,20s,Comedy,100637,6.7,0
+127,The Terminator,12679,4,30s,"Action,Sci-Fi",706664,8.0,1
+128,This Is Spinal Tap,12265,4,30s,"Comedy,Music",117670,8.0,1
+129,Die unendliche Geschichte,12904,6,teenager,"Adventure,Drama,Family",115600,7.4,1
+130,Back to the Future,12613,5,20s,"Adventure,Comedy,Sci-Fi",896271,8.5,1
+131,Brazil,13059,4,30s,"Drama,Sci-Fi",171377,8.0,1
+132,The Breakfast Club,12852,5,20s,"Comedy,Drama",308301,7.9,1
+133,Commando,12679,4,30s,"Action,Adventure,Thriller",129825,6.7,0
+134,Star Wars,12897,5,20s,"Action,Adventure,Fantasy",1085073,8.6,1
+135,Dawn of the Dead,262398,4,30s,"Horror,Thriller",101299,8.0,1
+136,The Deer Hunter,12597,4,30s,"Drama,War",276537,8.1,1
+137,Grease,12700,5,20s,"Musical,Romance",201443,7.2,0
+138,Halloween,13050,2,50s,"Horror,Thriller",197875,7.8,1
+139,Animal House,12467,5,20s,Comedy,102659,7.6,1
+140,Superman,12263,5,20s,"Action,Adventure,Drama",143975,7.3,1
+141,Alien,12707,5,20s,"Horror,Sci-Fi",689221,8.5,1
+142,Apocalypse Now,13103,4,30s,"Drama,War",529788,8.5,1
+143,Escape from Alcatraz,12605,3,40s,"Biography,Crime,Drama",101410,7.6,1
+144,Kramer vs. Kramer,12626,3,40s,Drama,114619,7.8,1
+145,Life of Brian,11641,4,30s,Comedy,323418,8.1,1
+146,Mad Max,12617,5,20s,"Action,Adventure,Sci-Fi",172523,7.0,0
+147,Manhattan,12558,3,40s,"Comedy,Drama,Romance",119123,8.0,1
+148,Rocky II,12693,4,30s,"Drama,Sport",164874,7.2,0
+149,Airplane!,11936,4,30s,Comedy,185085,7.8,1
+150,The Blues Brothers,12467,4,30s,"Adventure,Comedy,Crime",163220,7.9,1
+151,The Elephant Man,12627,3,40s,"Biography,Drama",194475,8.2,1
+152,Star Wars: Episode V - The Empire Strikes Back,12897,5,20s,"Action,Adventure,Fantasy",1014952,8.8,1
+153,Friday the 13th,625154,2,50s,"Horror,Mystery,Thriller",101885,6.5,0
+154,Raging Bull,12597,4,30s,"Biography,Drama,Sport",278750,8.2,1
+155,The Shining,12660,3,40s,"Drama,Horror",749363,8.4,1
+156,Das Boot,12242,4,30s,"Adventure,Drama,Thriller",201794,8.4,1
+157,Conan the Barbarian,12679,4,30s,"Adventure,Fantasy",125530,6.9,0
+158,Escape from New York,13084,5,20s,"Action,Sci-Fi",108661,7.2,0
+159,Mad Max 2,12617,5,20s,"Action,Adventure,Sci-Fi",151458,7.6,1
+160,Raiders of the Lost Ark,12611,4,30s,"Action,Adventure",782620,8.5,1
+161,Blade Runner,12611,4,30s,"Sci-Fi,Thriller",606770,8.2,1
+162,E.T. the Extra-Terrestrial,12398,6,teenager,"Family,Sci-Fi",327088,7.9,1
+163,The Evil Dead,144125,5,20s,Horror,165244,7.5,1
+164,First Blood,12693,4,30s,"Action,Adventure",196415,7.7,1
+165,Gandhi,12030,4,30s,"Biography,Drama,History",202513,8.1,1
+166,The Goonies,12739,6,teenager,"Adventure,Comedy,Family",210296,7.8,1
+167,Mad Max Beyond Thunderdome,12617,5,20s,"Action,Adventure,Sci-Fi",115347,6.3,0
+168,Rambo: First Blood Part II,12693,4,30s,"Action,Adventure,Thriller",134080,6.4,0
+169,Rocky IV,12693,4,30s,"Drama,Sport",160966,6.8,0
+170,Aliens,12707,4,30s,"Action,Adventure,Sci-Fi",582466,8.4,1
+171,Big Trouble in Little China,13084,4,30s,"Action,Adventure,Comedy",109376,7.3,1
+172,Blue Velvet,13081,4,30s,"Drama,Mystery,Thriller",157567,7.8,1
+173,Ferris Bueller's Day Off,12574,5,20s,Comedy,281264,7.8,1
+174,The Fly,12619,4,30s,"Drama,Horror,Sci-Fi",140421,7.5,1
+175,Highlander,12946,5,20s,"Action,Adventure,Fantasy",110538,7.2,0
+176,Labyrinth,12772,4,30s,"Adventure,Family,Fantasy",109844,7.4,1
+177,Interview with the Vampire: The Vampire Chronicles,12556,4,30s,"Drama,Horror",268460,7.6,1
+178,Legends of the Fall,12556,4,30s,"Drama,Romance,War",129077,7.5,1
+179,The Lion King,12574,4,30s,"Adventure,Animation,Drama",798547,8.5,1
+180,LÃ©on,13069,3,40s,"Crime,Drama,Thriller",887226,8.6,1
+181,The Mask,12583,4,30s,"Comedy,Fantasy",305199,6.9,0
+182,Natural Born Killers,12900,4,30s,"Crime,Drama",195475,7.3,1
+183,Pulp Fiction,12700,4,30s,"Crime,Drama",1578153,8.9,1
+184,The Shawshank Redemption,12672,4,30s,Drama,2021785,9.3,1
+185,Speed,12669,5,20s,"Action,Adventure,Crime",294477,7.2,0
+186,Stargate,13084,3,40s,"Action,Adventure,Sci-Fi",162558,7.1,0
+187,True Lies,12679,3,40s,"Action,Comedy,Thriller",214428,7.2,0
+188,The Exorcist,11599,3,40s,Horror,322652,8.0,1
+189,Papillon,13000,3,40s,"Biography,Crime,Drama",109629,8.0,1
+190,The Sting,12519,3,40s,"Comedy,Crime,Drama",211940,8.3,1
+191,Blazing Saddles,12080,4,30s,"Comedy,Western",112709,7.8,1
+192,Chinatown,12660,4,30s,"Drama,Mystery,Thriller",257675,8.2,1
+193,The Godfather: Part II,12662,4,30s,"Crime,Drama",959584,9.0,1
+194,Monty Python and the Holy Grail,11641,4,30s,"Adventure,Comedy,Fantasy",446545,8.3,1
+195,The Texas Chain Saw Massacre,126612,5,20s,Horror,116966,7.5,1
+196,Young Frankenstein,13161,3,40s,Comedy,130383,8.0,1
+197,Barry Lyndon,602384,4,30s,"Adventure,Drama,History",127512,8.1,1
+198,Dog Day Afternoon,12662,4,30s,"Biography,Crime,Drama",213535,8.0,1
+199,Jaws,12306,3,40s,"Adventure,Drama,Thriller",494921,8.0,1
+200,One Flew Over the Cuckoo's Nest,12660,4,30s,Drama,803004,8.7,1
+201,The Rocky Horror Picture Show,12810,5,20s,"Comedy,Musical",119199,7.4,1
+202,Carrie,13114,5,20s,Horror,147416,7.4,1
+203,Network,11763,4,30s,Drama,126969,8.1,1
+204,Rocky,12693,5,20s,"Drama,Sport",456457,8.1,1
+205,Taxi Driver,12597,4,30s,"Crime,Drama",614014,8.3,1
+206,Annie Hall,12558,3,40s,"Comedy,Romance",231870,8.0,1
+207,Close Encounters of the Third Kind,12840,5,20s,"Drama,Sci-Fi",162847,7.7,1
+208,Ace Ventura: When Nature Calls,12583,4,30s,"Adventure,Comedy,Crime",182689,6.3,0
+209,Apollo 13,12621,4,30s,"Adventure,Drama,History",238824,7.6,1
+210,Babe,12805,2,50s,"Comedy,Drama,Family",106060,6.8,0
+211,Bad Boys,12689,5,20s,"Action,Comedy,Crime",200401,6.8,0
+212,Batman Forever,12637,4,30s,"Action,Adventure,Fantasy",214882,5.4,0
+213,Before Sunrise,12623,5,20s,"Drama,Romance",229686,8.1,1
+214,Billy Madison,11795,5,20s,Comedy,118317,6.4,0
+215,Braveheart,12617,4,30s,"Biography,Drama,History",868002,8.4,1
+216,Casino,12597,2,50s,"Crime,Drama",400778,8.2,1
+217,Casper,13060,3,40s,"Comedy,Family,Fantasy",103129,6.1,0
+218,Clueless,12687,6,teenager,"Comedy,Romance",150049,6.8,0
+219,Desperado,12567,4,30s,"Action,Thriller",155737,7.2,0
+220,Die Hard with a Vengeance,12709,4,30s,"Action,Adventure,Thriller",332967,7.6,1
+221,GoldenEye,12575,3,40s,"Action,Adventure,Thriller",218451,7.2,0
+222,La haine,13526,5,20s,"Crime,Drama",128094,8.1,1
+223,Heat,12662,2,50s,"Crime,Drama,Thriller",508600,8.2,1
+224,Judge Dredd,12693,3,40s,"Action,Crime,Sci-Fi",100377,5.5,0
+225,Jumanji,12708,3,40s,"Adventure,Family,Fantasy",260126,6.9,0
+226,KÃ´kaku KidÃ´tai,796600,4,30s,"Action,Animation,Crime",111244,8.0,1
+227,Leaving Las Vegas,12578,4,30s,"Drama,Romance",104450,7.5,1
+228,Awakenings,12597,3,40s,"Biography,Drama",108575,7.8,1
+229,Back to the Future Part III,12613,5,20s,"Adventure,Comedy,Sci-Fi",344011,7.4,1
+230,Dances with Wolves,12589,4,30s,"Adventure,Drama,Western",214392,8.0,1
+231,Die Hard 2,12709,4,30s,"Action,Thriller",304535,7.1,0
+232,Edward Scissorhands,12599,5,20s,"Drama,Fantasy,Romance",405129,7.9,1
+233,Ghost,13127,4,30s,"Drama,Fantasy,Romance",174087,7.0,0
+234,The Godfather: Part III,12662,3,40s,"Crime,Drama",318448,7.6,1
+235,Goodfellas,12597,3,40s,"Crime,Drama",871369,8.7,1
+236,Home Alone,12809,7,childhood,"Comedy,Family",384992,7.5,1
+237,The Hunt for Red October,12588,2,50s,"Action,Adventure,Thriller",160658,7.6,1
+238,Kindergarten Cop,12679,3,40s,"Comedy,Crime",121887,6.1,0
+239,Miller's Crossing,12784,4,30s,"Crime,Drama,Thriller",115679,7.8,1
+240,Misery,11605,3,40s,"Crime,Drama,Thriller",159078,7.8,1
+241,Predator 2,12881,3,40s,"Action,Horror,Sci-Fi",128883,6.3,0
+242,Pretty Woman,12615,3,40s,"Comedy,Romance",250428,7.0,0
+243,Rocky V,12693,3,40s,"Drama,Sport",110644,5.2,0
+244,Total Recall,12679,3,40s,"Action,Sci-Fi,Thriller",271553,7.5,1
+245,Tremors,12565,4,30s,"Comedy,Horror",105447,7.2,0
+246,The Addams Family,11982,4,30s,"Comedy,Fantasy",111746,6.9,0
+247,Barton Fink,12410,4,30s,"Comedy,Drama,Thriller",101647,7.7,1
+248,Beauty and the Beast,615750,4,30s,"Animation,Family,Fantasy",377507,8.0,1
+249,Boyz n the Hood,12884,5,20s,"Crime,Drama",108665,7.8,1
+250,Cape Fear,12597,3,40s,"Crime,Thriller",148651,7.3,1
+251,Hook,12626,2,50s,"Adventure,Comedy,Family",208065,6.7,0
+252,JFK,12589,4,30s,"Drama,History,Thriller",128105,8.0,1
+253,Point Break,13127,4,30s,"Action,Crime,Thriller",133443,7.2,0
+254,Robin Hood: Prince of Thieves,12589,4,30s,"Action,Adventure,Drama",162316,6.9,0
+255,The Silence of the Lambs,12612,5,20s,"Crime,Drama,Thriller",1085373,8.6,1
+256,Terminator 2: Judgment Day,12679,3,40s,"Action,Sci-Fi",876511,8.5,1
+257,Thelma & Louise,12678,3,40s,"Adventure,Crime,Drama",118195,7.4,1
+258,Aladdin,870622,6,teenager,"Adventure,Animation,Comedy",308494,8.0,1
+259,AlienÂ³,12707,3,40s,"Action,Horror,Sci-Fi",247839,6.4,0
+260,Basic Instinct,12603,3,40s,"Drama,Mystery,Thriller",152544,6.9,0
+261,Batman Returns,12937,3,40s,"Action,Crime,Fantasy",246023,7.0,0
+262,The Bodyguard,12589,4,30s,"Drama,Music,Romance",105021,6.2,0
+263,Dracula,12661,4,30s,Horror,168394,7.5,1
+264,A Few Good Men,12592,5,20s,"Drama,Thriller",208931,7.7,1
+265,Home Alone 2: Lost in New York,12809,6,teenager,"Adventure,Comedy,Family",249872,6.7,0
+266,The Last of the Mohicans,12821,4,30s,"Action,Adventure,Drama",132381,7.8,1
+267,Lethal Weapon 3,12617,4,30s,"Action,Crime,Thriller",142841,6.7,0
+268,Reservoir Dogs,12635,2,50s,"Crime,Drama,Thriller",794748,8.3,1
+269,Scent of a Woman,12662,2,50s,Drama,224996,8.0,1
+270,Unforgiven,12605,1,+60s,"Drama,Western",330157,8.2,1
+271,Wayne's World,12659,5,20s,"Comedy,Music",128849,7.0,0
+272,The X Files,12604,4,30s,"Drama,Mystery,Sci-Fi",178380,8.7,1
+273,Army of Darkness,144125,4,30s,"Comedy,Horror",147779,7.6,1
+274,A Bronx Tale,12597,3,40s,"Crime,Drama",113198,7.8,1
+275,Carlito's Way,12662,2,50s,"Crime,Drama,Thriller",181665,7.9,1
+276,Cliffhanger,12693,3,40s,"Action,Adventure,Thriller",108220,6.4,0
+277,Dazed and Confused,509596,5,20s,Comedy,143325,7.7,1
+278,Demolition Man,12693,3,40s,"Action,Crime,Sci-Fi",141249,6.6,0
+279,Mallrats,11751,5,20s,"Comedy,Romance",107232,7.2,0
+280,Pocahontas,12617,4,30s,"Adventure,Animation,Drama",145815,6.7,0
+281,Se7en,12614,2,50s,"Crime,Drama,Mystery",1236050,8.6,1
+282,Fight Club,12556,4,30s,Drama,1617370,8.8,1
+283,Shakespeare in Love,13032,5,20s,"Comedy,Drama,History",197020,7.1,0
+284,Pi,339642,5,20s,"Drama,Horror,Mystery",158139,7.4,1
+285,Cruel Intentions,11868,5,20s,"Drama,Romance",164832,6.8,0
+286,Training Day,12706,3,40s,"Crime,Drama,Thriller",347571,7.7,1
+287,The Insider,12591,4,30s,"Biography,Drama,Thriller",146995,7.9,1
+288,The Sopranos,11858,4,30s,"Crime,Drama",238045,9.2,1
+289,Big Daddy,11795,4,30s,"Comedy,Drama",180823,6.4,0
+290,The Ninth Gate,12599,4,30s,"Mystery,Thriller",151146,6.7,0
+291,The World Is Not Enough,12575,3,40s,"Action,Adventure,Thriller",172435,6.4,0
+292,American Psycho,12751,5,20s,"Crime,Drama",417514,7.6,1
+293,The Boondock Saints,12816,3,40s,"Action,Crime,Thriller",213982,7.8,1
+294,Spider-Man,12101,5,20s,"Action,Adventure,Sci-Fi",621723,7.3,1
+295,Platoon,12684,5,20s,"Drama,War",342332,8.1,1
+296,Stand by Me,13159,6,teenager,"Adventure,Drama",324485,8.1,1
+297,TenkÃ» no shiro Rapyuta,12197,7,childhood,"Adventure,Animation,Fantasy",122541,8.1,1
+298,Top Gun,12592,5,20s,"Action,Drama",254272,6.9,0
+299,Dirty Dancing,13127,4,30s,"Drama,Music,Romance",168144,6.9,0
+300,Empire of the Sun,12751,6,teenager,"Drama,History,War",103087,7.8,1
+301,Evil Dead II,144125,5,20s,"Comedy,Horror",131933,7.8,1
+302,Full Metal Jacket,13009,5,20s,"Drama,War",587633,8.3,1
+303,"Good Morning, Vietnam",12708,4,30s,"Biography,Comedy,Drama",113506,7.3,1
+304,Lethal Weapon,12617,4,30s,"Action,Crime,Thriller",214863,7.6,1
+305,The Lost Boys,13037,5,20s,"Comedy,Horror",108296,7.3,1
+306,"Planes, Trains & Automobiles",12651,3,40s,Comedy,106561,7.6,1
+307,Predator,12679,4,30s,"Action,Adventure,Sci-Fi",336505,7.8,1
+308,The Princess Bride,12607,5,20s,"Adventure,Family,Fantasy",347319,8.1,1
+309,Raising Arizona,12578,5,20s,"Comedy,Crime",113603,7.4,1
+310,RoboCop,13156,4,30s,"Action,Crime,Sci-Fi",209304,7.6,1
+311,The Running Man,12679,4,30s,"Action,Sci-Fi,Thriller",127059,6.7,0
+312,Spaceballs,12779,1,+60s,"Adventure,Comedy,Sci-Fi",154973,7.1,0
+313,The Untouchables,12589,4,30s,"Crime,Drama,Thriller",248451,7.9,1
+314,Wall Street,12684,5,20s,"Crime,Drama",131950,7.4,1
+315,Akira,390451,5,20s,"Action,Animation,Drama",132614,8.1,1
+316,Beetlejuice,12748,5,20s,"Comedy,Fantasy",224004,7.5,1
+317,Big,12621,4,30s,"Comedy,Drama,Family",173371,7.3,1
+318,Coming to America,13015,5,20s,"Comedy,Romance",140855,7.0,0
+319,Die Hard,12709,4,30s,"Action,Thriller",696221,8.2,1
+320,A Fish Called Wanda,12555,3,40s,"Comedy,Crime",119791,7.6,1
+321,The Naked Gun: From the Files of Police Squad!,13021,1,+60s,"Comedy,Crime",132559,7.6,1
+322,Nuovo Cinema Paradiso,618591,2,50s,Drama,192431,8.5,1
+323,Rain Man,12626,2,50s,Drama,431320,8.0,1
+324,Rambo III,12693,3,40s,"Action,Adventure,Thriller",105648,5.8,0
+325,Tonari no Totoro,810087,1,+60s,"Animation,Family,Fantasy",227537,8.2,1
+326,Twins,12679,3,40s,"Comedy,Crime",100378,6.0,0
+327,Who Framed Roger Rabbit,11968,3,40s,"Adventure,Animation,Comedy",163993,7.7,1
+328,The Simpsons,140095,4,30s,"Animation,Comedy",322308,8.7,1
+329,The Abyss,12901,4,30s,"Adventure,Drama,Sci-Fi",148138,7.6,1
+330,Back to the Future Part II,12613,5,20s,"Adventure,Comedy,Sci-Fi",408637,7.8,1
+331,Batman,12937,4,30s,"Action,Adventure",304927,7.5,1
+332,Dead Poets Society,12708,4,30s,"Comedy,Drama",351275,8.1,1
+333,Ghostbusters II,12658,4,30s,"Action,Comedy,Fantasy",162538,6.5,0
+334,Glory,12574,5,20s,"Biography,Drama,History",111328,7.9,1
+335,"Honey, I Shrunk the Kids",12152,4,30s,"Adventure,Comedy,Family",125320,6.3,0
+336,Indiana Jones and the Last Crusade,12611,3,40s,"Action,Adventure,Fantasy",612154,8.3,1
+337,Lethal Weapon 2,12617,4,30s,"Action,Crime,Thriller",145352,7.2,0
+338,The Little Mermaid,77557,5,20s,"Animation,Family,Fantasy",204571,7.6,1
+339,National Lampoon's Christmas Vacation,12794,3,40s,Comedy,126203,7.6,1
+340,When Harry Met Sally...,12808,3,40s,"Comedy,Drama,Romance",172232,7.6,1
+341,The Fresh Prince of Bel-Air,386876,4,30s,Comedy,104071,7.9,1
+342,Seinfeld,13095,4,30s,Comedy,214205,8.9,1
+343,Twin Peaks,12096,4,30s,"Crime,Drama,Mystery",147708,8.8,1
+344,Austin Powers: The Spy Who Shagged Me,12659,4,30s,"Action,Adventure,Comedy",199444,6.6,0
+345,The Bone Collector,12706,3,40s,"Crime,Drama,Mystery",137635,6.7,0
+346,Lara Croft: Tomb Raider,12005,5,20s,"Action,Adventure,Fantasy",181282,5.8,0
+347,Any Given Sunday,12662,2,50s,"Drama,Sport",105109,6.9,0
+348,High Fidelity,12594,4,30s,"Comedy,Drama,Music",156042,7.5,1
+349,10 Things I Hate About You,17169,6,teenager,"Comedy,Drama,Romance",261301,7.3,1
+350,Cube,199848,5,20s,"Drama,Mystery,Sci-Fi",185674,7.3,1
+351,Notting Hill,12887,4,30s,"Comedy,Drama,Romance",236283,7.1,0
+352,Man on the Moon,12583,4,30s,"Biography,Comedy,Drama",114293,7.4,1
+353,Shrek,12659,4,30s,"Adventure,Animation,Comedy",541180,7.9,1
+354,Rounders,12817,5,20s,"Crime,Drama",132617,7.3,1
+355,Rushmore,17439,6,teenager,"Comedy,Drama",153878,7.7,1
+356,You've Got Mail,12621,3,40s,"Comedy,Drama,Romance",173185,6.6,0
+357,The Iron Giant,513420,6,teenager,"Action,Adventure,Animation",152396,8.0,1
+358,There's Something About Mary,12602,5,20s,"Comedy,Romance",269678,7.1,0
+359,Lola rennt,18829,5,20s,"Crime,Drama,Thriller",176158,7.7,1
+360,The Matrix,12669,4,30s,"Action,Sci-Fi",1450390,8.7,1
+361,Planet of the Apes,12705,5,20s,"Action,Adventure,Sci-Fi",198385,5.7,0
+362,The Faculty,105847,6,teenager,"Horror,Sci-Fi",101394,6.5,0
+363,Scream 3,12737,5,20s,"Horror,Mystery",111663,5.6,0
+364,The Talented Mr. Ripley,12817,5,20s,"Crime,Drama,Thriller",157527,7.4,1
+365,8MM,12578,4,30s,"Mystery,Thriller",113858,6.5,0
+366,Pitch Black,569998,5,20s,"Horror,Sci-Fi",210921,7.1,0
+367,Deep Blue Sea,17085,5,20s,"Action,Sci-Fi,Thriller",112938,5.8,0
+368,Futurama,879060,3,40s,"Animation,Comedy,Sci-Fi",188293,8.5,1
+369,Family Guy,497248,5,20s,"Animation,Comedy",274611,8.2,1
+370,"Me, Myself & Irene",12583,4,30s,Comedy,205656,6.6,0
+371,Phone Booth,268626,5,20s,"Crime,Thriller",231830,7.1,0
+372,A Knight's Tale,17169,5,20s,"Action,Adventure,Romance",153893,6.9,0
+373,Shanghai Noon,12792,3,40s,"Action,Adventure,Comedy",109118,6.6,0
+374,Band of Brothers,339023,5,20s,"Action,Drama,History",300979,9.5,1
+375,The Blair Witch Project,234636,5,20s,"Horror,Mystery",212302,6.4,0
+376,Gone in Sixty Seconds,12578,4,30s,"Action,Crime,Thriller",240900,6.5,0
+377,The Patriot,12617,3,40s,"Action,Drama,History",231986,7.2,0
+378,Blade II,13111,4,30s,"Action,Horror,Sci-Fi",181627,6.7,0
+379,Toy Story,12621,4,30s,"Adventure,Animation,Comedy",761036,8.3,1
+380,Twelve Monkeys,12709,4,30s,"Mystery,Sci-Fi,Thriller",530283,8.0,1
+381,The Usual Suspects,12691,4,30s,"Crime,Mystery,Thriller",877061,8.6,1
+382,Waterworld,12589,4,30s,"Action,Adventure,Sci-Fi",162205,6.2,0
+383,The Cable Guy,12583,4,30s,"Comedy,Drama,Thriller",137887,6.1,0
+384,The English Patient,12609,4,30s,"Drama,Romance,War",161977,7.4,1
+385,Fargo,12976,3,40s,"Crime,Drama,Thriller",544004,8.1,1
+386,From Dusk Till Dawn,12635,2,50s,"Action,Crime,Horror",252310,7.3,1
+387,Happy Gilmore,11795,5,20s,"Comedy,Sport",176238,7.0,0
+388,The Hunchback of Notre Dame,12656,4,30s,"Animation,Drama,Family",122520,6.9,0
+389,Independence Day,12689,5,20s,"Action,Adventure,Sci-Fi",483765,7.0,0
+390,Jerry Maguire,12592,4,30s,"Comedy,Drama,Romance",216898,7.3,1
+391,Lost Highway,13060,3,40s,"Mystery,Thriller",115044,7.6,1
+392,Mars Attacks!,12660,2,50s,"Comedy,Sci-Fi",192086,6.3,0
+393,Matilda,12825,2,50s,"Comedy,Family,Fantasy",106741,6.9,0
+394,Mission: Impossible,12592,4,30s,"Action,Adventure,Thriller",349077,7.1,0
+395,Primal Fear,12615,3,40s,"Crime,Drama,Mystery",157323,7.7,1
+396,Ransom,12617,4,30s,"Action,Crime,Thriller",109020,6.6,0
+397,The Rock,12588,1,+60s,"Action,Adventure,Thriller",286977,7.4,1
+398,Romeo + Juliet,12601,5,20s,"Drama,Romance",190361,6.8,0
+399,Scream,12580,5,20s,"Horror,Mystery",254946,7.2,0
+400,Sleepers,12597,2,50s,"Crime,Drama,Thriller",171720,7.6,1
+401,Space Jam,20274,4,30s,"Adventure,Animation,Comedy",135917,6.4,0
+402,Star Trek: First Contact,12376,2,50s,"Action,Adventure,Drama",108020,7.6,1
+403,A Time to Kill,12653,5,20s,"Crime,Drama,Thriller",115946,7.4,1
+404,Trainspotting,12654,5,20s,Drama,572941,8.2,1
+405,Twister,12629,4,30s,"Action,Adventure,Drama",158926,6.3,0
+406,Buffy the Vampire Slayer,11868,6,teenager,"Action,Drama,Fantasy",115271,8.2,1
+407,Air Force One,12611,2,50s,"Action,Drama,Thriller",163570,6.5,0
+408,Alien: Resurrection,12707,3,40s,"Action,Horror,Sci-Fi",204752,6.2,0
+409,Anastasia,12675,4,30s,"Adventure,Animation,Drama",100325,7.1,0
+410,Austin Powers: International Man of Mystery,12659,4,30s,"Adventure,Comedy",202044,7.0,0
+411,Batman & Robin,12679,3,40s,"Action,Sci-Fi",212887,3.7,0
+412,Faa yeung nin wa,489152,4,30s,"Drama,Romance",101083,8.1,1
+413,The Big Lebowski,12776,3,40s,"Comedy,Crime",639529,8.1,1
+414,Boogie Nights,12705,5,20s,Drama,215045,7.9,1
+415,La vita Ã¨ bella,13367,3,40s,"Comedy,Drama,Romance",528794,8.6,1
+416,Chasing Amy,12718,5,20s,"Comedy,Drama,Romance",123405,7.3,1
+417,Con Air,12578,4,30s,"Action,Crime,Thriller",251292,6.8,0
+418,Contact,12612,4,30s,"Drama,Mystery,Sci-Fi",229965,7.4,1
+419,Dark City,12326,4,30s,"Mystery,Sci-Fi,Thriller",174201,7.7,1
+420,The Devil's Advocate,12669,4,30s,"Drama,Mystery,Thriller",294486,7.5,1
+421,Donnie Brasco,12662,2,50s,"Biography,Crime,Drama",250488,7.8,1
+422,Event Horizon,12864,4,30s,"Horror,Sci-Fi,Thriller",139577,6.7,0
+423,Face/Off,12700,3,40s,"Action,Crime,Sci-Fi",318168,7.3,1
+424,Le cinquiÃ¨me Ã©lÃ©ment,12709,3,40s,"Action,Adventure,Sci-Fi",391695,7.7,1
+425,The Game,12603,2,50s,"Drama,Mystery,Thriller",305799,7.8,1
+426,Gattaca,12623,5,20s,"Drama,Sci-Fi,Thriller",253268,7.8,1
+427,Good Will Hunting,12708,3,40s,"Drama,Romance",739385,8.3,1
+428,Hercules,16920,4,30s,"Adventure,Animation,Comedy",174824,7.3,1
+429,I Know What You Did Last Summer,11953,6,teenager,"Horror,Mystery,Thriller",120014,5.7,0
+430,Jackie Brown,12890,3,40s,"Crime,Drama,Thriller",273446,7.5,1
+431,L.A. Confidential,12691,4,30s,"Crime,Drama,Mystery",480221,8.3,1
+432,Liar Liar,12583,4,30s,"Comedy,Fantasy",252184,6.9,0
+433,The Lost World: Jurassic Park,12619,3,40s,"Action,Adventure,Sci-Fi",332155,6.5,0
+434,Meet Joe Black,12556,4,30s,"Drama,Fantasy,Romance",190032,7.2,0
+435,Men in Black,12632,2,50s,"Adventure,Comedy,Mystery",461632,7.3,1
+436,Mononoke-hime,528923,5,20s,"Adventure,Animation,Fantasy",282075,8.4,1
+437,My Best Friend's Wedding,12673,5,20s,"Comedy,Drama,Romance",113027,6.3,0
+438,As Good as It Gets,12660,2,50s,"Comedy,Drama,Romance",248413,7.7,1
+439,Scream 2,12580,5,20s,"Horror,Mystery",141186,6.1,0
+440,Seven Years in Tibet,12556,4,30s,"Adventure,Biography,Drama",109659,7.0,0
+441,Three Kings,12586,4,30s,"Action,Adventure,Comedy",150335,7.1,0
+442,Starship Troopers,13143,5,20s,"Action,Adventure,Sci-Fi",246467,7.2,0
+443,Titanic,12601,5,20s,"Drama,Romance",921227,7.8,1
+444,Tomorrow Never Dies,12575,3,40s,"Action,Adventure,Thriller",164846,6.5,0
+445,Toy Story 2,12621,3,40s,"Adventure,Animation,Comedy",451439,7.9,1
+446,The Truman Show,12583,4,30s,"Comedy,Drama,Sci-Fi",807847,8.1,1
+447,The Waterboy,11795,4,30s,"Comedy,Sport",134340,6.1,0
+448,American History X,12174,5,20s,"Crime,Drama",921497,8.5,1
+449,Antz,12558,1,+60s,"Adventure,Animation,Comedy",136492,6.6,0
+450,Armageddon,12709,3,40s,"Action,Adventure,Sci-Fi",361247,6.7,0
+451,Being John Malkovich,12594,4,30s,"Comedy,Drama,Fantasy",283197,7.8,1
+452,Blade,13111,4,30s,"Action,Horror,Sci-Fi",219911,7.1,0
+453,The Mummy,12872,4,30s,"Action,Adventure,Fantasy",357866,7.0,0
+454,A Bug's Life,12691,4,30s,"Adventure,Animation,Comedy",241245,7.2,0
+455,Chicken Run,12617,3,40s,"Adventure,Animation,Comedy",159406,7.0,0
+456,City of Angels,12578,4,30s,"Drama,Fantasy,Romance",104920,6.7,0
+457,Deep Impact,12843,1,+60s,"Action,Drama,Romance",148354,6.2,0
+458,Dogma,12718,5,20s,"Adventure,Comedy,Drama",195438,7.3,1
+459,The 13th Warrior,12567,4,30s,"Action,Adventure,History",109132,6.6,0
+460,Enemy of the State,12689,5,20s,"Action,Crime,Mystery",209290,7.3,1
+461,Eyes Wide Shut,12592,4,30s,"Drama,Mystery,Thriller",264755,7.4,1
+462,Fantastic Four,333893,4,30s,"Action,Adventure,Fantasy",291479,5.7,0
+463,Fear and Loathing in Las Vegas,12599,4,30s,"Adventure,Comedy,Drama",237442,7.7,1
+464,From Hell,12599,4,30s,"Horror,Mystery,Thriller",137111,6.8,0
+465,Godzilla,12574,4,30s,"Action,Sci-Fi,Thriller",167069,5.3,0
+466,The Green Mile,12621,3,40s,"Crime,Drama,Fantasy",968817,8.5,1
+467,"Lock, Stock and Two Smoking Barrels",13609,4,30s,"Comedy,Crime",480512,8.2,1
+468,The Lord of the Rings: The Fellowship of the Ring,13167,6,teenager,"Adventure,Drama,Fantasy",1455521,8.8,1
+469,The Man in the Iron Mask,12601,5,20s,"Action,Adventure,Drama",142458,6.5,0
+470,The Mask of Zorro,12567,4,30s,"Action,Adventure,Comedy",152815,6.7,0
+471,Mission: Impossible II,12592,4,30s,"Action,Adventure,Thriller",282301,6.1,0
+472,Mulan,12444,4,30s,"Adventure,Animation,Family",212640,7.6,1
+473,The Negotiator,12631,3,40s,"Action,Crime,Drama",119652,7.3,1
+474,The Parent Trap,493885,6,teenager,"Adventure,Comedy,Drama",104819,6.5,0
+475,Payback,12617,3,40s,"Action,Crime,Drama",122621,7.1,0
+476,Pleasantville,12101,5,20s,"Comedy,Drama,Fantasy",112647,7.5,1
+477,The Prince of Egypt,12637,4,30s,"Adventure,Animation,Drama",105246,7.1,0
+478,Resident Evil,12633,5,20s,"Action,Horror,Sci-Fi",226589,6.7,0
+479,Rush Hour,12792,3,40s,"Action,Comedy,Crime",213963,7.0,0
+480,Saving Private Ryan,12621,3,40s,"Drama,War",1066004,8.6,1
+481,Tarzan,11886,4,30s,"Adventure,Animation,Family",174555,7.3,1
+482,The Thin Red Line,11633,5,20s,"Drama,War",157157,7.6,1
+483,The Wedding Singer,11795,4,30s,"Comedy,Music,Romance",122101,6.8,0
+484,Wild Wild West,12689,4,30s,"Action,Comedy,Sci-Fi",142042,4.9,0
+485,X-Men,12376,2,50s,"Action,Adventure,Sci-Fi",520521,7.4,1
+486,Men in Black II,12632,2,50s,"Action,Adventure,Comedy",302105,6.1,0
+487,Star Wars: Episode I - The Phantom Menace,12654,5,20s,"Action,Adventure,Fantasy",633668,6.5,0
+488,The Emperor's New Groove,17486,4,30s,"Adventure,Animation,Comedy",154199,7.3,1
+489,Corpse Bride,12599,3,40s,"Animation,Drama,Family",218181,7.4,1
+490,Star Wars: Episode II - Attack of the Clones,160925,5,20s,"Action,Adventure,Fantasy",555539,6.6,0
+491,Star Wars: Episode III - Revenge of the Sith,160925,5,20s,"Action,Adventure,Fantasy",619565,7.6,1
+492,South Park,17331,5,20s,"Animation,Comedy",290758,8.7,1
+493,Lethal Weapon 4,12617,3,40s,"Action,Crime,Thriller",140847,6.6,0
+494,Ronin,12597,2,50s,"Action,Adventure,Crime",158909,7.3,1
+495,Analyze This,12597,2,50s,"Comedy,Crime",135592,6.7,0
+496,American Pie,16792,5,20s,Comedy,345489,7.0,0
+497,The Beach,12601,5,20s,"Adventure,Drama,Romance",202860,6.6,0
+498,Hollow Man,12565,3,40s,"Action,Horror,Sci-Fi",112708,5.7,0
+499,Stuart Little,12613,4,30s,"Adventure,Comedy,Family",111064,5.9,0
+500,That '70s Show,322768,6,teenager,"Comedy,Romance",136011,8.1,1
+501,Mulholland Dr.,873249,4,30s,"Drama,Mystery,Thriller",282861,8.0,1
+502,Hellboy,13042,2,50s,"Action,Fantasy,Horror",277234,6.9,0
+503,The Lord of the Rings: The Return of the King,13167,5,20s,"Action,Adventure,Drama",1438839,8.9,1
+504,The Lord of the Rings: The Two Towers,13167,5,20s,"Adventure,Drama,Fantasy",1300755,8.7,1
+505,The Sixth Sense,12709,3,40s,"Drama,Mystery,Thriller",820731,8.1,1
+506,American Beauty,12691,4,30s,Drama,963165,8.4,1
+507,How the Grinch Stole Christmas,12583,4,30s,"Comedy,Family,Fantasy",171673,6.1,0
+508,Bad Boys II,12689,4,30s,"Action,Comedy,Crime",201252,6.6,0
+509,"Girl, Interrupted",12676,5,20s,"Biography,Drama",143477,7.4,1
+510,Gladiator,12591,4,30s,"Action,Adventure,Drama",1168650,8.5,1
+511,Scary Movie,272461,5,20s,Comedy,210140,6.2,0
+512,Magnolia,12592,4,30s,Drama,265163,8.0,1
+513,The Whole Nine Yards,12709,3,40s,"Comedy,Crime",100419,6.7,0
+514,Wo hu cang long,12797,3,40s,"Action,Adventure,Fantasy",236043,7.9,1
+515,"O Brother, Where Art Thou?",12586,4,30s,"Adventure,Comedy,Crime",256908,7.8,1
+516,Freaks and Geeks,16839,5,20s,"Comedy,Drama",114540,8.8,1
+517,Erin Brockovich,12673,4,30s,"Biography,Drama",154052,7.3,1
+518,Final Destination,12305,5,20s,"Horror,Thriller",205490,6.7,0
+519,Zoolander,12378,4,30s,Comedy,226144,6.6,0
+520,"Monsters, Inc.",12808,2,50s,"Adventure,Animation,Comedy",712114,8.1,1
+521,The Bank Job,17494,3,40s,"Crime,Drama,Romance",163692,7.3,1
+522,Moulin Rouge!,12636,4,30s,"Drama,Musical,Romance",247329,7.6,1
+523,Office Space,497087,4,30s,Comedy,222079,7.8,1
+524,"South Park: Bigger, Longer & Uncut",17331,5,20s,"Animation,Comedy,Fantasy",178641,7.8,1
+525,The Virgin Suicides,12842,6,teenager,"Drama,Romance",131494,7.2,0
+526,Cold Mountain,12642,4,30s,"Adventure,Drama,History",129745,7.2,0
+527,Charlie's Angels,12602,5,20s,"Action,Adventure,Comedy",159796,5.5,0
+528,What Lies Beneath,12611,2,50s,"Drama,Fantasy,Horror",108245,6.6,0
+529,Cast Away,12621,3,40s,"Adventure,Drama,Romance",458791,7.8,1
+530,Ghost World,12577,3,40s,"Comedy,Drama",105333,7.4,1
+531,Sleepy Hollow,12599,4,30s,"Fantasy,Horror,Mystery",299586,7.4,1
+532,Jurassic Park III,13017,2,50s,"Action,Adventure,Sci-Fi",262567,5.9,0
+533,Grey's Anatomy,646105,4,30s,"Drama,Romance",201708,7.6,1
+534,Pride & Prejudice,456074,6,teenager,"Drama,Romance",224016,7.8,1
+535,Final Destination 3,897735,5,20s,"Horror,Thriller",117145,5.8,0
+536,The Fountain,410842,4,30s,"Drama,Sci-Fi",212838,7.3,1
+537,Talladega Nights: The Ballad of Ricky Bobby,13604,4,30s,"Comedy,Sport",149103,6.6,0
+538,Match Point,420558,5,20s,"Drama,Romance,Thriller",187323,7.6,1
+539,300,118025,4,30s,"Action,Fantasy",676945,7.7,1
+540,Snakes on a Plane,12631,2,50s,"Action,Adventure,Crime",124190,5.5,0
+541,Avatar: The Last Airbender,65008,3,40s,"Action,Adventure,Animation",178580,9.2,1
+542,Harry Potter and the Half-Blood Prince,669648,6,teenager,"Adventure,Family,Fantasy",398785,7.6,1
+543,Transformers,456895,5,20s,"Action,Adventure,Sci-Fi",559145,7.1,0
+544,Flags of Our Fathers,12665,4,30s,"Drama,History,War",109945,7.1,0
+545,Jarhead,351402,5,20s,"Biography,Drama,War",159144,7.0,0
+546,Stranger Than Fiction,13604,4,30s,"Comedy,Drama,Fantasy",203974,7.6,1
+547,The Village,12707,2,50s,"Drama,Mystery,Thriller",220309,6.5,0
+548,National Treasure,12578,4,30s,"Action,Adventure,Family",280169,6.9,0
+549,Two and a Half Men,11687,4,30s,"Comedy,Romance",222482,7.1,0
+550,Collateral,12592,3,40s,"Crime,Drama,Thriller",328596,7.5,1
+551,Fun with Dick and Jane,12583,3,40s,"Comedy,Crime",122740,6.1,0
+552,Jurassic World,666394,4,30s,"Action,Adventure,Sci-Fi",520437,7.0,0
+553,AVP: Alien vs. Predator,17162,4,30s,"Action,Horror,Sci-Fi",168569,5.6,0
+554,The Hitchhiker's Guide to the Galaxy,296927,4,30s,"Adventure,Comedy,Sci-Fi",174180,6.8,0
+555,Iron Man,12838,3,40s,"Action,Adventure,Sci-Fi",819918,7.9,1
+556,The Bourne Supremacy,12817,4,30s,"Action,Mystery,Thriller",398589,7.8,1
+557,Team America: World Police,17331,4,30s,"Action,Comedy",148308,7.2,0
+558,Batman Begins,12751,4,30s,"Action,Adventure,Thriller",1155363,8.3,1
+559,Journey to the Center of the Earth,12872,4,30s,"Action,Adventure,Family",101465,5.8,0
+560,Kung fu,160655,3,40s,"Action,Comedy,Crime",113047,7.8,1
+561,Kiss Kiss Bang Bang,12838,4,30s,"Action,Comedy,Crime",198655,7.6,1
+562,Halloween,179437,6,teenager,"Fantasy,Horror",100398,6.1,0
+563,Harry Potter and the Order of the Phoenix,669648,6,teenager,"Adventure,Family,Fantasy",433645,7.5,1
+564,Resident Evil: Apocalypse,12633,5,20s,"Action,Horror,Sci-Fi",171734,6.2,0
+565,Big Fish,12654,4,30s,"Adventure,Drama,Fantasy",383233,8.0,1
+566,The Day After Tomorrow,13061,3,40s,"Action,Adventure,Sci-Fi",375283,6.4,0
+567,Elf,13604,4,30s,"Comedy,Family,Fantasy",177430,6.9,0
+568,Kingdom of Heaven,95009,5,20s,"Action,Adventure,Drama",245067,7.2,0
+569,Underworld,12758,5,20s,"Action,Fantasy,Thriller",234805,7.0,0
+570,2 Fast 2 Furious,876019,5,20s,"Action,Crime,Thriller",224086,5.9,0
+571,Freaky Friday,12593,3,40s,"Comedy,Family,Fantasy",112114,6.2,0
+572,The Texas Chainsaw Massacre,16791,5,20s,Horror,120498,6.2,0
+573,Insomnia,12662,1,+60s,"Drama,Mystery,Thriller",248290,7.2,0
+574,Smallville,740268,3,40s,"Adventure,Drama,Romance",106579,7.5,1
+575,Mr. Deeds,11795,4,30s,"Comedy,Romance",124002,5.8,0
+576,A Walk to Remember,576621,6,teenager,"Drama,Romance",184103,7.4,1
+577,The Matrix Reloaded,12669,4,30s,"Action,Sci-Fi",467385,7.2,0
+578,Blow,12599,4,30s,"Biography,Crime,Drama",219644,7.6,1
+579,Pay It Forward,12691,3,40s,Drama,105590,7.2,0
+580,The Score,12597,2,50s,"Crime,Drama,Thriller",111294,6.8,0
+581,The Others,12636,4,30s,"Horror,Mystery,Thriller",306800,7.6,1
+582,The Fast and the Furious,16911,4,30s,"Action,Crime,Thriller",311805,6.8,0
+583,Equilibrium,12751,5,20s,"Action,Drama,Sci-Fi",290433,7.5,1
+584,Ocean's Eleven,12586,4,30s,"Crime,Thriller",462818,7.8,1
+585,Children of Men,12657,3,40s,"Drama,Sci-Fi,Thriller",416163,7.9,1
+586,What Women Want,12617,3,40s,"Comedy,Fantasy,Romance",176574,6.4,0
+587,Snatch,17494,4,30s,"Comedy,Crime",698646,8.3,1
+588,Memento,12206,4,30s,"Mystery,Thriller",1001580,8.5,1
+589,The Mummy Returns,12872,4,30s,"Action,Adventure,Fantasy",277380,6.3,0
+590,Remember the Titans,12706,3,40s,"Biography,Drama,Sport",180397,7.8,1
+591,Le fabuleux destin d'AmÃ©lie Poulain,813527,5,20s,"Comedy,Romance",632935,8.3,1
+592,Meet the Parents,12378,4,30s,"Comedy,Romance",287719,7.0,0
+593,Miss Congeniality,12576,4,30s,"Action,Comedy,Crime",162716,6.2,0
+594,Malcolm in the Middle,17296,6,teenager,"Comedy,Family",106681,8.0,1
+595,Artificial Intelligence: AI,17322,6,teenager,"Adventure,Drama,Sci-Fi",269122,7.1,0
+596,Hannibal,12627,1,+60s,"Crime,Drama,Thriller",231791,6.8,0
+597,Pearl Harbor,12718,5,20s,"Action,Drama,History",287065,6.1,0
+598,Road Trip,17263,5,20s,"Adventure,Comedy",145903,6.5,0
+599,Enemy at the Gates,12642,5,20s,"Drama,History,War",218366,7.6,1
+600,The 6th Day,12679,2,50s,"Action,Mystery,Sci-Fi",108646,5.9,0
+601,Gangs of New York,12601,5,20s,"Crime,Drama",361950,7.5,1
+602,Unbreakable,12709,3,40s,"Drama,Mystery,Sci-Fi",309249,7.3,1
+603,Chocolat,12763,4,30s,"Drama,Romance",165421,7.3,1
+604,Harry Potter and the Sorcerer's Stone,669648,6,teenager,"Adventure,Family,Fantasy",546585,7.6,1
+605,"Dude, Where's My Car?",17147,5,20s,"Comedy,Mystery,Sci-Fi",126712,5.5,0
+606,The Matrix Revolutions,12669,4,30s,"Action,Sci-Fi",405585,6.7,0
+607,Bridget Jones's Diary,12713,4,30s,"Comedy,Drama,Romance",200079,6.7,0
+608,Swordfish,12700,3,40s,"Action,Crime,Thriller",166815,6.5,0
+609,Sen to Chihiro no kamikakushi,160270,6,teenager,"Adventure,Animation,Family",532266,8.6,1
+610,Y tu mamÃ¡ tambiÃ©n,854055,4,30s,"Adventure,Comedy,Drama",103420,7.7,1
+611,The Count of Monte Cristo,11633,4,30s,"Action,Adventure,Drama",117352,7.8,1
+612,Die Another Day,12575,3,40s,"Action,Adventure,Thriller",187503,6.1,0
+613,Donnie Darko,351402,5,20s,"Drama,Sci-Fi,Thriller",680893,8.1,1
+614,The Princess Diaries,12730,1,+60s,"Comedy,Family,Romance",112365,6.3,0
+615,Six Feet Under,452954,4,30s,"Comedy,Drama",107355,8.7,1
+616,Catch Me If You Can,12601,5,20s,"Biography,Crime,Drama",685341,8.1,1
+617,Black Hawk Down,11930,5,20s,"Drama,History,War",330854,7.7,1
+618,The Girl Next Door,359671,6,teenager,"Comedy,Drama,Romance",187066,6.7,0
+619,One Hour Photo,12708,2,50s,"Drama,Thriller",106331,6.8,0
+620,The Royal Tenenbaums,12895,1,+60s,"Comedy,Drama",239868,7.6,1
+621,Batoru rowaiaru,290965,6,teenager,"Adventure,Drama,Sci-Fi",156231,7.7,1
+622,Finding Nemo,11587,2,50s,"Adventure,Animation,Comedy",837794,8.1,1
+623,Kill Bill: Vol. 1,12698,4,30s,"Action,Crime,Thriller",874137,8.1,1
+624,Rush Hour 2,12792,3,40s,"Action,Comedy,Crime",180905,6.6,0
+625,Spy Game,13065,1,+60s,"Action,Crime,Thriller",132781,7.1,0
+626,Adaptation.,12578,4,30s,"Comedy,Drama",162015,7.7,1
+627,Ice Age,12063,3,40s,"Adventure,Animation,Comedy",385269,7.5,1
+628,The Time Machine,12206,4,30s,"Action,Adventure,Sci-Fi",111545,5.9,0
+629,A Beautiful Mind,12591,4,30s,"Biography,Drama",744574,8.2,1
+630,K-PAX,12691,3,40s,"Drama,Sci-Fi",164767,7.4,1
+631,Punch-Drunk Love,11795,4,30s,"Comedy,Drama,Romance",128227,7.3,1
+632,Johnny English,12563,3,40s,"Action,Adventure,Comedy",130476,6.2,0
+633,The Hours,13121,2,50s,"Drama,Romance",114204,7.6,1
+634,Lilo & Stitch,160270,6,teenager,"Adventure,Animation,Comedy",143996,7.2,0
+635,About a Boy,12887,3,40s,"Comedy,Drama,Romance",157077,7.1,0
+636,Dogville,12636,4,30s,"Crime,Drama",122519,8.0,1
+637,I Am Sam,13039,3,40s,Drama,133672,7.6,1
+638,The Scorpion King,416932,5,20s,"Action,Adventure,Fantasy",119257,5.5,0
+639,We Were Soldiers,12617,3,40s,"Action,Drama,History",117997,7.2,0
+640,24,13125,4,30s,"Action,Crime,Drama",160971,8.4,1
+641,Scrubs,107391,5,20s,"Comedy,Drama",219556,8.4,1
+642,Once Upon a Time in Mexico,12567,3,40s,"Action,Thriller",142591,6.4,0
+643,Signs,12617,3,40s,"Drama,Mystery,Sci-Fi",306235,6.7,0
+644,Hulk,42142,4,30s,"Action,Sci-Fi",234597,5.7,0
+645,Daredevil,12718,4,30s,"Action,Adventure,Crime",194146,5.3,0
+646,28 Days Later...,595622,5,20s,"Drama,Horror,Sci-Fi",338153,7.6,1
+647,Billy Elliot,68375,6,teenager,"Drama,Music,Romance",111254,7.7,1
+648,Legally Blonde,13165,5,20s,"Comedy,Romance",157467,6.2,0
+649,Rat Race,17263,5,20s,"Adventure,Comedy",100905,6.4,0
+650,Evolution,12604,3,40s,"Comedy,Sci-Fi",110853,6.1,0
+651,How to Lose a Guy in 10 Days,17065,5,20s,"Comedy,Romance",184632,6.4,0
+652,John Q,12706,3,40s,"Crime,Drama,Thriller",112454,7.1,0
+653,American Pie 2,16792,5,20s,Comedy,220691,6.4,0
+654,The Pianist,16815,5,20s,"Biography,Drama,Music",614507,8.5,1
+655,Reign of Fire,12653,4,30s,"Action,Adventure,Fantasy",117491,6.2,0
+656,Shallow Hal,99526,4,30s,"Comedy,Drama,Fantasy",119121,5.9,0
+657,Road to Perdition,12621,3,40s,"Crime,Drama,Thriller",223979,7.7,1
+658,S.W.A.T.,12631,2,50s,"Action,Adventure,Crime",129430,6.0,0
+659,Scary Movie 2,272461,5,20s,Comedy,135185,5.3,0
+660,About Schmidt,12660,1,+60s,"Comedy,Drama",115734,7.2,0
+661,Panic Room,12612,4,30s,"Crime,Drama,Thriller",231624,6.8,0
+662,The Bourne Identity,18829,5,20s,"Action,Mystery,Thriller",464706,7.9,1
+663,Ghost Rider,12578,3,40s,"Action,Adventure,Fantasy",204647,5.2,0
+664,My Big Fat Greek Wedding,850964,4,30s,"Comedy,Drama,Romance",111814,6.6,0
+665,Vanilla Sky,12592,4,30s,"Fantasy,Mystery,Romance",229538,6.9,0
+666,Jay and Silent Bob Strike Back,566278,5,20s,Comedy,138692,6.9,0
+667,Jeepers Creepers,17348,4,30s,"Horror,Mystery",100746,6.2,0
+668,Red Dragon,12627,1,+60s,"Crime,Drama,Thriller",226673,7.2,0
+669,The Butterfly Effect,17147,5,20s,"Drama,Sci-Fi,Thriller",409874,7.7,1
+670,Meet the Fockers,12378,4,30s,"Comedy,Romance",233516,6.3,0
+671,X2,12376,1,+60s,"Action,Adventure,Sci-Fi",467167,7.5,1
+672,Lara Croft Tomb Raider: The Cradle of Life,12005,5,20s,"Action,Adventure,Fantasy",119008,5.5,0
+673,The Last Samurai,12592,3,40s,"Action,Drama,History",360952,7.7,1
+674,Matchstick Men,12578,4,30s,"Comedy,Crime,Drama",116235,7.3,1
+675,Pirates of the Caribbean: The Curse of the Black Pearl,12599,4,30s,"Action,Adventure,Fantasy",941202,8.0,1
+676,Mystic River,13039,3,40s,"Crime,Drama,Mystery",379850,8.0,1
+677,Over the Hedge,12709,2,50s,"Adventure,Animation,Comedy",143742,6.7,0
+678,Coraline,271810,6,teenager,"Animation,Drama,Fantasy",174193,7.7,1
+679,Man on Fire,12706,3,40s,"Action,Crime,Drama",300162,7.7,1
+680,American Wedding,16792,5,20s,Comedy,178907,6.3,0
+681,Anger Management,12660,1,+60s,Comedy,188003,6.2,0
+682,Charlie's Angels: Full Throttle,12569,5,20s,"Action,Adventure,Comedy",110580,4.9,0
+683,Scary Movie 3,272461,5,20s,Comedy,125267,5.5,0
+684,The Wire,879148,4,30s,"Crime,Drama,Thriller",234544,9.3,1
+685,Shark Tale,12689,4,30s,"Adventure,Animation,Comedy",150392,6.0,0
+686,25th Hour,12174,4,30s,Drama,160791,7.7,1
+687,Bad Santa,13134,3,40s,"Comedy,Crime,Drama",124084,7.1,0
+688,Finding Neverland,12599,3,40s,"Biography,Drama,Family",188394,7.7,1
+689,Final Destination 2,170044,5,20s,"Horror,Thriller",136585,6.2,0
+690,Identity,12594,4,30s,"Mystery,Thriller",204340,7.3,1
+691,Master and Commander: The Far Side of the World,12591,4,30s,"Action,Adventure,Drama",186196,7.4,1
+692,The League of Extraordinary Gentlemen,12588,1,+60s,"Action,Adventure,Fantasy",154607,5.8,0
+693,The Curse of the Were-Rabbit,725810,1,+60s,"Adventure,Animation,Comedy",112279,7.5,1
+694,Love Actually,12887,3,40s,"Comedy,Drama,Romance",368982,7.6,1
+695,Tears of the Sun,12709,3,40s,"Action,Drama,Thriller",104140,6.6,0
+696,Bruce Almighty,12583,3,40s,"Comedy,Drama,Fantasy",337430,6.7,0
+697,21 Grams,13039,3,40s,"Crime,Drama,Thriller",208978,7.7,1
+698,Spider-Man 2,12101,5,20s,"Action,Adventure,Sci-Fi",483443,7.3,1
+699,Cars,17598,4,30s,"Animation,Comedy,Family",314477,7.1,0
+700,Cidade de Deus,1365320,6,teenager,"Crime,Drama",624240,8.6,1
+701,The Incredibles,17302,2,50s,"Action,Adventure,Animation",575278,8.0,1
+702,The Italian Job,13124,1,+60s,"Action,Crime,Thriller",315742,7.0,0
+703,Mission: Impossible III,12592,3,40s,"Action,Adventure,Thriller",297522,6.9,0
+704,Freddy vs. Jason,12850,2,50s,"Action,Horror",100838,5.8,0
+705,Harry Potter and the Goblet of Fire,669648,6,teenager,"Adventure,Family,Fantasy",467969,7.7,1
+706,The Punisher,17085,4,30s,"Action,Adventure,Crime",139415,6.5,0
+707,The Notebook,12291,1,+60s,"Drama,Romance",459079,7.9,1
+708,The School of Rock,99526,4,30s,"Comedy,Music",237411,7.1,0
+709,Troy,12556,3,40s,"Drama,History,Romance",439133,7.2,0
+710,Garden State,107391,5,20s,"Comedy,Drama,Romance",199462,7.5,1
+711,Napoleon Dynamite,1568448,5,20s,Comedy,180202,6.9,0
+712,Sideways,309746,4,30s,"Comedy,Drama,Romance",166575,7.5,1
+713,Crash,12795,4,30s,"Crime,Drama,Thriller",394549,7.8,1
+714,Layer Cake,187404,4,30s,"Crime,Drama,Thriller",148837,7.4,1
+715,Closer,12667,5,20s,"Drama,Romance",186562,7.3,1
+716,X-Men: The Last Stand,12376,1,+60s,"Action,Adventure,Sci-Fi",439070,6.7,0
+717,Mean Girls,493885,6,teenager,Comedy,291378,7.0,0
+718,Kill Bill: Vol. 2,12698,4,30s,"Action,Crime,Thriller",593238,8.0,1
+719,IrrÃ©versible,13361,4,30s,"Crime,Drama,Mystery",102696,7.4,1
+720,The Recruit,12662,1,+60s,"Action,Drama,Mystery",122582,6.6,0
+721,The Phantom of the Opera,118025,4,30s,"Drama,Musical,Romance",107721,7.3,1
+722,Rush Hour 3,12792,2,50s,"Action,Comedy,Crime",137598,6.2,0
+723,The Transporter,17494,4,30s,"Action,Crime,Thriller",263915,6.8,0
+724,Austin Powers in Goldmember,12659,4,30s,"Action,Adventure,Comedy",179879,6.2,0
+725,Harry Potter and the Chamber of Secrets,669648,6,teenager,"Adventure,Family,Fantasy",471968,7.4,1
+726,xXx,16911,4,30s,"Action,Adventure,Thriller",162595,5.9,0
+727,The Chronicles of Riddick,16911,4,30s,"Action,Adventure,Sci-Fi",200965,6.7,0
+728,The Ring,873249,4,30s,"Horror,Mystery",291221,7.1,0
+729,Shrek 2,12659,3,40s,"Adventure,Animation,Comedy",366494,7.2,0
+730,8 Mile,16933,5,20s,"Drama,Music",221374,7.1,0
+731,Chicago,12713,4,30s,"Comedy,Crime,Musical",196405,7.2,0
+732,Ying xiong,12076,4,30s,"Action,Adventure,History",163172,7.9,1
+733,Good Bye Lenin!,122810,5,20s,"Comedy,Drama,Romance",126928,7.7,1
+734,Old School,17597,4,30s,Comedy,200440,7.1,0
+735,Firefly,266616,4,30s,"Adventure,Drama,Sci-Fi",219149,9.0,1
+736,Harry Potter and the Prisoner of Azkaban,669648,6,teenager,"Adventure,Family,Fantasy",467845,7.9,1
+737,Capote,12913,4,30s,"Biography,Crime,Drama",114486,7.4,1
+738,Serenity,266616,4,30s,"Action,Adventure,Sci-Fi",264885,7.9,1
+739,The Lovely Bones,12442,4,30s,"Drama,Fantasy,Thriller",141752,6.7,0
+740,Casino Royale,187404,4,30s,"Action,Adventure,Thriller",527214,8.0,1
+741,The Brothers Grimm,12817,4,30s,"Action,Adventure,Comedy",108557,5.9,0
+742,EuroTrip,1486922,5,20s,Comedy,179342,6.6,0
+743,Mr. & Mrs. Smith,12556,3,40s,"Action,Comedy,Crime",403875,6.5,0
+744,Anchorman: The Legend of Ron Burgundy,13604,4,30s,Comedy,301200,7.2,0
+745,Robots,12654,4,30s,"Adventure,Animation,Comedy",118890,6.3,0
+746,Walk the Line,12222,4,30s,"Biography,Drama,Music",207836,7.9,1
+747,Blade: Trinity,13111,3,40s,"Action,Adventure,Horror",151705,5.9,0
+748,The Secret Life of Walter Mitty,12378,3,40s,"Adventure,Comedy,Drama",269567,7.3,1
+749,Constantine,12669,3,40s,"Action,Fantasy,Horror",269721,7.0,0
+750,King Kong,873249,4,30s,"Action,Adventure,Drama",357850,7.2,0
+751,Inglourious Basterds,12556,3,40s,"Adventure,Drama,War",1077566,8.3,1
+752,The Machinist,12751,5,20s,"Drama,Thriller",322320,7.7,1
+753,Scary Movie 4,272461,5,20s,Comedy,104489,5.1,0
+754,The Terminal,12621,3,40s,"Comedy,Drama,Romance",354595,7.3,1
+755,The Life Aquatic with Steve Zissou,12658,2,50s,"Action,Adventure,Comedy",161673,7.3,1
+756,Der Untergang,18939,1,+60s,"Biography,Drama,History",295407,8.2,1
+757,Dawn of the Dead,12235,5,20s,"Action,Horror,Thriller",216234,7.3,1
+758,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",800198,3,40s,"Adventure,Family,Fantasy",329656,6.9,0
+759,Secret Window,12599,3,40s,"Drama,Mystery,Thriller",166005,6.6,0
+760,Oldeuboi,159118,3,40s,"Action,Drama,Mystery",440898,8.4,1
+761,Dodgeball: A True Underdog Story,12378,4,30s,"Comedy,Sport",208470,6.7,0
+762,NCIS: Naval Criminal Investigative Service,11923,2,50s,"Action,Comedy,Crime",103127,7.9,1
+763,Syriana,12586,3,40s,"Drama,Thriller",118745,6.9,0
+764,Shaun of the Dead,653264,4,30s,"Comedy,Horror",455859,7.9,1
+765,A Walk Among the Tombstones,13016,1,+60s,"Crime,Drama,Mystery",102167,6.5,0
+766,Happy Feet,13167,5,20s,"Adventure,Animation,Comedy",152969,6.5,0
+767,Harold & Kumar Go to White Castle,164711,4,30s,"Adventure,Comedy",169429,7.1,0
+768,The Jacket,16815,4,30s,"Drama,Fantasy,Mystery",102014,7.1,0
+769,Arrested Development,13329,4,30s,Comedy,247410,8.9,1
+770,Charlie and the Chocolate Factory,12599,3,40s,"Adventure,Comedy,Family",376381,6.7,0
+771,Indiana Jones and the Kingdom of the Crystal Skull,12611,1,+60s,"Action,Adventure,Fantasy",380469,6.2,0
+772,Before Sunset,12623,4,30s,"Drama,Romance",200732,8.1,1
+773,White Chicks,17577,4,30s,"Comedy,Crime",114618,5.5,0
+774,3:10 to Yuma,12591,3,40s,"Action,Crime,Drama",264213,7.7,1
+775,The Da Vinci Code,12621,3,40s,"Mystery,Thriller",362778,6.6,0
+776,Street Kings,12669,3,40s,"Action,Crime,Drama",101360,6.8,0
+777,Red Eye,1231315,5,20s,"Mystery,Thriller",103411,6.5,0
+778,The Curious Case of Benjamin Button,12556,3,40s,"Drama,Fantasy,Romance",524985,7.8,1
+779,Hard Candy,885211,4,30s,"Crime,Drama,Thriller",144371,7.1,0
+780,Clerks II,615617,4,30s,Comedy,122878,7.4,1
+781,Get Smart,148692,3,40s,"Action,Adventure,Comedy",186092,6.5,0
+782,Hot Fuzz,653264,4,30s,"Action,Comedy",412784,7.9,1
+783,Lucky Number Slevin,11930,5,20s,"Crime,Drama,Mystery",284785,7.8,1
+784,Hairspray,12700,2,50s,"Comedy,Drama,Music",110187,6.7,0
+785,Thank You for Smoking,11777,4,30s,"Comedy,Drama",203818,7.6,1
+786,Lost in Translation,12658,2,50s,Drama,365255,7.8,1
+787,The Passion of the Christ,11633,4,30s,Drama,197120,7.2,0
+788,Starsky & Hutch,12378,4,30s,"Comedy,Crime",129542,6.1,0
+789,13 Going on 30,16987,4,30s,"Comedy,Fantasy,Romance",143208,6.1,0
+790,Something's Gotta Give,12660,1,+60s,"Comedy,Drama,Romance",101031,6.7,0
+791,Live Free or Die Hard,12709,2,50s,"Action,Adventure,Thriller",364925,7.1,0
+792,Eternal Sunshine of the Spotless Mind,12583,3,40s,"Drama,Romance,Sci-Fi",797249,8.3,1
+793,The Polar Express,12621,3,40s,"Adventure,Animation,Comedy",147221,6.6,0
+794,Van Helsing,410842,4,30s,"Action,Adventure,Fantasy",223909,6.1,0
+795,Mou gaan dou,467556,3,40s,"Crime,Drama,Mystery",109504,8.1,1
+796,The Aviator,12601,5,20s,"Biography,Drama,History",300217,7.5,1
+797,A Series of Unfortunate Events,12583,3,40s,"Adventure,Comedy,Family",180889,6.8,0
+798,Hostage,12709,3,40s,"Action,Crime,Drama",100819,6.6,0
+799,Monster,12697,5,20s,"Biography,Crime,Drama",121459,7.3,1
+800,Along Came Polly,12378,4,30s,"Comedy,Romance",116445,5.9,0
+801,50 First Dates,11795,4,30s,"Comedy,Drama,Romance",297169,6.8,0
+802,"I, Robot",12689,4,30s,"Action,Crime,Drama",450419,7.1,0
+803,Alexander,268626,5,20s,"Action,Adventure,Biography",151910,5.6,0
+804,Hauru no ugoku shiro,64609,1,+60s,"Adventure,Animation,Family",271104,8.2,1
+805,Superman Returns,719498,5,20s,"Action,Adventure",257138,6.1,0
+806,King Arthur,618012,4,30s,"Action,Adventure,Drama",149617,6.3,0
+807,Ocean's Twelve,12586,3,40s,"Crime,Thriller",323801,6.5,0
+808,Ray,16974,4,30s,"Biography,Drama,Music",124579,7.7,1
+809,Madagascar,12278,4,30s,"Adventure,Animation,Comedy",317326,6.9,0
+810,Cinderella Man,12591,3,40s,"Biography,Drama,Sport",163662,8.0,1
+811,American Dad!,497248,4,30s,"Animation,Comedy",102258,7.4,1
+812,Gossip Girl,496921,6,teenager,"Drama,Romance",134820,7.4,1
+813,Memoirs of a Geisha,920522,5,20s,"Drama,Romance",129530,7.4,1
+814,Bolt,12700,2,50s,"Adventure,Animation,Comedy",169037,6.9,0
+815,The Longest Yard,11795,4,30s,"Comedy,Crime,Sport",147074,6.4,0
+816,Tangled,576621,5,20s,"Adventure,Animation,Comedy",351574,7.8,1
+817,Bridge to Terabithia,1414769,6,teenager,"Adventure,Drama,Family",127901,7.2,0
+818,A History of Violence,12161,3,40s,"Drama,Thriller",206780,7.5,1
+819,The Island,420558,5,20s,"Action,Adventure,Mystery",284387,6.9,0
+820,Lord of War,12578,3,40s,"Crime,Drama,Thriller",272696,7.6,1
+821,John Carter,2121727,4,30s,"Action,Adventure,Sci-Fi",234371,6.6,0
+822,Sin City,13083,2,50s,"Crime,Thriller",707072,8.0,1
+823,Underworld: Evolution,12758,4,30s,"Action,Adventure,Fantasy",176700,6.7,0
+824,Ã†on Flux,12697,5,20s,"Action,Adventure,Drama",117885,5.5,0
+825,The Exorcism of Emily Rose,12077,3,40s,"Drama,Horror,Thriller",108791,6.7,0
+826,Das Leben der Anderen,594860,2,50s,"Drama,Thriller",311613,8.4,1
+827,Million Dollar Baby,17512,5,20s,"Drama,Sport",570723,8.1,1
+828,The 40 Year Old Virgin,148692,3,40s,"Comedy,Romance",352768,7.1,0
+829,War of the Worlds,12592,3,40s,"Adventure,Sci-Fi,Thriller",377862,6.5,0
+830,Battlestar Galactica,12183,2,50s,"Action,Adventure,Drama",137707,8.7,1
+831,The Departed,12601,4,30s,"Crime,Drama,Thriller",1038987,8.5,1
+832,Sweeney Todd: The Demon Barber of Fleet Street,12599,3,40s,"Drama,Horror,Musical",315763,7.4,1
+833,Munich,42142,4,30s,"Drama,History,Thriller",194995,7.6,1
+834,Flightplan,12612,3,40s,"Mystery,Thriller",140475,6.3,0
+835,Watchmen,329972,3,40s,"Action,Drama,Mystery",441757,7.6,1
+836,Cowboys & Aliens,187404,3,40s,"Action,Sci-Fi,Thriller",192152,6.0,0
+837,The Lake House,12669,3,40s,"Drama,Fantasy,Romance",126867,6.8,0
+838,Desperate Housewives,12622,4,30s,"Comedy,Drama,Mystery",104716,7.5,1
+839,Lost,285727,4,30s,"Adventure,Drama,Fantasy",443131,8.4,1
+840,Hellboy II: The Golden Army,13042,2,50s,"Action,Adventure,Fantasy",233383,7.0,0
+841,House M.D.,464829,3,40s,"Drama,Mystery",363636,8.8,1
+842,Evan Almighty,148692,3,40s,"Comedy,Family,Fantasy",127909,5.4,0
+843,Shrek the Third,12659,3,40s,"Adventure,Animation,Comedy",245626,6.1,0
+844,Spider-Man 3,12101,4,30s,"Action,Adventure,Sci-Fi",445938,6.2,0
+845,The A-Team,13016,2,50s,"Action,Adventure,Comedy",231359,6.8,0
+846,Four Brothers,12705,4,30s,"Action,Crime,Drama",122573,6.9,0
+847,Miami Vice,268626,5,20s,"Action,Crime,Thriller",101297,6.0,0
+848,Role Models,706991,4,30s,Comedy,208640,6.9,0
+849,The Kingdom,16974,4,30s,"Action,Drama,Thriller",111052,7.0,0
+850,P.S. I Love You,17512,4,30s,"Drama,Romance",188478,7.1,0
+851,Resident Evil: Extinction,12633,4,30s,"Action,Horror,Sci-Fi",169663,6.3,0
+852,Fantastic Mr. Fox,12586,3,40s,"Adventure,Animation,Comedy",170833,7.8,1
+853,Saw II,17567,4,30s,"Horror,Mystery",213306,6.6,0
+854,Real Steel,410842,3,40s,"Action,Drama,Family",279317,7.1,0
+855,Daybreakers,12623,4,30s,"Action,Fantasy,Horror",114879,6.5,0
+856,V for Vendetta,867475,3,40s,"Action,Drama,Sci-Fi",927628,8.2,1
+857,The Descent,506250,5,20s,"Adventure,Horror,Thriller",180137,7.2,0
+858,The Giver,4043017,5,20s,"Drama,Romance,Sci-Fi",102589,6.5,0
+859,Next,12578,3,40s,"Action,Sci-Fi,Thriller",137393,6.2,0
+860,Toy Story 3,12621,2,50s,"Adventure,Animation,Comedy",656915,8.3,1
+861,Doctor Who,2189152,5,20s,"Adventure,Drama,Family",178380,8.7,1
+862,Ice Age: The Meltdown,17416,3,40s,"Adventure,Animation,Comedy",226665,6.8,0
+863,Terminator Salvation,12751,4,30s,"Action,Adventure,Sci-Fi",314166,6.6,0
+864,The Bourne Ultimatum,12817,4,30s,"Action,Mystery,Thriller",571707,8.0,1
+865,Kung Fu Panda,99526,4,30s,"Action,Adventure,Animation",365797,7.6,1
+866,Beowulf,897841,3,40s,"Action,Adventure,Animation",152932,6.2,0
+867,Lincoln,12821,2,50s,"Biography,Drama,History",223831,7.4,1
+868,Vantage Point,13061,2,50s,"Action,Crime,Drama",136968,6.6,0
+869,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,65124,4,30s,Comedy,326475,7.3,1
+870,The Illusionist,12174,4,30s,"Drama,Mystery,Romance",331747,7.6,1
+871,"10,000 BC",16778,5,20s,"Action,Adventure,Drama",118252,5.1,0
+872,The Assassination of Jesse James by the Coward Robert Ford,12556,3,40s,"Biography,Crime,Drama",153776,7.5,1
+873,Zodiac,351402,5,20s,"Crime,Drama,Mystery",375251,7.7,1
+874,Ratatouille,16988,3,40s,"Adventure,Animation,Comedy",555640,8.0,1
+875,Pirates of the Caribbean: Dead Man's Chest,12599,3,40s,"Action,Adventure,Fantasy",598279,7.3,1
+876,Silent Hill,569998,4,30s,Horror,198801,6.6,0
+877,Rome,555338,4,30s,"Action,Drama,History",136214,8.8,1
+878,Accepted,509899,5,20s,Comedy,115002,6.5,0
+879,Hooligans,13167,5,20s,"Crime,Drama,Sport",131465,7.5,1
+880,Shi mian mai fu,920522,5,20s,"Action,Adventure,Drama",100556,7.6,1
+881,The Golden Compass,12636,4,30s,"Adventure,Family,Fantasy",164353,6.1,0
+882,Hitch,12689,4,30s,"Comedy,Romance",271928,6.6,0
+883,The Office,148692,3,40s,Comedy,272031,8.8,1
+884,The Constant Gardener,12609,3,40s,"Drama,Mystery,Romance",123034,7.4,1
+885,Entourage,176375,5,20s,"Comedy,Drama",149347,8.5,1
+886,Saw,12607,3,40s,"Horror,Mystery,Thriller",344028,7.6,1
+887,Idiocracy,17597,4,30s,"Adventure,Comedy,Sci-Fi",128175,6.6,0
+888,Transporter 2,17494,4,30s,"Action,Crime,Thriller",175706,6.3,0
+889,Brokeback Mountain,351402,5,20s,"Drama,Romance",292293,7.7,1
+890,30 Days of Night,11930,5,20s,"Horror,Thriller",153238,6.6,0
+891,Bee Movie,13095,2,50s,"Adventure,Animation,Comedy",123532,6.1,0
+892,Click,11795,4,30s,"Comedy,Drama,Fantasy",276942,6.4,0
+893,The Grudge,11868,5,20s,"Horror,Mystery,Thriller",128762,5.9,0
+894,Coach Carter,12631,2,50s,"Biography,Drama,Sport",107934,7.3,1
+895,Hotel Rwanda,12795,4,30s,"Biography,Drama,History",306394,8.1,1
+896,Perfume: The Story of a Murderer,891238,5,20s,"Crime,Drama,Fantasy",214051,7.5,1
+897,Wedding Crashers,17598,4,30s,"Comedy,Romance",307970,7.0,0
+898,House of Wax,596293,5,20s,"Horror,Mystery,Thriller",105606,5.3,0
+899,Ant-Man,706991,3,40s,"Action,Adventure,Comedy",459499,7.3,1
+900,Rocky Balboa,12693,2,50s,"Drama,Sport",184073,7.2,0
+901,Crank,17494,4,30s,"Action,Crime,Thriller",217448,7.0,0
+902,Madagascar: Escape 2 Africa,12378,3,40s,"Adventure,Animation,Comedy",175230,6.7,0
+903,This Is England,2200822,6,teenager,"Crime,Drama",108166,7.7,1
+904,I Am Legend,12689,4,30s,"Drama,Horror,Sci-Fi",616442,7.2,0
+905,Hall Pass,17598,3,40s,"Comedy,Romance",112054,5.9,0
+906,The Number 23,12583,3,40s,"Crime,Drama,Horror",181538,6.4,0
+907,The Croods,12578,3,40s,"Action,Adventure,Animation",172666,7.2,0
+908,Harold & Kumar Escape from Guantanamo Bay,164711,4,30s,"Adventure,Comedy",123080,6.6,0
+909,Grindhouse,13084,2,50s,"Action,Horror,Thriller",167328,7.6,1
+910,Rambo,12693,1,+60s,"Action,Thriller,War",197525,7.0,0
+911,The Simpsons Movie,140095,3,40s,"Adventure,Animation,Comedy",285606,7.3,1
+912,Step Up,1621441,5,20s,"Crime,Drama,Music",102214,6.5,0
+913,28 Weeks Later,688641,4,30s,"Drama,Horror,Sci-Fi",237014,7.0,0
+914,The Fast and the Furious: Tokyo Drift,99616,5,20s,"Action,Crime,Thriller",212084,6.0,0
+915,El orfanato,707442,3,40s,"Drama,Horror,Mystery",134882,7.5,1
+916,National Treasure: Book of Secrets,12578,3,40s,"Action,Adventure,Family",201573,6.5,0
+917,Hitman,621851,4,30s,"Action,Crime,Drama",151866,6.3,0
+918,Michael Clayton,12586,3,40s,"Crime,Drama,Mystery",146661,7.3,1
+919,Shoot 'Em Up,618012,3,40s,"Action,Comedy,Crime",138318,6.7,0
+920,Max Payne,12705,4,30s,"Action,Crime,Drama",116048,5.4,0
+921,Juno,654240,6,teenager,"Comedy,Drama",457289,7.5,1
+922,The Dark Knight,12751,4,30s,"Action,Crime,Drama",1989485,9.0,1
+923,There Will Be Blood,12821,3,40s,Drama,448940,8.1,1
+924,Ex Machina,2592937,5,20s,"Drama,Mystery,Sci-Fi",403779,7.7,1
+925,Tower Heist,13015,3,40s,"Action,Comedy,Crime",122672,6.2,0
+926,9,13167,5,20s,"Action,Adventure,Animation",123362,7.1,0
+927,Apocalypto,817103,4,30s,"Action,Adventure,Drama",265351,7.8,1
+928,The Mechanic,17494,3,40s,"Action,Crime,Thriller",138175,6.6,0
+929,It's Always Sunny in Philadelphia,205815,5,20s,Comedy,164959,8.8,1
+930,Prince of Persia: The Sands of Time,351402,5,20s,"Action,Adventure,Fantasy",248800,6.6,0
+931,State of Play,12591,3,40s,"Crime,Drama,Mystery",124101,7.1,0
+932,"Hail, Caesar!",11586,3,40s,"Comedy,Mystery",107021,6.3,0
+933,Smokin' Aces,17351,3,40s,"Action,Crime,Drama",129895,6.7,0
+934,Westworld,905689,5,20s,"Drama,Mystery,Sci-Fi",315517,8.8,1
+935,Unstoppable,12706,2,50s,"Action,Thriller",169005,6.8,0
+936,Night at the Museum,12378,3,40s,"Adventure,Comedy,Family",276791,6.4,0
+937,No Country for Old Men,12632,1,+60s,"Crime,Drama,Thriller",740229,8.1,1
+938,21,802503,5,20s,"Crime,Drama,History",209676,6.8,0
+939,The Tree of Life,12556,3,40s,"Drama,Fantasy",153396,6.8,0
+940,Knocked Up,691617,5,20s,"Comedy,Romance",325647,7.0,0
+941,The Prestige,12751,4,30s,"Drama,Mystery,Sci-Fi",1027374,8.5,1
+942,The Strangers,17490,4,30s,"Horror,Mystery,Thriller",107842,6.2,0
+943,Blades of Glory,13604,4,30s,"Comedy,Sport",144018,6.3,0
+944,Scott Pilgrim vs. the World,155592,5,20s,"Action,Comedy,Fantasy",327239,7.5,1
+945,Knowing,12578,3,40s,"Action,Drama,Mystery",205209,6.2,0
+946,Sunshine,595622,4,30s,"Adventure,Sci-Fi,Thriller",215320,7.3,1
+947,Hancock,12689,4,30s,"Action,Drama,Fantasy",399284,6.4,0
+948,Puss in Boots,12567,2,50s,"Action,Adventure,Animation",129789,6.6,0
+949,Eragon,2080072,6,teenager,"Action,Adventure,Family",115779,5.1,0
+950,Little Miss Sunshine,148692,3,40s,"Comedy,Drama",400159,7.8,1
+951,Pirates of the Caribbean: At World's End,12599,3,40s,"Action,Adventure,Fantasy",542785,7.1,0
+952,Babel,12556,3,40s,Drama,268421,7.5,1
+953,16 Blocks,12709,2,50s,"Action,Crime,Drama",120198,6.6,0
+954,Blood Diamond,12601,4,30s,"Adventure,Drama,Thriller",452452,8.0,1
+955,Hostel,369741,5,20s,"Horror,Mystery,Thriller",155553,5.9,0
+956,1408,12594,3,40s,"Drama,Horror",237161,6.8,0
+957,Horton Hears a Who!,12583,3,40s,"Adventure,Animation,Comedy",118732,6.8,0
+958,Wonder Woman,2919496,4,30s,"Action,Adventure,Fantasy",449278,7.5,1
+959,Criminal Minds,1319072,5,20s,"Crime,Drama,Mystery",132410,8.1,1
+960,The Break-Up,12561,4,30s,"Comedy,Drama,Romance",113868,5.8,0
+961,Death Race,17494,3,40s,"Action,Sci-Fi,Thriller",184097,6.4,0
+962,Gone Baby Gone,12614,1,+60s,"Crime,Drama,Mystery",227198,7.7,1
+963,The Time Traveler's Wife,42142,3,40s,"Drama,Fantasy,Romance",129450,7.1,0
+964,Mr. Bean's Holiday,12563,2,50s,"Comedy,Family",102966,6.4,0
+965,Deja Vu,12706,2,50s,"Action,Crime,Sci-Fi",270076,7.1,0
+966,The Hills Have Eyes,486977,3,40s,"Horror,Thriller",146062,6.4,0
+967,Inside Man,12706,2,50s,"Crime,Drama,Mystery",306768,7.6,1
+968,Life of Pi,4029040,6,teenager,"Adventure,Drama,Fantasy",516810,7.9,1
+969,The Pursuit of Happyness,12689,4,30s,"Biography,Drama",393968,8.0,1
+970,She's the Man,16826,6,teenager,"Comedy,Romance,Sport",133355,6.4,0
+971,Prison Break,669260,4,30s,"Action,Crime,Drama",417441,8.4,1
+972,The Crazies,569998,4,30s,"Horror,Thriller",102656,6.5,0
+973,The Last King of Scotland,527448,5,20s,"Biography,Drama,History",162209,7.7,1
+974,Australia,12636,3,40s,"Adventure,Comedy,Drama",111980,6.6,0
+975,The Equalizer,12706,2,50s,"Action,Crime,Thriller",287297,7.2,0
+976,El laberinto del fauno,1584793,6,teenager,"Drama,Fantasy,War",555027,8.2,1
+977,The Holiday,13164,4,30s,"Comedy,Romance",210914,6.9,0
+978,Captain America: The First Avenger,267611,5,20s,"Action,Adventure,Sci-Fi",624236,6.9,0
+979,The Devil Wears Prada,18720,5,20s,"Comedy,Drama",328692,6.9,0
+980,Sin City: A Dame to Kill For,13083,1,+60s,"Crime,Thriller",136122,6.5,0
+981,X-Men Origins: Wolverine,410842,3,40s,"Action,Adventure,Sci-Fi",423084,6.6,0
+982,Bones,223907,5,20s,"Comedy,Crime,Drama",127366,7.9,1
+983,How I Met Your Mother,1295419,4,30s,"Comedy,Romance",522224,8.3,1
+984,Supernatural,634163,5,20s,"Drama,Fantasy,Horror",340555,8.5,1
+985,Enchanted,11456,4,30s,"Animation,Comedy,Family",161547,7.1,0
+986,Mr. Nobody,12071,4,30s,"Drama,Fantasy,Romance",190602,7.9,1
+987,4: Rise of the Silver Surfer,333893,4,30s,"Action,Adventure,Fantasy",233975,5.6,0
+988,Stardust,1394671,5,20s,"Adventure,Family,Fantasy",234825,7.7,1
+989,Disturbia,456895,5,20s,"Crime,Drama,Mystery",203877,6.9,0
+990,Wild Hogs,13204,2,50s,"Adventure,Comedy",107727,5.9,0
+991,The IT Crowd,1644315,5,20s,Comedy,113197,8.5,1
+992,Fracture,12627,1,+60s,"Crime,Drama,Mystery",164380,7.2,0
+993,Jumper,160925,5,20s,"Action,Adventure,Sci-Fi",266973,6.1,0
+994,Saw III,68655,1,+60s,"Horror,Mystery,Thriller",162728,6.2,0
+995,Wanted,12005,4,30s,"Action,Crime,Fantasy",333397,6.7,0
+996,30 Rock,265906,4,30s,Comedy,101496,8.2,1
+997,Ocean's Thirteen,12586,3,40s,"Crime,Thriller",290729,6.9,0
+998,Vicky Cristina Barcelona,341046,5,20s,"Drama,Romance",223084,7.1,0
+999,Letters from Iwo Jima,876782,3,40s,"Drama,History,War",144155,7.9,1
+1000,The Chronicles of Narnia: Prince Caspian,1753222,5,20s,"Action,Adventure,Family",173028,6.5,0
+1001,Avatar,898888,4,30s,"Action,Adventure,Fantasy",1011079,7.8,1
+1002,RocknRolla,118025,4,30s,"Action,Crime,Thriller",215683,7.3,1
+1003,The Descendants,12586,3,40s,"Comedy,Drama",220634,7.3,1
+1004,What Happens in Vegas,12602,4,30s,"Comedy,Romance",154819,6.1,0
+1005,Gamer,118025,4,30s,"Action,Sci-Fi,Thriller",122956,5.8,0
+1006,Defiance,187404,4,30s,"Action,Drama,History",128149,7.2,0
+1007,The Book of Eli,12706,2,50s,"Action,Adventure,Drama",262911,6.9,0
+1008,The Bounty Hunter,12561,3,40s,"Action,Comedy,Romance",109615,5.6,0
+1009,[Rec],861282,4,30s,"Horror,Mystery,Thriller",149652,7.5,1
+1010,The Proposal,12576,3,40s,"Comedy,Drama,Romance",263733,6.7,0
+1011,Tropic Thunder,12378,3,40s,"Action,Adventure,Comedy",344519,7.0,0
+1012,Salt,12005,4,30s,"Action,Mystery,Thriller",272279,6.4,0
+1013,Game of Thrones,3486169,5,20s,"Action,Adventure,Drama",1379058,9.5,1
+1014,Source Code,351402,4,30s,"Mystery,Romance,Sci-Fi",440508,7.5,1
+1015,Black Swan,12667,5,20s,"Drama,Thriller",629904,8.0,1
+1016,Green Zone,12817,4,30s,"Action,Drama,Thriller",120475,6.8,0
+1017,The Amazing Spider-Man,2058216,5,20s,"Action,Adventure,Sci-Fi",511463,7.0,0
+1018,The Happening,12705,4,30s,"Mystery,Sci-Fi,Thriller",181364,5.0,0
+1019,The Mummy: Tomb of the Dragon Emperor,12872,4,30s,"Action,Adventure,Fantasy",136519,5.2,0
+1020,Planet Earth,12707,2,50s,Documentary,139050,9.4,1
+1021,Mamma Mia!,13121,2,50s,"Comedy,Musical,Romance",183705,6.4,0
+1022,Star Trek,1665481,5,20s,"Action,Adventure,Sci-Fi",549573,8.0,1
+1023,Forgetting Sarah Marshall,68452,5,20s,"Comedy,Drama,Romance",242713,7.2,0
+1024,The Incredible Hulk,12174,4,30s,"Action,Adventure,Sci-Fi",382084,6.8,0
+1025,Clash of the Titans,898888,4,30s,"Action,Adventure,Fantasy",251234,5.8,0
+1026,Thor,1350305,5,20s,"Action,Adventure,Fantasy",645167,7.0,0
+1027,Warcraft,1554048,4,30s,"Action,Adventure,Fantasy",218824,6.9,0
+1028,It's Kind of a Funny Story,1648525,6,teenager,"Comedy,Drama,Romance",123155,7.1,0
+1029,Mad Men,350598,4,30s,Drama,173181,8.6,1
+1030,Dexter,340945,4,30s,"Crime,Drama,Mystery",581642,8.7,1
+1031,Drive,324317,4,30s,"Crime,Drama",506578,7.8,1
+1032,The Princess and the Frog,715313,4,30s,"Adventure,Animation,Comedy",105340,7.1,0
+1033,In Bruges,268626,4,30s,"Comedy,Crime,Drama",352923,7.9,1
+1034,Mr. Brooks,12589,2,50s,"Crime,Drama,Thriller",134467,7.3,1
+1035,Atonement,456074,5,20s,"Drama,Mystery,Romance",222103,7.8,1
+1036,Dallas Buyers Club,12653,3,40s,"Biography,Drama",390101,8.0,1
+1037,Jack Reacher,12592,3,40s,"Action,Crime,Thriller",276580,7.0,0
+1038,R.I.P.D.,17387,4,30s,"Action,Adventure,Comedy",106220,5.6,0
+1039,Lars and the Real Girl,324317,5,20s,"Comedy,Drama,Romance",128646,7.3,1
+1040,Angels & Demons,12621,2,50s,"Mystery,Thriller",245978,6.7,0
+1041,The Danish Girl,1663698,4,30s,"Biography,Drama,History",138600,7.1,0
+1042,The Man from Earth,782116,3,40s,"Drama,Fantasy,Sci-Fi",156327,7.9,1
+1043,AVPR: Aliens vs Predator - Requiem,55695,4,30s,"Action,Horror,Sci-Fi",106375,4.7,0
+1044,Love & Other Drugs,351402,5,20s,"Comedy,Drama,Romance",163363,6.7,0
+1045,Into the Wild,359671,5,20s,"Adventure,Biography,Drama",510683,8.1,1
+1046,Body of Lies,12601,4,30s,"Action,Drama,Thriller",195180,7.1,0
+1047,I Now Pronounce You Chuck & Larry,11795,3,40s,"Comedy,Romance",131171,6.0,0
+1048,Brothers,351402,5,20s,"Drama,War",100577,7.1,0
+1049,American Gangster,12706,2,50s,"Biography,Crime,Drama",358510,7.8,1
+1050,Eastern Promises,873249,4,30s,"Crime,Drama,Mystery",210142,7.7,1
+1051,Man of Steel,158251,5,20s,"Action,Adventure,Fantasy",627987,7.1,0
+1052,Heroes,165315,3,40s,"Drama,Fantasy,Sci-Fi",215752,7.6,1
+1053,Percy Jackson & the Olympians: The Lightning Thief,495357,6,teenager,"Adventure,Family,Fantasy",161182,5.9,0
+1054,Seven Pounds,12689,4,30s,"Drama,Romance",262183,7.6,1
+1055,Antichrist,12816,2,50s,"Drama,Horror",102992,6.6,0
+1056,Hotel Transylvania,11795,3,40s,"Animation,Comedy,Family",198020,7.1,0
+1057,The Darjeeling Limited,17598,4,30s,"Adventure,Comedy,Drama",160827,7.2,0
+1058,Step Brothers,13604,3,40s,Comedy,239938,6.9,0
+1059,The Town,12718,4,30s,"Crime,Drama,Thriller",315199,7.6,1
+1060,The Kids Are All Right,13368,2,50s,"Comedy,Drama,Romance",119209,7.0,0
+1061,True Blood,12197,5,20s,"Drama,Fantasy,Mystery",216386,7.9,1
+1062,Cloudy with a Chance of Meatballs,272461,4,30s,"Action,Adventure,Animation",179571,7.0,0
+1063,The Avengers,12838,3,40s,"Action,Adventure,Sci-Fi",1134656,8.1,1
+1064,Gake no ue no Ponyo,11553,4,30s,"Adventure,Animation,Comedy",103345,7.7,1
+1065,Death Note: Desu nÃ´to,1628475,5,20s,"Animation,Crime,Drama",169854,9.0,1
+1066,The Blind Side,2504289,5,20s,"Biography,Drama,Sport",258812,7.7,1
+1067,Robin Hood,12591,3,40s,"Action,Adventure,Drama",234826,6.7,0
+1068,She's Out of My League,70506,5,20s,"Comedy,Romance",114240,6.4,0
+1069,The Book Thief,4383854,6,teenager,"Drama,War",116214,7.6,1
+1070,Interstellar,12653,3,40s,"Adventure,Drama,Sci-Fi",1232095,8.6,1
+1071,World War Z,12556,3,40s,"Action,Adventure,Horror",537784,7.0,0
+1072,Valentine's Day,12673,3,40s,"Comedy,Romance",104643,5.7,0
+1073,Marley & Me,17598,4,30s,"Comedy,Drama,Family",132629,7.1,0
+1074,Priest,94480,4,30s,"Action,Fantasy,Horror",106267,5.7,0
+1075,Shooter,12705,4,30s,"Action,Crime,Drama",285639,7.2,0
+1076,Changeling,12005,4,30s,"Biography,Crime,Drama",219220,7.8,1
+1077,The Bucket List,12660,1,+60s,"Adventure,Comedy,Drama",209038,7.4,1
+1078,Dracula Untold,1941837,4,30s,"Action,Drama,Fantasy",160835,6.3,0
+1079,Superbad,155592,6,teenager,Comedy,471870,7.6,1
+1080,Quantum of Solace,187404,4,30s,"Action,Adventure,Thriller",369424,6.6,0
+1081,Godzilla,1296363,5,20s,"Action,Adventure,Sci-Fi",338475,6.4,0
+1082,"Definitely, Maybe",17387,4,30s,"Comedy,Drama,Romance",142831,7.2,0
+1083,Underworld: Rise of the Lycans,571203,4,30s,"Action,Adventure,Fantasy",138987,6.6,0
+1084,Revolutionary Road,12601,4,30s,"Drama,Romance",173193,7.3,1
+1085,You Don't Mess with the Zohan,11795,3,40s,Comedy,173595,5.5,0
+1086,Once,350103,4,30s,"Drama,Music,Romance",103315,7.9,1
+1087,Pineapple Express,691617,5,20s,"Action,Comedy,Crime",286096,7.0,0
+1088,WALLÂ·E,120490,2,50s,"Adventure,Animation,Family",873394,8.4,1
+1089,The Boy in the Striped Pyjamas,2676423,6,teenager,"Drama,War",162790,7.8,1
+1090,Doubt,13121,2,50s,"Drama,Mystery",111258,7.5,1
+1091,The Legend of Tarzan,20138,4,30s,"Action,Adventure,Drama",144268,6.3,0
+1092,Harry Potter and the Deathly Hallows: Part 1,669648,5,20s,"Adventure,Family,Fantasy",405984,7.7,1
+1093,Chuck,1329717,5,20s,"Action,Comedy,Drama",118275,8.2,1
+1094,Taken,13016,2,50s,"Action,Crime,Thriller",529223,7.8,1
+1095,The Last Airbender,3194682,6,teenager,"Action,Adventure,Family",134306,4.1,0
+1096,The Sorcerer's Apprentice,12578,3,40s,"Action,Adventure,Family",140609,6.1,0
+1097,Silver Linings Playbook,188089,4,30s,"Comedy,Drama,Romance",606064,7.7,1
+1098,G.I. Joe: The Rise of Cobra,13061,2,50s,"Action,Adventure,Sci-Fi",188772,5.8,0
+1099,Up,13262,1,+60s,"Adventure,Animation,Comedy",813070,8.3,1
+1100,The Imaginarium of Doctor Parnassus,12230,1,+60s,"Adventure,Comedy,Fantasy",136620,6.8,0
+1101,Life as We Know It,11941,4,30s,"Comedy,Drama,Romance",109924,6.6,0
+1102,Transformers: Revenge of the Fallen,456895,5,20s,"Action,Adventure,Sci-Fi",357226,6.0,0
+1103,Invictus,12614,1,+60s,"Biography,Drama,History",138210,7.3,1
+1104,The Invention of Lying,313041,3,40s,"Comedy,Fantasy,Romance",104477,6.4,0
+1105,Eagle Eye,456895,5,20s,"Action,Mystery,Thriller",164316,6.6,0
+1106,Cloverfield,1235441,5,20s,"Action,Horror,Sci-Fi",343694,7.0,0
+1107,Boyhood,1468137,6,teenager,Drama,309294,7.9,1
+1108,The Mist,17085,4,30s,"Horror,Sci-Fi,Thriller",254352,7.2,0
+1109,Burn After Reading,12556,3,40s,"Comedy,Crime,Drama",280020,7.0,0
+1110,The Hurt Locker,688641,4,30s,"Drama,Thriller,War",382321,7.6,1
+1111,BrÃ¼no,65124,4,30s,Comedy,131914,5.8,0
+1112,Saw IV,68655,1,+60s,"Horror,Mystery,Thriller",128052,5.9,0
+1113,How to Train Your Dragon,70506,5,20s,"Action,Adventure,Animation",585619,8.1,1
+1114,Monsters vs. Aliens,13165,4,30s,"Action,Adventure,Animation",131893,6.5,0
+1115,Shrek Forever After,12659,3,40s,"Adventure,Animation,Comedy",161225,6.3,0
+1116,The Big Bang Theory,285824,4,30s,"Comedy,Romance",620014,8.2,1
+1117,The Road,12161,2,50s,"Adventure,Drama",202272,7.3,1
+1118,The Hobbit: An Unexpected Journey,296927,3,40s,"Adventure,Family,Fantasy",706063,7.9,1
+1119,Breaking Bad,185812,2,50s,"Crime,Drama,Thriller",1135820,9.5,1
+1120,Californication,12604,3,40s,"Comedy,Drama",160736,8.3,1
+1121,The Thing,897735,5,20s,"Horror,Mystery,Sci-Fi",108928,6.2,0
+1122,Sex and the City,13035,3,40s,"Comedy,Drama,Romance",108135,5.6,0
+1123,He's Just Not That Into You,322654,4,30s,"Comedy,Drama,Romance",146676,6.4,0
+1124,Megamind,13604,3,40s,"Action,Animation,Comedy",201297,7.3,1
+1125,Zack and Miri Make a Porno,691617,5,20s,"Comedy,Romance",162608,6.6,0
+1126,Slumdog Millionaire,2413216,6,teenager,"Drama,Romance",728298,8.0,1
+1127,Knight and Day,12592,3,40s,"Action,Adventure,Comedy",166480,6.3,0
+1128,Fast & Furious,16911,3,40s,"Action,Crime,Thriller",235785,6.6,0
+1129,Milk,13039,3,40s,"Biography,Drama",152743,7.6,1
+1130,Alice in Wonderland,2092308,5,20s,"Adventure,Family,Fantasy",349269,6.5,0
+1131,A Serious Man,805086,3,40s,"Comedy,Drama",118093,7.0,0
+1132,(500) Days of Summer,223910,5,20s,"Comedy,Drama,Romance",430527,7.7,1
+1133,Argo,12718,4,30s,"Biography,Drama,Thriller",522028,7.7,1
+1134,Death Proof,13084,2,50s,"Action,Thriller",237469,7.0,0
+1135,Hachi: A Dog's Tale,12615,2,50s,"Drama,Family",213773,8.1,1
+1136,Water for Elephants,1660523,5,20s,"Drama,Romance",104114,6.9,0
+1137,Yes Man,12583,3,40s,"Comedy,Romance",303699,6.8,0
+1138,Ghost Rider: Spirit of Vengeance,12578,3,40s,"Action,Fantasy,Thriller",100799,4.3,0
+1139,Skyfall,187404,3,40s,"Action,Adventure,Thriller",580330,7.8,1
+1140,Planet Terror,12998,4,30s,"Action,Comedy,Horror",184820,7.1,0
+1141,Dark Shadows,12599,3,40s,"Comedy,Fantasy,Horror",224150,6.2,0
+1142,Night at the Museum: Battle of the Smithsonian,12378,3,40s,"Adventure,Comedy,Family",154625,6.0,0
+1143,Ice Age: Dawn of the Dinosaurs,17416,2,50s,"Action,Adventure,Animation",195783,7.0,0
+1144,Blended,11795,3,40s,"Comedy,Romance",103153,6.5,0
+1145,Lone Survivor,12705,3,40s,"Action,Biography,Drama",240060,7.5,1
+1146,Adventureland,257728,5,20s,"Comedy,Drama,Romance",144720,6.8,0
+1147,Paul,653264,3,40s,"Adventure,Comedy,Sci-Fi",215557,7.0,0
+1148,Twilight,797792,6,teenager,"Drama,Fantasy,Romance",383723,5.2,0
+1149,Foxcatcher,148692,2,50s,"Biography,Drama,Sport",123415,7.0,0
+1150,The Fighter,12705,4,30s,"Biography,Drama,Sport",309164,7.8,1
+1151,Hugo,2676423,6,teenager,"Adventure,Drama,Family",278295,7.5,1
+1152,The Day the Earth Stood Still,12669,3,40s,"Drama,Sci-Fi,Thriller",152840,5.5,0
+1153,Justice League,12718,3,40s,"Action,Adventure,Fantasy",295899,6.5,0
+1154,17 Again,1549370,5,20s,"Comedy,Drama,Fantasy",163092,6.4,0
+1155,The Reader,13164,4,30s,"Drama,Romance",213388,7.6,1
+1156,Mary and Max,11661,4,30s,"Animation,Comedy,Drama",146534,8.1,1
+1157,Sucker Punch,113022,5,20s,"Action,Fantasy",214953,6.1,0
+1158,Boardwalk Empire,12577,2,50s,"Crime,Drama,History",155610,8.6,1
+1159,The Chronicles of Narnia: The Voyage of the Dawn Treader,1753222,5,20s,"Adventure,Family,Fantasy",124499,6.3,0
+1160,The Adventures of Tintin,68375,5,20s,"Action,Adventure,Animation",198109,7.3,1
+1161,Machete,12407,1,+60s,"Action,Crime,Thriller",179354,6.6,0
+1162,Valkyrie,12592,3,40s,"Drama,History,Thriller",208841,7.1,0
+1163,Surrogates,12709,2,50s,"Action,Sci-Fi,Thriller",161393,6.3,0
+1164,Taare Zameen Par,2623875,6,teenager,"Drama,Family",132425,8.4,1
+1165,Sherlock Holmes,12838,3,40s,"Action,Adventure,Crime",536670,7.6,1
+1166,27 Dresses,11941,5,20s,"Comedy,Romance",140975,6.1,0
+1167,Dear John,1621441,5,20s,"Drama,Romance,War",124345,6.3,0
+1168,The Green Hornet,691617,5,20s,"Action,Comedy,Crime",146580,5.8,0
+1169,Hanna,1663711,6,teenager,"Action,Drama,Thriller",174157,6.8,0
+1170,The Wolf of Wall Street,12601,4,30s,"Biography,Comedy,Crime",989893,8.2,1
+1171,Fast Five,16911,3,40s,"Action,Crime,Thriller",322056,7.3,1
+1172,This Means War,13165,4,30s,"Action,Comedy,Romance",164546,6.3,0
+1173,The Big Short,12751,3,40s,"Biography,Comedy,Drama",292116,7.8,1
+1174,The Woman in Black,669648,5,20s,"Drama,Fantasy,Horror",162086,6.4,0
+1175,Contagion,12817,3,40s,"Drama,Thriller",197875,6.6,0
+1176,Safe House,12706,2,50s,"Action,Adventure,Crime",187643,6.8,0
+1177,The Drop,358028,4,30s,"Crime,Drama",128909,7.1,0
+1178,The Grey,13016,2,50s,"Action,Adventure,Drama",224610,6.8,0
+1179,American Reunion,16792,4,30s,Comedy,188560,6.7,0
+1180,Midnight in Paris,17598,3,40s,"Comedy,Fantasy,Romance",347489,7.7,1
+1181,Downton Abbey,109523,3,40s,"Drama,Romance",136933,8.7,1
+1182,A Good Day to Die Hard,12709,2,50s,"Action,Thriller",184191,5.3,0
+1183,The Vow,1231315,4,30s,"Drama,Romance",169156,6.8,0
+1184,Abraham Lincoln: Vampire Hunter,867067,5,20s,"Action,Fantasy,Horror",140571,5.9,0
+1185,The Greatest Showman,410842,3,40s,"Biography,Drama,Musical",168735,7.7,1
+1186,Red Riding Hood,1279830,5,20s,"Fantasy,Horror,Mystery",100559,5.5,0
+1187,Archer,78631,3,40s,"Action,Animation,Comedy",119112,8.7,1
+1188,The Change-Up,13329,3,40s,"Comedy,Fantasy",151386,6.3,0
+1189,Central Intelligence,416932,3,40s,"Action,Comedy,Crime",128725,6.3,0
+1190,The Lego Movie,666394,4,30s,"Action,Adventure,Animation",291863,7.8,1
+1191,Underworld Awakening,12758,4,30s,"Action,Fantasy,Horror",135572,6.4,0
+1192,Horrible Bosses,13329,3,40s,"Comedy,Crime",391163,6.9,0
+1193,Cloud Atlas,12621,2,50s,"Action,Drama,Mystery",320259,7.5,1
+1194,Inception,12601,4,30s,"Action,Adventure,Sci-Fi",1769424,8.8,1
+1195,Grown Ups,11795,3,40s,Comedy,205101,6.0,0
+1196,Looper,327791,4,30s,"Action,Crime,Drama",488153,7.4,1
+1197,Madagascar 3: Europe's Most Wanted,12378,3,40s,"Adventure,Animation,Comedy",140339,6.9,0
+1198,Date Night,148692,3,40s,"Comedy,Crime,Romance",141628,6.3,0
+1199,Easy A,1459628,5,20s,"Comedy,Drama,Romance",320728,7.1,0
+1200,Bad Teacher,12602,4,30s,"Comedy,Romance",177420,5.6,0
+1201,The Social Network,257728,5,20s,"Biography,Drama",554839,7.7,1
+1202,An Education,1782241,5,20s,Drama,121464,7.3,1
+1203,From Paris with Love,12700,2,50s,"Action,Crime,Thriller",105590,6.5,0
+1204,Paranormal Activity,2298010,5,20s,Horror,204488,6.3,0
+1205,10 Cloverfield Lane,12885,1,+60s,"Drama,Horror,Mystery",249761,7.2,0
+1206,District 9,1793444,4,30s,"Sci-Fi,Thriller",591745,7.9,1
+1207,The Ghost Writer,12654,4,30s,"Drama,Mystery,Thriller",146025,7.2,0
+1208,LÃ¥t den rÃ¤tte komma in,2958266,6,teenager,"Drama,Horror,Romance",191720,7.9,1
+1209,The Ugly Truth,11941,4,30s,"Comedy,Romance",185291,6.5,0
+1210,Orphan,268261,4,30s,"Horror,Mystery,Thriller",170672,7.0,0
+1211,Public Enemies,12751,4,30s,"Biography,Crime,Drama",256143,7.0,0
+1212,"I Love You, Man",706991,4,30s,"Comedy,Romance",182493,7.0,0
+1213,The Karate Kid,12792,2,50s,"Action,Drama,Family",141952,6.2,0
+1214,Zombieland,257728,5,20s,"Adventure,Comedy,Horror",444421,7.7,1
+1215,The Hobbit: The Desolation of Smaug,17248,1,+60s,"Adventure,Fantasy",552511,7.8,1
+1216,Bronson,358028,4,30s,"Action,Biography,Crime",106476,7.1,0
+1217,Moon,17413,3,40s,"Drama,Mystery,Sci-Fi",304062,7.9,1
+1218,3 Idiots,445837,3,40s,"Comedy,Drama",286180,8.4,1
+1219,Pandorum,13061,2,50s,"Action,Horror,Mystery",134717,6.8,0
+1220,Tron,12776,1,+60s,"Action,Adventure,Fantasy",290400,6.8,0
+1221,The Taking of Pelham 123,12706,2,50s,"Action,Crime,Thriller",168900,6.4,0
+1222,Fringe,1558000,5,20s,"Drama,Mystery,Sci-Fi",202310,8.4,1
+1223,The Hangover,285961,4,30s,Comedy,653023,7.7,1
+1224,Blue Valentine,324317,5,20s,"Drama,Romance",165608,7.4,1
+1225,Crank: High Voltage,17494,3,40s,"Action,Crime,Thriller",128275,6.2,0
+1226,The Ides of March,309746,3,40s,"Drama,Thriller",204899,7.1,0
+1227,Sons of Anarchy,384849,5,20s,"Crime,Drama,Thriller",223718,8.6,1
+1228,The Wrestler,13083,2,50s,"Drama,Sport",273678,7.9,1
+1229,Drag Me to Hell,493908,5,20s,"Horror,Thriller",174110,6.6,0
+1230,Transporter 3,17494,3,40s,"Action,Crime,Thriller",143674,6.1,0
+1231,Shutter Island,12601,4,30s,"Mystery,Thriller",966885,8.1,1
+1232,Jennifer's Body,1286394,5,20s,"Comedy,Horror",104081,5.2,0
+1233,MÃ¤n som hatar kvinnor,623520,3,40s,"Crime,Drama,Mystery",193787,7.8,1
+1234,Saw V,644503,3,40s,"Horror,Mystery,Thriller",103918,5.8,0
+1235,Green Lantern,17387,4,30s,"Action,Adventure,Sci-Fi",247231,5.5,0
+1236,La piel que habito,12567,2,50s,"Drama,Horror,Thriller",119944,7.6,1
+1237,The Lincoln Lawyer,12653,3,40s,"Crime,Drama,Thriller",192479,7.3,1
+1238,2012,12594,3,40s,"Action,Adventure,Sci-Fi",319849,5.8,0
+1239,Rango,12599,3,40s,"Adventure,Animation,Comedy",210035,7.2,0
+1240,Up in the Air,12586,3,40s,"Drama,Romance",295854,7.4,1
+1241,The Bourne Legacy,688641,3,40s,"Action,Adventure,Thriller",262743,6.7,0
+1242,The Mentalist,60374,4,30s,"Crime,Drama,Mystery",148330,8.1,1
+1243,Law Abiding Citizen,118025,4,30s,"Crime,Drama,Thriller",245385,7.4,1
+1244,Funny People,11795,3,40s,"Comedy,Drama",107694,6.3,0
+1245,Harry Potter and the Deathly Hallows: Part 2,669648,5,20s,"Adventure,Drama,Fantasy",667130,8.1,1
+1246,Last Vegas,12597,1,+60s,"Comedy,Drama",119274,6.6,0
+1247,Gran Torino,12605,1,+60s,Drama,652755,8.1,1
+1248,Jack Ryan: Shadow Recruit,1665481,4,30s,"Action,Drama,Thriller",111873,6.2,0
+1249,The Tourist,12599,3,40s,"Action,Adventure,Crime",201570,6.0,0
+1250,This Is the End,270910,4,30s,"Comedy,Fantasy",352292,6.6,0
+1251,RED,12709,2,50s,"Action,Comedy,Crime",266228,7.1,0
+1252,Kick-Ass,1296363,6,teenager,"Action,Comedy",486882,7.6,1
+1253,300: Rise of an Empire,785932,4,30s,"Action,Fantasy,War",256073,6.2,0
+1254,Immortals,158251,5,20s,"Action,Drama,Fantasy",150526,6.0,0
+1255,The Cabin in the Woods,1561707,4,30s,"Comedy,Horror",328055,7.0,0
+1256,The Twilight Saga: New Moon,797792,6,teenager,"Adventure,Drama,Fantasy",242925,4.7,0
+1257,Scream 4,12580,4,30s,"Horror,Mystery",116384,6.2,0
+1258,Parks and Recreation,659025,4,30s,Comedy,165293,8.6,1
+1259,Hercules,416932,3,40s,"Action,Adventure,Fantasy",134521,6.0,0
+1260,Venom,358028,3,40s,"Action,Sci-Fi",144464,7.0,0
+1261,X: First Class,527448,4,30s,"Action,Adventure,Sci-Fi",591820,7.7,1
+1262,2 Guns,12706,2,50s,"Action,Comedy,Crime",177764,6.7,0
+1263,Evil Dead,3738011,5,20s,"Fantasy,Horror,Thriller",143482,6.5,0
+1264,Ghostbusters,538637,3,40s,"Action,Comedy,Fantasy",178864,5.3,0
+1265,Teenage Mutant Ninja Turtles,1286394,5,20s,"Action,Adventure,Comedy",189295,5.8,0
+1266,Warrior,358028,4,30s,"Drama,Sport",393517,8.2,1
+1267,The Watch,12378,3,40s,"Action,Comedy,Horror",114032,5.7,0
+1268,Pirates of the Caribbean: On Stranger Tides,12599,3,40s,"Action,Adventure,Fantasy",435063,6.6,0
+1269,Iron Man 3,12838,3,40s,"Action,Adventure,Sci-Fi",657292,7.2,0
+1270,Moneyball,12556,3,40s,"Biography,Drama,Sport",318490,7.6,1
+1271,The Lone Ranger,12599,3,40s,"Action,Adventure,Western",204447,6.4,0
+1272,Doctor Strange,1393517,4,30s,"Action,Adventure,Fantasy",461692,7.5,1
+1273,Escape Plan,12693,1,+60s,"Action,Crime,Mystery",206235,6.7,0
+1274,Lawless,358028,4,30s,"Crime,Drama",209749,7.3,1
+1275,The World's End,653264,3,40s,"Action,Comedy,Sci-Fi",225242,7.0,0
+1276,Cars 2,17598,3,40s,"Adventure,Animation,Comedy",130638,6.2,0
+1277,Brave,506139,4,30s,"Adventure,Animation,Comedy",325116,7.1,0
+1278,Battle Los Angeles,11777,3,40s,"Action,Sci-Fi",165068,5.8,0
+1279,Castle,266616,4,30s,"Comedy,Crime,Drama",130440,8.2,1
+1280,Limitless,188089,4,30s,"Mystery,Sci-Fi,Thriller",479030,7.4,1
+1281,Ghost in the Shell,420558,4,30s,"Action,Drama,Sci-Fi",164916,6.4,0
+1282,Resident Evil: Afterlife,12633,4,30s,"Action,Adventure,Horror",150038,5.9,0
+1283,Yip Man,889426,3,40s,"Action,Biography,Drama",192616,8.0,1
+1284,Get Him to the Greek,1832376,5,20s,"Adventure,Comedy,Music",159178,6.4,0
+1285,Iron Man 2,12838,3,40s,"Action,Sci-Fi",621985,7.0,0
+1286,Let Me In,2310390,6,teenager,"Drama,Fantasy,Horror",104795,7.1,0
+1287,Mission: Impossible - Ghost Protocol,12592,3,40s,"Action,Adventure,Thriller",416408,7.4,1
+1288,Anchorman 2: The Legend Continues,13604,3,40s,Comedy,151538,6.3,0
+1289,Due Date,12838,3,40s,"Adventure,Comedy,Drama",298242,6.6,0
+1290,Hot Tub Time Machine,12594,3,40s,"Comedy,Sci-Fi",151368,6.4,0
+1291,21 Jump Street,1832376,5,20s,"Action,Comedy,Crime",465979,7.2,0
+1292,The Men Who Stare at Goats,12654,4,30s,"Comedy,War",119567,6.2,0
+1293,RoboCop,1356604,4,30s,"Action,Crime,Sci-Fi",201889,6.2,0
+1294,Lie to Me,13082,3,40s,"Crime,Drama,Mystery",100936,8.0,1
+1295,We Need to Talk About Kevin,800198,2,50s,"Drama,Mystery,Thriller",119212,7.5,1
+1296,Kung Fu Panda 2,99526,3,40s,"Action,Adventure,Animation",219060,7.2,0
+1297,The Adjustment Bureau,12817,3,40s,"Romance,Sci-Fi,Thriller",222876,7.1,0
+1298,The Other Guys,13604,3,40s,"Action,Comedy,Crime",215610,6.7,0
+1299,Suicide Squad,12689,3,40s,"Action,Adventure,Fantasy",503971,6.1,0
+1300,Total Recall,268626,4,30s,"Action,Adventure,Mystery",224202,6.3,0
+1301,We Bought a Zoo,12817,3,40s,"Comedy,Drama,Family",124243,7.1,0
+1302,In the Heart of the Sea,1350305,4,30s,"Action,Adventure,Biography",104873,6.9,0
+1303,The Hunger Games,2163950,5,20s,"Adventure,Sci-Fi,Thriller",779541,7.2,0
+1304,Mad Max: Fury Road,358028,4,30s,"Action,Adventure,Sci-Fi",746995,8.1,1
+1305,Prisoners,410842,3,40s,"Crime,Drama,Mystery",504798,8.1,1
+1306,47 Ronin,12669,3,40s,"Action,Adventure,Drama",132314,6.3,0
+1307,Terminator Genisys,12679,1,+60s,"Action,Adventure,Sci-Fi",227293,6.4,0
+1308,Tinker Tailor Soldier Spy,12661,2,50s,"Drama,Mystery,Thriller",171136,7.1,0
+1309,The Great Gatsby,12601,4,30s,"Drama,Romance",420268,7.3,1
+1310,Dredd,851823,4,30s,"Action,Crime,Sci-Fi",229937,7.1,0
+1311,The Dark Knight Rises,12751,4,30s,"Action,Thriller",1343725,8.4,1
+1312,Jack the Giant Slayer,375205,5,20s,"Adventure,Fantasy",120068,6.3,0
+1313,If I Stay,1761935,6,teenager,"Drama,Fantasy,Music",103938,6.8,0
+1314,Passengers,2163950,5,20s,"Drama,Romance,Sci-Fi",291228,7.0,0
+1315,Black Mass,12599,2,50s,"Biography,Crime,Drama",151863,6.9,0
+1316,White Collar,88291,4,30s,"Comedy,Crime,Drama",107490,8.3,1
+1317,Tomb Raider,2592937,5,20s,"Action,Adventure,Fantasy",139619,6.4,0
+1318,It,774223,5,20s,"Horror,Thriller",321747,7.4,1
+1319,Taken 2,13016,2,50s,"Action,Crime,Thriller",267110,6.3,0
+1320,Straight Outta Compton,6114219,5,20s,"Biography,Drama,History",160541,7.9,1
+1321,Transformers: Dark of the Moon,456895,5,20s,"Action,Adventure,Sci-Fi",358834,6.3,0
+1322,Winter's Bone,2163950,6,teenager,"Drama,Mystery",124731,7.2,0
+1323,Unknown,13016,2,50s,"Action,Mystery,Thriller",230816,6.9,0
+1324,True Grit,12776,1,+60s,"Adventure,Drama,Western",275357,7.6,1
+1325,Remember Me,1660523,5,20s,"Drama,Romance",126885,7.1,0
+1326,Fantastic Four,2008256,5,20s,"Action,Adventure,Sci-Fi",136291,4.3,0
+1327,The King's Speech,12610,3,40s,"Biography,Drama,History",577406,8.0,1
+1328,El secreto de sus ojos,203562,2,50s,"Drama,Mystery,Romance",166799,8.2,1
+1329,50/50,327791,5,20s,"Comedy,Drama,Romance",295904,7.7,1
+1330,Seeking a Friend for the End of the World,148692,3,40s,"Adventure,Comedy,Drama",100305,6.7,0
+1331,Devil,569387,4,30s,"Horror,Mystery,Thriller",119515,6.2,0
+1332,Rise of the Planet of the Apes,270910,4,30s,"Action,Drama,Sci-Fi",463428,7.6,1
+1333,The Expendables,12693,1,+60s,"Action,Adventure,Thriller",301495,6.5,0
+1334,Gangster Squad,13039,2,50s,"Action,Crime,Drama",192065,6.7,0
+1335,Despicable Me,148692,3,40s,"Animation,Comedy,Family",449512,7.7,1
+1336,The Twilight Saga: Breaking Dawn - Part 1,797792,5,20s,"Adventure,Drama,Fantasy",202983,4.9,0
+1337,The Twilight Saga: Eclipse,797792,6,teenager,"Adventure,Drama,Fantasy",206004,5.0,0
+1338,The Butler,12449,2,50s,"Biography,Drama",100331,7.2,0
+1339,Glee,562297,5,20s,"Comedy,Drama,Music",123795,6.7,0
+1340,Never Let Me Go,456074,5,20s,"Drama,Romance,Sci-Fi",127551,7.2,0
+1341,Sherlock Holmes: A Game of Shadows,12838,3,40s,"Action,Adventure,Crime",384521,7.5,1
+1342,The Host,1663711,6,teenager,"Action,Adventure,Drama",103551,5.9,0
+1343,A Star Is Born,2989487,4,30s,"Drama,Music,Romance",107460,8.2,1
+1344,Rise of the Guardians,410842,3,40s,"Adventure,Animation,Family",141199,7.3,1
+1345,Prometheus,611973,4,30s,"Adventure,Mystery,Sci-Fi",527912,7.0,0
+1346,Killer Elite,17494,3,40s,"Action,Crime,Thriller",115630,6.5,0
+1347,Monsters University,12808,1,+60s,"Adventure,Animation,Comedy",281269,7.3,1
+1348,The Help,1459628,5,20s,Drama,381182,8.1,1
+1349,Gravity,12576,3,40s,"Drama,Sci-Fi,Thriller",684102,7.7,1
+1350,The Conjuring,885211,4,30s,"Horror,Mystery,Thriller",378720,7.5,1
+1351,The Next Three Days,12591,3,40s,"Action,Crime,Drama",163543,7.4,1
+1352,Buried,17387,4,30s,"Drama,Mystery,Thriller",135933,7.0,0
+1353,I Am Number Four,1773931,5,20s,"Action,Adventure,Sci-Fi",213903,6.1,0
+1354,Tucker and Dale vs Evil,456946,4,30s,"Comedy,Horror",150062,7.6,1
+1355,Baywatch,416932,3,40s,"Action,Comedy,Crime",122997,5.6,0
+1356,Sherlock,1393517,4,30s,"Crime,Drama,Mystery",670809,9.2,1
+1357,Bridesmaids,1504893,4,30s,"Comedy,Romance",244376,6.8,0
+1358,Oblivion,12592,2,50s,"Action,Adventure,Mystery",441735,7.0,0
+1359,The Walking Dead,482215,4,30s,"Drama,Horror,Sci-Fi",761354,8.4,1
+1360,Savages,1296363,5,20s,"Crime,Drama,Thriller",113420,6.5,0
+1361,Margin Call,675142,4,30s,"Drama,Thriller",104821,7.1,0
+1362,J. Edgar,12601,4,30s,"Biography,Crime,Drama",113944,6.6,0
+1363,Jupiter Ascending,1621441,4,30s,"Action,Adventure,Sci-Fi",162521,5.3,0
+1364,Oz the Great and Powerful,270910,4,30s,"Adventure,Family,Fantasy",189571,6.3,0
+1365,Independence Day: Resurgence,2956668,5,20s,"Action,Adventure,Sci-Fi",150150,5.2,0
+1366,Edge of Tomorrow,12592,2,50s,"Action,Sci-Fi",527683,7.9,1
+1367,Suits,497677,4,30s,"Comedy,Drama",313937,8.6,1
+1368,Friends with Benefits,17146,5,20s,"Comedy,Romance",309297,6.6,0
+1369,The Vampire Diaries,2465235,6,teenager,"Drama,Fantasy,Horror",255784,7.7,1
+1370,Star Trek: Into Darkness,1665481,4,30s,"Action,Adventure,Sci-Fi",439236,7.7,1
+1371,Men in Black 3,12689,3,40s,"Action,Adventure,Comedy",299312,6.8,0
+1372,No Strings Attached,12667,5,20s,"Comedy,Romance",192625,6.2,0
+1373,Riddick,16911,3,40s,"Action,Sci-Fi,Thriller",141639,6.4,0
+1374,The Hangover Part II,188089,4,30s,"Comedy,Mystery",422178,6.5,0
+1375,Predators,16815,4,30s,"Action,Adventure,Sci-Fi",194663,6.4,0
+1376,Hansel & Gretel: Witch Hunters,688641,3,40s,"Action,Fantasy,Horror",179060,6.1,0
+1377,The Wolverine,410842,3,40s,"Action,Adventure,Sci-Fi",388221,6.7,0
+1378,Deadpool,17387,4,30s,"Action,Adventure,Comedy",778185,8.0,1
+1379,Rio,257728,5,20s,"Adventure,Animation,Comedy",186889,6.9,0
+1380,Community,548190,4,30s,Comedy,169318,8.5,1
+1381,Battleship,20138,4,30s,"Action,Adventure,Sci-Fi",222213,5.8,0
+1382,Under the Skin,420558,5,20s,"Drama,Horror,Sci-Fi",108871,6.3,0
+1383,Modern Family,602573,1,+60s,"Comedy,Romance",300134,8.4,1
+1384,Spartacus: Blood and Sand,1933319,4,30s,"Action,Adventure,Biography",199528,8.5,1
+1385,The Master,12913,3,40s,Drama,126507,7.1,0
+1386,One Day,18720,5,20s,"Drama,Romance",124476,7.0,0
+1387,Just Go with It,11795,3,40s,"Comedy,Romance",195689,6.4,0
+1388,Teen Wolf,673545,6,teenager,"Action,Comedy,Drama",112365,7.7,1
+1389,Man on a Ledge,898888,4,30s,"Action,Adventure,Crime",135663,6.6,0
+1390,The Girl with the Dragon Tattoo,187404,3,40s,"Crime,Drama,Mystery",378322,7.8,1
+1391,War Horse,3468759,5,20s,"Drama,History,War",133008,7.2,0
+1392,"Crazy, Stupid, Love.",148692,3,40s,"Comedy,Drama,Romance",427308,7.4,1
+1393,Pretty Little Liars,84029,5,20s,"Drama,Mystery,Romance",138722,7.5,1
+1394,G.I. Joe: Retaliation,416932,3,40s,"Action,Adventure,Sci-Fi",163088,5.8,0
+1395,Shameless,14067,5,20s,"Comedy,Drama",159861,8.7,1
+1396,Maleficent,12005,4,30s,"Action,Adventure,Family",295272,7.0,0
+1397,Warm Bodies,375205,5,20s,"Comedy,Horror,Romance",205201,6.9,0
+1398,Insidious,885211,4,30s,"Horror,Mystery,Thriller",245249,6.8,0
+1399,Johnny English Reborn,12563,2,50s,"Action,Adventure,Comedy",104426,6.3,0
+1400,Project X,3244519,5,20s,Comedy,174221,6.7,0
+1401,In Time,17529,5,20s,"Action,Sci-Fi,Thriller",339304,6.7,0
+1402,Ted,12705,3,40s,"Comedy,Fantasy,Romance",526657,6.9,0
+1403,The Man from U.N.C.L.E.,158251,4,30s,"Action,Adventure,Comedy",232692,7.3,1
+1404,The Dictator,65124,3,40s,Comedy,244294,6.4,0
+1405,How to Train Your Dragon 2,70506,4,30s,"Action,Adventure,Animation",261454,7.8,1
+1406,Wrath of the Titans,898888,4,30s,"Action,Adventure,Fantasy",168826,5.7,0
+1407,Lo imposible,873249,3,40s,"Drama,History,Thriller",171965,7.6,1
+1408,Super 8,1293824,6,teenager,"Mystery,Sci-Fi,Thriller",315299,7.0,0
+1409,Kick-Ass 2,1296363,5,20s,"Action,Comedy,Crime",232067,6.6,0
+1410,The Age of Adaline,496921,5,20s,"Drama,Fantasy,Romance",132655,7.2,0
+1411,The Artist,247957,4,30s,"Comedy,Drama,Romance",213224,7.9,1
+1412,The Perks of Being a Wallflower,495357,6,teenager,"Drama,Romance",412302,8.0,1
+1413,Cinderella,4018422,5,20s,"Drama,Family,Fantasy",135869,6.9,0
+1414,The Revenant,12601,3,40s,"Action,Adventure,Biography",585773,8.0,1
+1415,Pacific Rim,254181,3,40s,"Action,Adventure,Sci-Fi",434802,6.9,0
+1416,Ice Age: Continental Drift,17416,2,50s,"Adventure,Animation,Comedy",169059,6.6,0
+1417,Now You See Me,257728,5,20s,"Crime,Mystery,Thriller",537135,7.3,1
+1418,Contraband,12705,3,40s,"Action,Crime,Drama",109935,6.5,0
+1419,Melancholia,12842,5,20s,"Drama,Sci-Fi",148788,7.1,0
+1420,Exodus: Gods and Kings,12751,4,30s,"Action,Adventure,Drama",147765,6.0,0
+1421,Elysium,12817,3,40s,"Action,Drama,Sci-Fi",385958,6.6,0
+1422,Captain Phillips,12621,2,50s,"Biography,Drama,Thriller",377197,7.8,1
+1423,The Mortal Instruments: City of Bones,2907461,5,20s,"Action,Fantasy,Horror",119431,5.9,0
+1424,127 Hours,270910,4,30s,"Adventure,Biography,Drama",315801,7.6,1
+1425,Premium Rush,327791,4,30s,"Action,Crime,Thriller",103954,6.5,0
+1426,The Last Stand,12679,1,+60s,"Action,Thriller",124657,6.4,0
+1427,Agents of S.H.I.E.L.D.,170311,2,50s,"Action,Adventure,Drama",177174,7.5,1
+1428,Need for Speed,644822,4,30s,"Action,Crime,Thriller",152128,6.5,0
+1429,Orange Is the New Black,2343106,5,20s,"Comedy,Crime,Drama",247059,8.1,1
+1430,Spectre,187404,3,40s,"Action,Adventure,Thriller",342144,6.8,0
+1431,Brooklyn,1663711,5,20s,"Drama,Romance",112129,7.5,1
+1432,Mission: Impossible - Rogue Nation,12592,2,50s,"Action,Adventure,Thriller",298407,7.4,1
+1433,Focus,12689,3,40s,"Comedy,Crime,Drama",185966,6.6,0
+1434,The Other Woman,12602,3,40s,"Comedy,Romance",119736,6.0,0
+1435,Before Midnight,12623,3,40s,"Drama,Romance",118620,7.9,1
+1436,Transcendence,12599,2,50s,"Drama,Mystery,Romance",200044,6.3,0
+1437,Side Effects,2029120,5,20s,"Crime,Drama,Mystery",165377,7.1,0
+1438,X-Men: Days of Future Past,12376,1,+60s,"Action,Adventure,Sci-Fi",600436,8.0,1
+1439,Spotlight,727417,3,40s,"Crime,Drama,History",344055,8.1,1
+1440,Serbuan maut,3254496,5,20s,"Action,Thriller",171255,7.6,1
+1441,The Spectacular Now,2008256,5,20s,"Comedy,Drama,Romance",129665,7.1,0
+1442,We're the Millers,803281,4,30s,"Comedy,Crime",362126,7.0,0
+1443,Shame,1262061,4,30s,Drama,167688,7.2,0
+1444,The Way Way Back,148692,2,50s,"Comedy,Drama",130343,7.4,1
+1445,Bohemian Rhapsody,1903530,4,30s,"Biography,Drama,Music",133358,8.4,1
+1446,Ender's Game,12611,1,+60s,"Action,Adventure,Fantasy",206887,6.6,0
+1447,Snow White and the Huntsman,797792,5,20s,"Action,Adventure,Drama",254045,6.1,0
+1448,Moonrise Kingdom,4261990,6,teenager,"Adventure,Comedy,Drama",283201,7.8,1
+1449,Spartacus: Gods of the Arena,11918,3,40s,"Action,Adventure,Biography",111295,8.5,1
+1450,This Is 40,706991,3,40s,"Comedy,Romance",116318,6.2,0
+1451,Killing Them Softly,12556,3,40s,"Crime,Thriller",122364,6.2,0
+1452,The Expendables 2,12693,1,+60s,"Action,Adventure,Thriller",272329,6.6,0
+1453,The Twilight Saga: Breaking Dawn - Part 2,797792,5,20s,"Adventure,Drama,Fantasy",209094,5.5,0
+1454,Intouchables,167256,2,50s,"Biography,Comedy,Drama",644545,8.5,1
+1455,Ready Player One,4293798,5,20s,"Action,Adventure,Sci-Fi",244545,7.6,1
+1456,Despicable Me 2,148692,2,50s,"Adventure,Animation,Comedy",333526,7.4,1
+1457,Carnage,12612,3,40s,"Comedy,Drama",109054,7.2,0
+1458,Sausage Party,691617,4,30s,"Adventure,Animation,Comedy",152832,6.2,0
+1459,Chronicle,2827669,5,20s,"Drama,Sci-Fi,Thriller",225530,7.1,0
+1460,Snowpiercer,267611,4,30s,"Action,Drama,Sci-Fi",227429,7.1,0
+1461,Les MisÃ©rables,410842,3,40s,"Drama,History,Musical",278273,7.6,1
+1462,Wreck-It Ralph,13067,3,40s,"Adventure,Animation,Comedy",323305,7.7,1
+1463,Pirates of the Caribbean: Dead Men Tell No Tales,12599,2,50s,"Action,Adventure,Fantasy",212697,6.6,0
+1464,The Maze Runner,3641210,5,20s,"Action,Mystery,Sci-Fi",375671,6.8,0
+1465,Zero Dark Thirty,1705859,4,30s,"Drama,Thriller",244186,7.4,1
+1466,The Campaign,13604,3,40s,Comedy,116736,6.1,0
+1467,13 Reasons Why,2021732,5,20s,"Drama,Mystery",195876,8.1,1
+1468,Revenge,13119,2,50s,"Drama,Mystery,Thriller",105849,7.9,1
+1469,Person of Interest,11633,3,40s,"Action,Crime,Drama",149781,8.4,1
+1470,Divergent,901830,5,20s,"Action,Adventure,Mystery",390245,6.7,0
+1471,Once Upon a Time,322654,4,30s,"Adventure,Fantasy,Romance",195409,7.8,1
+1472,Captain America: The Winter Soldier,267611,4,30s,"Action,Adventure,Sci-Fi",624206,7.8,1
+1473,American Horror Story,2989487,5,20s,"Drama,Horror,Thriller",241238,8.1,1
+1474,Django Unchained,16974,3,40s,"Drama,Western",1165508,8.4,1
+1475,End of Watch,351402,4,30s,"Action,Crime,Drama",206882,7.6,1
+1476,Resident Evil: Retribution,12633,4,30s,"Action,Horror,Sci-Fi",122455,5.4,0
+1477,House of Cards,12691,2,50s,Drama,415610,8.9,1
+1478,Blade Runner 2049,12611,1,+60s,"Drama,Mystery,Sci-Fi",346412,8.0,1
+1479,Deepwater Horizon,12705,3,40s,"Action,Drama,History",126971,7.1,0
+1480,Safety Not Guaranteed,2282804,5,20s,"Comedy,Drama,Romance",110282,7.0,0
+1481,The Amazing Spider-Man 2,2058216,4,30s,"Action,Adventure,Sci-Fi",376128,6.6,0
+1482,The Judge,12838,3,40s,"Crime,Drama",158810,7.4,1
+1483,Parker,17494,3,40s,"Action,Crime,Romance",103030,6.2,0
+1484,Furious 6,16911,3,40s,"Action,Crime,Thriller",339456,7.1,0
+1485,Flight,12706,2,50s,"Drama,Thriller",295604,7.3,1
+1486,The Call,11536,3,40s,"Crime,Horror,Thriller",101417,6.7,0
+1487,Magic Mike,1621441,4,30s,"Comedy,Drama",121303,6.1,0
+1488,Sinister,12623,3,40s,"Horror,Mystery,Thriller",192120,6.8,0
+1489,Trance,527448,4,30s,"Crime,Drama,Mystery",103191,6.9,0
+1490,Let's Be Cops,2253840,4,30s,"Comedy,Crime",119615,6.5,0
+1491,Seven Psychopaths,268626,4,30s,"Comedy,Crime",217575,7.2,0
+1492,Homeland,12595,4,30s,"Crime,Drama,Mystery",271463,8.3,1
+1493,Southpaw,351402,4,30s,"Drama,Sport",193182,7.4,1
+1494,Her,12222,4,30s,"Drama,Romance,Sci-Fi",446495,8.0,1
+1495,American Hustle,12751,4,30s,"Crime,Drama",407900,7.3,1
+1496,Unbroken,2039754,5,20s,"Biography,Drama,Sport",126483,7.2,0
+1497,After Earth,1682805,6,teenager,"Action,Adventure,Sci-Fi",177746,4.8,0
+1498,The Place Beyond the Pines,324317,4,30s,"Crime,Drama,Thriller",220527,7.3,1
+1499,Nebraska,11740,1,+60s,"Adventure,Comedy,Drama",103279,7.7,1
+1500,RED 2,12709,2,50s,"Action,Comedy,Crime",144847,6.6,0
+1501,Chappie,1793444,3,40s,"Action,Crime,Drama",208257,6.8,0
+1502,Black Panther,1718482,3,40s,"Action,Adventure,Sci-Fi",419279,7.4,1
+1503,New Girl,223910,4,30s,Comedy,166276,7.7,1
+1504,Jodaeiye Nader az Simin,1946566,3,40s,"Crime,Drama,Family",188262,8.3,1
+1505,Mud,12653,3,40s,Drama,153432,7.4,1
+1506,Miss Peregrine's Home for Peculiar Children,1383840,4,30s,"Adventure,Drama,Fantasy",134590,6.7,0
+1507,Steve Jobs,1262061,4,30s,"Biography,Drama",134435,7.2,0
+1508,Neighbors,691617,4,30s,Comedy,258503,6.3,0
+1509,War Dogs,1832376,4,30s,"Comedy,Crime,Drama",145704,7.1,0
+1510,Guardians of the Galaxy,666394,4,30s,"Action,Adventure,Comedy",889612,8.1,1
+1511,Mama,1705859,4,30s,"Horror,Thriller",155438,6.2,0
+1512,Identity Thief,13329,3,40s,"Adventure,Comedy,Crime",111482,5.7,0
+1513,Non-Stop,13016,1,+60s,"Action,Mystery,Thriller",228866,7.0,0
+1514,12 Years a Slave,253479,4,30s,"Biography,Drama,History",556712,8.1,1
+1515,The Great Wall,12817,3,40s,"Action,Adventure,Fantasy",104632,6.0,0
+1516,Inside Llewyn Davis,1400540,4,30s,"Drama,Music",119441,7.5,1
+1517,The Imitation Game,1393517,4,30s,"Biography,Drama,Thriller",594287,8.0,1
+1518,Black Mirror,480417,4,30s,"Drama,Sci-Fi,Thriller",266170,8.9,1
+1519,Assassin's Creed,1262061,4,30s,"Action,Adventure,Fantasy",159370,5.8,0
+1520,Insidious: Chapter 2,885211,4,30s,"Horror,Mystery,Thriller",136002,6.6,0
+1521,Don Jon,327791,4,30s,"Comedy,Drama,Romance",212317,6.6,0
+1522,Nymphomaniac: Vol. I,11854,3,40s,Drama,102438,6.9,0
+1523,Carrie,1761935,6,teenager,"Drama,Horror",122547,5.9,0
+1524,The Hangover Part III,188089,4,30s,"Adventure,Comedy,Crime",261929,5.8,0
+1525,The Hunger Games: Catching Fire,2163950,5,20s,"Action,Adventure,Mystery",562098,7.5,1
+1526,The Hunger Games: Mockingjay - Part 1,2163950,5,20s,"Action,Adventure,Sci-Fi",366465,6.7,0
+1527,The Hunger Games: Mockingjay - Part 2,2163950,5,20s,"Action,Adventure,Sci-Fi",239354,6.6,0
+1528,Noah,12591,3,40s,"Action,Adventure,Drama",223523,5.8,0
+1529,The Hitman's Bodyguard,17387,3,40s,"Action,Comedy,Thriller",149878,6.9,0
+1530,Tomorrowland,12586,2,50s,"Action,Adventure,Family",157905,6.4,0
+1531,King Arthur: Legend of the Sword,384849,4,30s,"Action,Adventure,Drama",159149,6.8,0
+1532,Rush,122810,4,30s,"Action,Biography,Drama",381087,8.1,1
+1533,Pain & Gain,12705,3,40s,"Action,Comedy,Crime",182744,6.4,0
+1534,Begin Again,456074,5,20s,"Comedy,Drama,Music",126105,7.4,1
+1535,Thor: The Dark World,1350305,5,20s,"Action,Adventure,Fantasy",508739,7.0,0
+1536,Pitch Perfect,419338,5,20s,"Comedy,Music,Romance",248347,7.2,0
+1537,The Internship,13144,3,40s,Comedy,176441,6.3,0
+1538,Valerian and the City of a Thousand Planets,2827669,4,30s,"Action,Adventure,Fantasy",130372,6.5,0
+1539,Hannibal,207605,4,30s,"Crime,Drama,Horror",195766,8.5,1
+1540,Big Hero 6,3738010,6,teenager,"Action,Adventure,Animation",351735,7.8,1
+1541,Horrible Bosses 2,13329,3,40s,"Comedy,Crime",139633,6.3,0
+1542,The Monuments Men,12586,2,50s,"Comedy,Drama,History",115138,6.1,0
+1543,American Sniper,188089,4,30s,"Action,Biography,Drama",388767,7.3,1
+1544,Into the Woods,419338,5,20s,"Adventure,Comedy,Drama",120290,6.0,0
+1545,The Purge,12623,3,40s,"Horror,Thriller",176826,5.7,0
+1546,Grown Ups 2,11795,3,40s,Comedy,124915,5.4,0
+1547,Arrow,1974979,4,30s,"Action,Adventure,Crime",367309,7.7,1
+1548,About Time,1851538,5,20s,"Comedy,Drama,Fantasy",250141,7.8,1
+1549,Oculus,2456236,5,20s,"Horror,Mystery",103934,6.5,0
+1550,Avengers: Age of Ultron,12838,3,40s,"Action,Adventure,Sci-Fi",614568,7.4,1
+1551,Predestination,12623,3,40s,"Drama,Mystery,Sci-Fi",217368,7.5,1
+1552,The Family,12597,1,+60s,"Comedy,Crime,Thriller",100395,6.3,0
+1553,The Magnificent Seven,12706,1,+60s,"Action,Adventure,Western",161253,6.9,0
+1554,The Heat,12576,3,40s,"Action,Comedy,Crime",150159,6.6,0
+1555,Atomic Blonde,12697,3,40s,"Action,Mystery,Thriller",139251,6.7,0
+1556,Dumb and Dumber To,12583,2,50s,"Adventure,Comedy",114867,5.6,0
+1557,Inside Out,659025,3,40s,"Adventure,Animation,Comedy",508095,8.2,1
+1558,Spring Breakers,1412853,5,20s,"Comedy,Crime,Drama",123189,5.3,0
+1559,Dawn of the Planet of the Apes,12661,2,50s,"Action,Adventure,Drama",380671,7.6,1
+1560,Jagten,573822,3,40s,Drama,230075,8.3,1
+1561,Transformers: Age of Extinction,12705,3,40s,"Action,Adventure,Sci-Fi",276710,5.7,0
+1562,Hacksaw Ridge,2058216,4,30s,"Biography,Drama,History",342761,8.1,1
+1563,Pixels,11795,3,40s,"Action,Comedy,Sci-Fi",115774,5.6,0
+1564,San Andreas,416932,3,40s,"Action,Adventure,Drama",184538,6.1,0
+1565,Saving Mr. Banks,13131,2,50s,"Biography,Comedy,Drama",134958,7.5,1
+1566,The Accountant,12718,3,40s,"Action,Crime,Drama",222007,7.4,1
+1567,The Hobbit: The Battle of the Five Armies,17248,1,+60s,"Adventure,Fantasy",425211,7.4,1
+1568,Alien: Covenant,1262061,4,30s,"Horror,Sci-Fi,Thriller",213658,6.4,0
+1569,Enemy,351402,4,30s,"Mystery,Thriller",136377,6.9,0
+1570,The Babadook,212883,3,40s,"Drama,Horror",162581,6.8,0
+1571,Fifty Shades of Grey,421297,5,20s,"Drama,Romance,Thriller",270863,4.1,0
+1572,The Expendables 3,12693,1,+60s,"Action,Adventure,Thriller",151573,6.1,0
+1573,Blue Jasmine,11553,3,40s,Drama,175342,7.3,1
+1574,White House Down,1621441,4,30s,"Action,Drama,Thriller",187113,6.4,0
+1575,PK,445837,3,40s,"Comedy,Drama,Fantasy",130461,8.2,1
+1576,The Mummy,12592,2,50s,"Action,Adventure,Fantasy",144364,5.5,0
+1577,True Detective,13144,3,40s,"Crime,Drama,Mystery",415709,9.0,1
+1578,Jessica Jones,1439339,4,30s,"Action,Crime,Drama",164607,8.1,1
+1579,The Intern,12597,1,+60s,"Comedy,Drama",184511,7.1,0
+1580,Sense8,46733,4,30s,"Drama,Mystery,Sci-Fi",118579,8.4,1
+1581,Peaky Blinders,595622,4,30s,"Crime,Drama",162018,8.8,1
+1582,Taken 3,13016,1,+60s,"Action,Thriller",159812,6.0,0
+1583,Joy,2163950,5,20s,Drama,113857,6.6,0
+1584,Brooklyn Nine-Nine,119113,2,50s,"Comedy,Crime",121576,8.4,1
+1585,Star Wars: Episode VII - The Force Awakens,5149193,5,20s,"Action,Adventure,Fantasy",761105,8.0,1
+1586,Spider-Man: Homecoming,3949446,5,20s,"Action,Adventure,Sci-Fi",372378,7.5,1
+1587,Serbuan maut 2: Berandal,3254496,4,30s,"Action,Crime,Thriller",101454,8.0,1
+1588,Kung Fu Panda 3,99526,3,40s,"Action,Adventure,Animation",109014,7.1,0
+1589,Gone Girl,12718,3,40s,"Crime,Drama,Mystery",729514,8.1,1
+1590,Finding Dory,11726,2,50s,"Adventure,Animation,Comedy",202704,7.3,1
+1591,The Grand Budapest Hotel,12609,2,50s,"Adventure,Comedy,Drama",609451,8.1,1
+1592,La vie d'AdÃ¨le,2308873,5,20s,"Drama,Romance",119485,7.8,1
+1593,Jumanji: Welcome to the Jungle,416932,3,40s,"Action,Adventure,Comedy",217544,7.0,0
+1594,Minions,12576,2,50s,"Action,Adventure,Animation",185505,6.4,0
+1595,22 Jump Street,1621441,4,30s,"Action,Comedy,Crime",309761,7.0,0
+1596,Frozen,68452,4,30s,"Adventure,Animation,Comedy",498589,7.5,1
+1597,Olympus Has Fallen,118025,3,40s,"Action,Thriller",230042,6.5,0
+1598,Wild,13165,4,30s,"Adventure,Biography,Drama",107270,7.1,0
+1599,Vikings,774224,4,30s,"Action,Adventure,Drama",311207,8.6,1
+1600,Avengers: Infinity War,12838,2,50s,"Action,Adventure,Fantasy",530839,8.5,1
+1601,Mr. Robot,1903530,4,30s,"Crime,Drama,Thriller",265992,8.6,1
+1602,Don't Breathe,13863,1,+60s,"Crime,Horror,Thriller",175286,7.1,0
+1603,The Gift,13329,3,40s,"Drama,Mystery,Thriller",118402,7.1,0
+1604,Jason Bourne,12817,3,40s,"Action,Thriller",183367,6.6,0
+1605,Rogue One,404954,4,30s,"Action,Adventure,Sci-Fi",450975,7.8,1
+1606,Gotham,1528808,4,30s,"Action,Crime,Drama",184066,7.9,1
+1607,Snowden,327791,4,30s,"Biography,Drama,Thriller",112117,7.3,1
+1608,Solo: A Star Wars Story,2458829,5,20s,"Action,Adventure,Fantasy",176322,7.0,0
+1609,La La Land,324317,4,30s,"Comedy,Drama,Music",404949,8.0,1
+1610,The Nice Guys,12591,2,50s,"Action,Comedy,Crime",227404,7.4,1
+1611,War for the Planet of the Apes,735551,2,50s,"Action,Adventure,Drama",189077,7.5,1
+1612,The Hateful Eight,12631,1,+60s,"Crime,Drama,Mystery",410782,7.8,1
+1613,The Lobster,268626,4,30s,"Comedy,Drama,Romance",163390,7.1,0
+1614,Sing,12653,3,40s,"Animation,Comedy,Family",106697,7.1,0
+1615,The Flash,2669178,5,20s,"Action,Adventure,Drama",262046,7.9,1
+1616,Now You See Me 2,257728,4,30s,"Action,Adventure,Comedy",202581,6.5,0
+1617,The Blacklist,13115,2,50s,"Crime,Drama,Mystery",147446,8.1,1
+1618,The Originals,582236,4,30s,"Drama,Fantasy,Horror",101129,8.3,1
+1619,Ted 2,12705,3,40s,Comedy,158615,6.3,0
+1620,Star Trek: Beyond,1665481,4,30s,"Action,Adventure,Sci-Fi",202387,7.1,0
+1621,The 100,1516781,5,20s,"Drama,Mystery,Sci-Fi",164701,7.8,1
+1622,Me Before You,3486169,5,20s,"Drama,Romance",158818,7.4,1
+1623,Locke,358028,4,30s,Drama,116185,7.1,0
+1624,Game Night,13329,3,40s,"Action,Comedy,Crime",130814,7.0,0
+1625,Narcos,50907,4,30s,"Biography,Crime,Drama",271256,8.8,1
+1626,The Secret Life of Pets,135052,3,40s,"Adventure,Animation,Comedy",153435,6.5,0
+1627,Fury,12556,2,50s,"Action,Drama,War",368970,7.6,1
+1628,Everest,167446,3,40s,"Action,Adventure,Biography",175656,7.1,0
+1629,Beauty and the Beast,871750,5,20s,"Family,Fantasy,Musical",222052,7.2,0
+1630,Star Wars: Episode VIII - The Last Jedi,5149193,5,20s,"Action,Adventure,Fantasy",428889,7.2,0
+1631,Arrival,11456,3,40s,"Drama,Mystery,Sci-Fi",481386,7.9,1
+1632,Crimson Peak,2092308,5,20s,"Drama,Fantasy,Horror",115550,6.5,0
+1633,A Million Ways to Die in the West,497248,3,40s,"Comedy,Western",156626,6.1,0
+1634,Shingeki no kyojin,2181063,5,20s,"Action,Adventure,Animation",103415,8.8,1
+1635,Get Hard,13604,3,40s,"Comedy,Crime",107237,6.0,0
+1636,Birdman or (The Unexpected Virtue of Ignorance),12937,1,+60s,"Comedy,Drama",497737,7.7,1
+1637,Me and Earl and the Dying Girl,3244519,5,20s,"Comedy,Drama,Romance",108783,7.8,1
+1638,Hell or High Water,1665481,4,30s,"Action,Crime,Drama",164077,7.6,1
+1639,Whiplash,2008256,5,20s,"Drama,Music",581879,8.5,1
+1640,The Fault in Our Stars,901830,5,20s,"Drama,Romance",304098,7.7,1
+1641,The Interview,270910,4,30s,Comedy,279920,6.6,0
+1642,Annihilation,12667,4,30s,"Adventure,Drama,Horror",185039,6.9,0
+1643,Kingsman: The Secret Service,12610,2,50s,"Action,Adventure,Comedy",525316,7.7,1
+1644,Fargo,13134,2,50s,"Crime,Drama,Thriller",256036,9.0,1
+1645,Furious Seven,16911,3,40s,"Action,Crime,Thriller",327109,7.2,0
+1646,The Purge: Anarchy,338824,3,40s,"Action,Horror,Thriller",122391,6.5,0
+1647,Batman v Superman: Dawn of Justice,12718,3,40s,"Action,Adventure,Fantasy",552946,6.5,0
+1648,The Theory of Everything,1663698,4,30s,"Biography,Drama,Romance",343924,7.7,1
+1649,Relatos salvajes,336709,2,50s,"Comedy,Drama,Thriller",142746,8.1,1
+1650,Better Call Saul,612718,2,50s,"Crime,Drama",234858,8.7,1
+1651,The Jungle Book,5548453,6,teenager,"Adventure,Drama,Family",232441,7.4,1
+1652,Inferno,12621,2,50s,"Action,Adventure,Crime",131643,6.2,0
+1653,The Conjuring 2,268261,3,40s,"Horror,Mystery,Thriller",181952,7.4,1
+1654,Creed,421581,5,20s,"Drama,Sport",206920,7.6,1
+1655,Spy,538637,3,40s,"Action,Comedy,Crime",208530,7.0,0
+1656,Trainwreck,2248519,4,30s,"Comedy,Drama,Romance",118699,6.2,0
+1657,Room,473163,5,20s,"Drama,Thriller",293632,8.2,1
+1658,Fantastic Beasts and Where to Find Them,1663698,4,30s,"Adventure,Family,Fantasy",334675,7.3,1
+1659,Pitch Perfect 2,419338,5,20s,"Comedy,Music",125711,6.4,0
+1660,Rick and Morty,1703793,4,30s,"Adventure,Animation,Comedy",240201,9.3,1
+1661,Nightcrawler,351402,4,30s,"Crime,Drama,Thriller",386171,7.9,1
+1662,Lucy,420558,5,20s,"Action,Sci-Fi,Thriller",389832,6.4,0
+1663,Red Sparrow,2163950,5,20s,"Action,Drama,Thriller",114338,6.6,0
+1664,Chef,265578,3,40s,"Adventure,Comedy,Drama",168530,7.3,1
+1665,I Origins,647975,4,30s,"Drama,Romance,Sci-Fi",100836,7.4,1
+1666,Insurgent,901830,5,20s,"Action,Adventure,Sci-Fi",192846,6.2,0
+1667,John Wick,12669,3,40s,"Action,Crime,Thriller",406513,7.3,1
+1668,Zootopia,322654,4,30s,"Adventure,Animation,Comedy",361555,8.0,1
+1669,The Walk,327791,4,30s,"Adventure,Biography,Drama",106369,7.3,1
+1670,Logan,410842,3,40s,"Action,Drama,Sci-Fi",521631,8.1,1
+1671,Still Alice,12657,2,50s,Drama,113049,7.5,1
+1672,Daredevil,1394671,4,30s,"Action,Crime,Drama",312774,8.7,1
+1673,Annabelle,1912896,4,30s,"Horror,Mystery,Thriller",115408,5.4,0
+1674,Transformers: The Last Knight,12705,3,40s,"Action,Adventure,Sci-Fi",109335,5.2,0
+1675,X-Men: Apocalypse,527448,4,30s,"Action,Adventure,Sci-Fi",335874,7.0,0
+1676,Jack Reacher: Never Go Back,12592,2,50s,"Action,Adventure,Thriller",114594,6.1,0
+1677,Sicario,1464683,4,30s,"Action,Crime,Drama",312646,7.6,1
+1678,Murder on the Orient Express,12573,2,50s,"Crime,Drama,Mystery",164697,6.5,0
+1679,What We Do in the Shadows,1473280,4,30s,"Comedy,Horror",115127,7.6,1
+1680,Captain America: Civil War,267611,4,30s,"Action,Adventure,Sci-Fi",533652,7.8,1
+1681,Thor: Ragnarok,1350305,4,30s,"Action,Adventure,Comedy",406847,7.9,1
+1682,Moana,6983568,6,teenager,"Adventure,Animation,Comedy",208389,7.6,1
+1683,It Follows,2219984,5,20s,"Horror,Mystery",173033,6.9,0
+1684,Sully,12621,2,50s,"Biography,Drama",189030,7.5,1
+1685,London Has Fallen,118025,3,40s,"Action,Thriller",119674,5.9,0
+1686,Allied,12556,2,50s,"Action,Drama,Romance",118175,7.1,0
+1687,The Martian,12817,3,40s,"Adventure,Drama,Sci-Fi",645889,8.0,1
+1688,Bridge of Spies,12621,2,50s,"Drama,History,Thriller",253062,7.6,1
+1689,Kong: Skull Island,1288114,4,30s,"Action,Adventure,Fantasy",220386,6.7,0
+1690,Lion,2413216,5,20s,"Biography,Drama",169423,8.1,1
+1691,The VVitch: A New-England Folktale,5561900,6,teenager,"Horror,Mystery",142013,6.8,0
+1692,American Made,12592,2,50s,"Action,Biography,Comedy",119803,7.2,0
+1693,Captain Fantastic,12161,2,50s,"Comedy,Drama",149314,7.9,1
+1694,Legend,358028,4,30s,"Biography,Crime,Drama",132248,7.0,0
+1695,Incredibles 2,17302,1,+60s,"Action,Adventure,Animation",143004,7.9,1
+1696,The Girl on the Train,1464683,4,30s,"Crime,Drama,Mystery",142535,6.5,0
+1697,Manchester by the Sea,13192,3,40s,Drama,200747,7.8,1
+1698,Maze Runner: The Scorch Trials,3641210,5,20s,"Action,Sci-Fi,Thriller",192647,6.3,0
+1699,The Shallows,496921,5,20s,"Drama,Horror,Thriller",102093,6.3,0
+1700,Lucifer,241353,4,30s,"Crime,Drama,Fantasy",124762,8.2,1
+1701,The Lego Batman Movie,16752,3,40s,"Action,Animation,Comedy",106648,7.3,1
+1702,Battle of the Bastards,211311,3,40s,"Action,Adventure,Drama",157274,9.9,1
+1703,The Winds of Winter,211311,3,40s,"Action,Adventure,Drama",108038,9.9,1
+1704,Baby Driver,4823084,5,20s,"Action,Crime,Drama",335098,7.6,1
+1705,Guardians of the Galaxy Vol. 2,666394,4,30s,"Action,Adventure,Comedy",425053,7.7,1
+1706,Bright,12689,3,40s,"Action,Crime,Fantasy",138700,6.4,0
+1707,Mother!,2163950,5,20s,"Drama,Horror,Mystery",140900,6.6,0
+1708,Nocturnal Animals,11456,3,40s,"Crime,Drama,Romance",191735,7.5,1
+1709,Darkest Hour,12661,2,50s,"Biography,Drama,History",120086,7.4,1
+1710,Stranger Things,5326847,6,teenager,"Drama,Fantasy,Horror",534884,8.9,1
+1711,The Fate of the Furious,16911,3,40s,"Action,Crime,Thriller",170177,6.7,0
+1712,Kingsman: The Golden Circle,5202821,5,20s,"Action,Adventure,Comedy",210779,6.8,0
+1713,John Wick: Chapter 2,12669,2,50s,"Action,Crime,Thriller",250263,7.5,1
+1714,The Promise,1400540,4,30s,"Drama,History",162981,6.1,0
+1715,Split,527448,4,30s,"Horror,Thriller",296675,7.3,1
+1716,Moonlight,932607,3,40s,Drama,209620,7.4,1
+1717,"Three Billboards Outside Ebbing, Missouri",12994,2,50s,"Comedy,Crime,Drama",297408,8.2,1
+1718,Get Out,2330770,5,20s,"Horror,Mystery,Thriller",346679,7.7,1
+1719,Dangal,445837,2,50s,"Action,Biography,Drama",109434,8.5,1
+1720,Ant-Man and the Wasp,706991,3,40s,"Action,Adventure,Comedy",156709,7.2,0
+1721,Ocean's Eight,12576,2,50s,"Action,Comedy,Crime",107168,6.2,0
+1722,Hidden Figures,372706,3,40s,"Biography,Drama,History",159883,7.8,1
+1723,Jurassic World: Fallen Kingdom,666394,4,30s,"Action,Adventure,Sci-Fi",177331,6.2,0
+1724,Mission: Impossible - Fallout,12592,2,50s,"Action,Adventure,Thriller",174117,7.9,1
+1725,Lady Bird,1663711,5,20s,"Comedy,Drama",155528,7.5,1
+1726,"I, Tonya",3027130,5,20s,"Biography,Comedy,Drama",119401,7.5,1
+1727,The Shape of Water,1113096,3,40s,"Adventure,Drama,Fantasy",267030,7.4,1
+1728,Wind River,2172724,5,20s,"Crime,Drama,Mystery",151711,7.7,1
+1729,Life,351402,4,30s,"Horror,Sci-Fi,Thriller",168087,6.6,0
+1730,Deadpool 2,17387,3,40s,"Action,Adventure,Comedy",307579,7.8,1
+1731,Mindhunter,2698716,4,30s,"Crime,Drama,Thriller",103298,8.6,1
+1732,Kimi no na wa.,1310437,5,20s,"Animation,Drama,Fantasy",114515,8.4,1
+1733,La casa de papel,2299578,5,20s,"Action,Crime,Mystery",102624,8.6,1
+1734,The Punisher,1418420,3,40s,"Action,Adventure,Crime",116898,8.6,1
+1735,Call Me by Your Name,2369462,4,30s,"Drama,Romance",133378,7.9,1
+1736,A Quiet Place,1464683,4,30s,"Drama,Horror,Mystery",234265,7.6,1
+1737,Hereditary,11661,3,40s,"Drama,Horror,Mystery",106893,7.3,1

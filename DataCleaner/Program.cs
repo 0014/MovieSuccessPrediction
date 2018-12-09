@@ -13,43 +13,94 @@ namespace DataCleaner
     {
         static void Main(string[] args)
         {
+
+        }
+
+        private static void GenerateGenreLookup()
+        {
+            var context = new ImdbContext();
+            var genreList = context.title_basics_clean.Select(_ => _.genres).ToList();
+            var distinct = new List<string>();
+
+            foreach (var genres in genreList)
+            {
+                var genre = genres.Split(',');
+                distinct.AddRange(genre);
+            }
+
+            distinct = distinct.Distinct().ToList();
+
+            context.GenreLookup
+                .AddRange(distinct.Select(_ => new GenreLookup
+                {
+                    Genre = _
+                }).ToList());
+            context.SaveChanges();
+        }
+
+        private static void DataCleaning()
+        {
             var data = new List<CleanData>();
             var ratingThreshold = 7.2;
             var context = new ImdbContext();
             //var actors = context.title_principals.Select(_ => new { _.tconst, _.nconst, _.category, _.ordering }).ToList();
-            var ratings = context.title_ratings_clean
-                .ToList();
+            var ratings = context.title_ratings_clean.ToList();
+            var genreLookup = context.GenreLookup.ToList();
             var progress = 0;
             foreach (var rating in ratings)
             {
                 progress++;
                 var movie = context.title_basics_clean.First(x => x.tconst.Equals(rating.tconst));
+                //get actor info
                 var actors = context.title_principals_clean.Where(x => x.tconst.Equals(rating.tconst)).ToList();
                 var actorInfo = actors
                     .OrderBy(o => o.ordering)
                     .FirstOrDefault(x => x.category.Equals("actor") || x.category.Equals("actress"));
                 if (actorInfo == null) continue;
                 var actor = context.name_basics_clean.First(x => x.nconst.Equals(actorInfo.nconst));
+                //get writer info
+                var writers = context.title_crew_clean.First(x => x.tconst.Equals(rating.tconst)).writers;
+                var writerInfo = writers.Split(',')[0];
+                if (!writerInfo.StartsWith("nm")) continue;
+                var writer = context.name_basics_clean.FirstOrDefault(x => x.nconst.Equals(writerInfo));
+                if (writer == null)
+                {
+                    Console.WriteLine("WRITER NOT FOUND!!! - Fix being applied...");
+
+                    var writerFix = context.name_basics.First(x => x.nconst.Equals(writerInfo));
+                    writer = new name_basics_clean
+                    {
+                        primaryName = writerFix.primaryName,
+                        Id = writerFix.Id
+                    };
+                }
+
+                //get genre info
+                var genre = genreLookup.First(x => x.Genre.Equals(movie.genres.Split(',')[0]));
 
                 var ageGapData = GetAgeGap(movie.startYear, actor.birthYear);
                 if (ageGapData == null) continue;
 
                 data.Add(new CleanData
                 {
+                    Title = movie.originalTitle,
+                    StaringActorId = actor.Id,
+                    StaringActor = actor.primaryName,
                     ActorAgeGapId = ageGapData.Id,
                     AgeGapDefinition = ageGapData.Definition,
-                    Genres = movie.genres,
+                    Genres = genre.Genre,
+                    GenreId = genre.Id,
+                    Writer = writer.primaryName,
+                    WriterId = writer.Id,
                     NumberOfVotes = int.Parse(rating.numVotes),
                     Rating = rating.averageRating,
-                    StaringActorId = actor.Id,
-                    Title = movie.originalTitle,
                     Success = float.Parse(rating.averageRating) > ratingThreshold
                 });
 
                 Console.WriteLine($"{progress} out of {ratings.Count} - Added movie: {movie.originalTitle}");
             }
-            
-             context.CleanData.AddRange(data);
+
+            context.CleanData.AddRange(data);
             context.SaveChanges();
             Console.ReadLine();
         }

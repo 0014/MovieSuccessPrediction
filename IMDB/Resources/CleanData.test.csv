@@ -1,0 +1,348 @@
+﻿Id,Title,StaringActorId,StaringActor,ActorAgeGapId,AgeGapDefinition,WriterId,Writer,Genres,GenreId,NumberOfVotes,Rating,Success
+3676,It's a Wonderful Life,12534,James Stewart,4,30s,320633,Frances Goodrich,Drama,1,339858,8.6,1
+3677,Gone with the Wind,12485,Clark Gable,4,30s,569908,Margaret Mitchell,Drama,1,256446,8.2,1
+3678,The Wizard of Oz,12486,Judy Garland,6,teenager,469253,Noel Langley,Adventure,10,342128,8,1
+3679,The Great Dictator,12585,Charles Chaplin,2,50s,12585,Charles Chaplin,Comedy,3,172952,8.5,1
+3680,Pinocchio,404833,Dickie Jones,6,teenager,653189,Bill Peet,Animation,11,111035,7.5,1
+3681,Rebecca,12522,Laurence Olivier,4,30s,229531,Daphne Du Maurier,Drama,1,107403,8.1,1
+3682,Citizen Kane,12543,Orson Welles,5,20s,516590,Herman J. Mankiewicz,Drama,1,352700,8.4,1
+3683,Dumbo,11963,Sterling Holloway,4,30s,332126,Joe Grant,Animation,11,102813,7.3,1
+3684,The Maltese Falcon,12470,Humphrey Bogart,3,40s,11983,John Huston,Film-Noir,7,136795,8.1,1
+3685,Bambi,35181,Hardie Albright,4,30s,724930,Felix Salten,Animation,11,112965,7.3,1
+3686,Casablanca,12470,Humphrey Bogart,3,40s,254375,Julius J. Epstein,Drama,1,460503,8.5,1
+3687,Double Indemnity,509180,Fred MacMurray,4,30s,13160,Billy Wilder,Crime,14,122163,8.3,1
+3688,Ladri di biciclette,522070,Lamberto Maggiorani,4,30s,908843,Cesare Zavattini,Drama,1,120938,8.3,1
+3689,Rope,12534,James Stewart,4,30s,13558,Hume Cronyn,Crime,14,112106,8,1
+3690,The Third Man,12543,Orson Welles,4,30s,11898,Graham Greene,Film-Noir,7,138661,8.2,1
+3691,City Lights,12585,Charles Chaplin,3,40s,12585,Charles Chaplin,Comedy,3,139749,8.5,1
+3692,M - Eine Stadt sucht einen MÃ¶rder,12511,Peter Lorre,5,20s,855638,Thea von Harbou,Crime,14,122419,8.3,1
+3693,Modern Times,12585,Charles Chaplin,3,40s,12585,Charles Chaplin,Comedy,3,181571,8.5,1
+3694,Snow White and the Seven Dwarfs,144399,Adriana Caselotti,5,20s,339059,Jacob Grimm,Animation,11,158470,7.6,1
+3695,All About Eve,12475,Bette Davis,3,40s,13044,Joseph L. Mankiewicz,Drama,1,103448,8.3,1
+3696,Cinderella,902078,Ilene Woods,5,20s,631308,Charles Perrault,Animation,11,126426,7.3,1
+3697,RashÃ´mon,12140,ToshirÃ´ Mifune,5,20s,10245,RyÃ»nosuke Akutagawa,Crime,14,128528,8.3,1
+3698,Sunset Blvd.,12497,William Holden,4,30s,109659,Charles Brackett,Drama,1,172127,8.4,1
+3699,Alice in Wonderland,75323,Kathryn Beaumont,6,teenager,133208,Lewis Carroll,Adventure,10,112284,7.4,1
+3700,Strangers on a Train,336867,Farley Granger,5,20s,152245,Raymond Chandler,Crime,14,111345,8,1
+3701,Singin' in the Rain,12500,Gene Kelly,4,30s,179116,Betty Comden,Comedy,3,188651,8.3,1
+3702,Peter Pan,235710,Bobby Driscoll,6,teenager,61737,J.M. Barrie,Adventure,10,107573,7.3,1
+3703,Roman Holiday,12523,Gregory Peck,4,30s,385400,Ian McLellan Hunter,Comedy,3,114931,8.1,1
+3704,Metropolis,364745,Brigitte Helm,5,20s,855638,Thea von Harbou,Drama,1,137747,8.3,1
+3705,Galaxy Quest,13204,Tim Allen,3,40s,382354,David Howard,Adventure,10,135556,7.3,1
+3706,The Perfect Storm,12586,George Clooney,4,30s,412554,Sebastian Junger,Action,15,144481,6.4,0
+3707,Requiem for a Dream,11599,Ellen Burstyn,1,+60s,748298,Hubert Selby Jr.,Drama,1,679094,8.3,1
+3708,Minority Report,12592,Tom Cruise,4,30s,11744,Philip K. Dick,Action,15,457606,7.7,1
+3709,Terminator 3: Rise of the Machines,12679,Arnold Schwarzenegger,2,50s,12579,James Cameron,Action,15,341841,6.3,0
+3710,Traffic,12603,Michael Douglas,2,50s,577862,Simon Moore,Crime,14,183555,7.6,1
+3711,Almost Famous,11686,Billy Crudup,4,30s,11685,Cameron Crowe,Adventure,10,230504,7.9,1
+3712,Falling Down,12603,Michael Douglas,3,40s,782275,Ebbe Roe Smith,Crime,14,152233,7.6,1
+3713,The Firm,12592,Tom Cruise,4,30s,11904,John Grisham,Drama,1,102692,6.8,0
+3714,The Fugitive,12611,Harrison Ford,2,50s,804725,Jeb Stuart,Action,15,239306,7.8,1
+3715,Groundhog Day,12658,Bill Murray,3,40s,710045,Danny Rubin,Comedy,3,525309,8,1
+3716,In the Name of the Father,12821,Daniel Day-Lewis,4,30s,175940,Gerry Conlon,Biography,17,136875,8.1,1
+3717,Jurassic Park,13017,Sam Neill,3,40s,12804,Michael Crichton,Adventure,10,755498,8.1,1
+3718,Last Action Hero,12679,Arnold Schwarzenegger,3,40s,649675,Zak Penn,Action,15,121370,6.3,0
+3719,Mrs. Doubtfire,12708,Robin Williams,3,40s,281835,Anne Fine,Comedy,3,212684,7,0
+3720,The Nightmare Before Christmas,12847,Danny Elfman,4,30s,12781,Tim Burton,Animation,11,261069,8,1
+3721,Philadelphia,12621,Tom Hanks,4,30s,623605,Ron Nyswaner,Drama,1,201615,7.7,1
+3722,Robin Hood: Men in Tights,12607,Cary Elwes,4,30s,759846,J.D. Shapiro,Adventure,10,103978,6.7,0
+3723,Schindler's List,13016,Liam Neeson,3,40s,419382,Thomas Keneally,Biography,17,1043890,8.9,1
+3724,Sleepless in Seattle,12621,Tom Hanks,4,30s,45769,Jeff Arch,Comedy,3,140978,6.8,0
+3725,Tombstone,13084,Kurt Russell,3,40s,400588,Kevin Jarre,Action,15,110730,7.8,1
+3726,True Romance,12688,Christian Slater,5,20s,12696,Quentin Tarantino,Crime,14,184002,7.9,1
+3727,What's Eating Gilbert Grape,12599,Johnny Depp,5,20s,368393,Peter Hedges,Drama,1,192914,7.8,1
+3728,Friends,12561,Jennifer Aniston,5,20s,710611,Zachary Rosenblatt,Comedy,3,628972,8.9,1
+3729,Ace Ventura: Pet Detective,12583,Jim Carrey,4,30s,76092,Jack Bernstein,Comedy,3,247898,6.9,0
+3730,Clerks,615617,Brian O'Halloran,5,20s,20845,Kevin Smith,Comedy,3,198029,7.8,1
+3731,The Crow,12951,Brandon Lee,5,20s,623997,James O'Barr,Action,15,151987,7.6,1
+3732,Dumb and Dumber,12583,Jim Carrey,4,30s,268800,Peter Farrelly,Comedy,3,321903,7.3,1
+3733,Ed Wood,12599,Johnny Depp,4,30s,341425,Rudolph Grey,Biography,17,154866,7.9,1
+3734,Forrest Gump,12621,Tom Hanks,4,30s,336248,Winston Groom,Drama,1,1541203,8.8,1
+3735,Four Weddings and a Funeral,12887,Hugh Grant,4,30s,202934,Richard Curtis,Comedy,3,122665,7.1,0
+3736,Poltergeist,12455,JoBeth Williams,4,30s,12692,Steven Spielberg,Horror,18,125141,7.4,1
+3737,Rocky III,12693,Sylvester Stallone,4,30s,12693,Sylvester Stallone,Drama,1,148962,6.8,0
+3738,Star Trek II: The Wrath of Khan,13101,William Shatner,2,50s,708449,Gene Roddenberry,Action,15,102747,7.7,1
+3739,The Thing,13084,Kurt Russell,4,30s,469587,Bill Lancaster,Horror,18,319312,8.1,1
+3740,TRON,12776,Jeff Bridges,4,30s,500746,Steven Lisberger,Action,15,104041,6.8,0
+3741,A Christmas Story,71766,Peter Billingsley,6,teenager,766991,Jean Shepherd,Comedy,3,117584,8,1
+3742,The Meaning of Life,12555,John Cleese,3,40s,11641,Graham Chapman,Comedy,3,101109,7.6,1
+3743,Star Wars: Episode VI - Return of the Jedi,12897,Mark Hamill,4,30s,12014,Lawrence Kasdan,Action,15,832773,8.3,1
+3744,Scarface,12662,Al Pacino,3,40s,12694,Oliver Stone,Crime,14,641507,8.3,1
+3745,Trading Places,13015,Eddie Murphy,5,20s,345648,Timothy Harris,Comedy,3,119474,7.5,1
+3746,Amadeus,13182,F. Murray Abraham,3,40s,762592,Peter Shaffer,Biography,17,325579,8.3,1
+3747,Beverly Hills Cop,13015,Eddie Murphy,5,20s,655747,Daniel Petrie Jr.,Action,15,144885,7.3,1
+3748,Dune,12096,Kyle MacLachlan,5,20s,372989,Frank Herbert,Action,15,108522,6.6,0
+3749,Ghost Busters,12658,Bill Murray,4,30s,12564,Dan Aykroyd,Action,15,314479,7.8,1
+3750,Gremlins,13623,Zach Galligan,6,teenager,11664,Chris Columbus,Comedy,3,170382,7.2,0
+3751,The Graduate,12626,Dustin Hoffman,5,20s,884536,Calder Willingham,Comedy,3,232930,8,1
+3752,The Jungle Book,345467,Phil Harris,1,+60s,166612,Larry Clemmons,Adventure,10,145564,7.6,1
+3753,2001: A Space Odyssey,11762,Keir Dullea,4,30s,12503,Stanley Kubrick,Adventure,10,522112,8.3,1
+3754,Night of the Living Dead,404873,Duane Jones,4,30s,719673,John A. Russo,Horror,18,102429,7.9,1
+3755,Planet of the Apes,12495,Charlton Heston,3,40s,885134,Michael Wilson,Adventure,10,153316,8,1
+3756,Rosemary's Baby,11805,Mia Farrow,5,20s,486637,Ira Levin,Drama,1,164601,8,1
+3757,Butch Cassidy and the Sundance Kid,12519,Paul Newman,3,40s,11883,William Goldman,Biography,17,181998,8.1,1
+3758,C'era una volta il West,12483,Henry Fonda,1,+60s,24587,Sergio Donati,Western,16,261761,8.5,1
+3759,Psycho,13041,Anthony Perkins,5,20s,793702,Joseph Stefano,Horror,18,516078,8.5,1
+3760,Spartacus,12481,Kirk Douglas,3,40s,834526,Dalton Trumbo,Adventure,10,110609,7.9,1
+3761,Breakfast at Tiffany's,12493,Audrey Hepburn,4,30s,13519,Truman Capote,Comedy,3,147216,7.7,1
+3762,One Hundred and One Dalmatians,12396,Rod Taylor,4,30s,653189,Bill Peet,Adventure,10,132637,7.2,0
+3763,Dr. No,12588,Sean Connery,4,30s,517489,Richard Maibaum,Action,15,130888,7.3,1
+3764,Lawrence of Arabia,13027,Peter O'Toole,5,20s,481060,T.E. Lawrence,Adventure,10,233521,8.3,1
+3765,To Kill a Mockingbird,12523,Gregory Peck,3,40s,474673,Harper Lee,Crime,14,263029,8.3,1
+3766,The Birds,12396,Rod Taylor,4,30s,229531,Daphne Du Maurier,Drama,1,150590,7.7,1
+3767,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,13097,Peter Sellers,4,30s,12503,Stanley Kubrick,Comedy,3,403021,8.4,1
+3768,From Russia with Love,12588,Sean Connery,4,30s,517489,Richard Maibaum,Action,15,102727,7.5,1
+3769,The Great Escape,13000,Steve McQueen,4,30s,106129,Paul Brickhill,Adventure,10,198970,8.2,1
+3770,Goldfinger,12588,Sean Connery,4,30s,517489,Richard Maibaum,Action,15,154979,7.7,1
+3771,Mary Poppins,12730,Julie Andrews,5,20s,868698,Bill Walsh,Comedy,3,129246,7.8,1
+3772,Per un pugno di dollari,12605,Clint Eastwood,4,30s,88205,Adriano Bolzoni,Western,16,172762,8,1
+3773,Per qualche dollaro in piÃ¹,12605,Clint Eastwood,4,30s,12070,Sergio Leone,Western,16,196896,8.3,1
+3774,The Sound of Music,12730,Julie Andrews,5,20s,400736,George Hurdalek,Biography,17,174427,8,1
+3775,"Il buono, il brutto, il cattivo",12605,Clint Eastwood,4,30s,856933,Luciano Vincenzoni,Western,16,599317,8.9,1
+3776,Cool Hand Luke,12519,Paul Newman,3,40s,635591,Donn Pearce,Crime,14,143447,8.1,1
+3777,A Clockwork Orange,12995,Malcolm McDowell,5,20s,12503,Stanley Kubrick,Crime,14,665743,8.3,1
+3778,Dirty Harry,12605,Clint Eastwood,3,40s,282046,Harry Julian Fink,Action,15,128859,7.8,1
+3779,Willy Wonka & the Chocolate Factory,13161,Gene Wilder,4,30s,11698,Roald Dahl,Family,12,154307,7.8,1
+3780,Dial M for Murder,12141,Ray Milland,3,40s,451234,Frederick Knott,Crime,14,135451,8.2,1
+3781,On the Waterfront,12471,Marlon Brando,5,20s,752241,Budd Schulberg,Crime,14,124442,8.2,1
+3782,Rear Window,12534,James Stewart,3,40s,355307,John Michael Hayes,Mystery,8,384035,8.5,1
+3783,Shichinin no samurai,12140,ToshirÃ´ Mifune,4,30s,12504,Akira Kurosawa,Adventure,10,273493,8.7,1
+3784,Lady and the Tramp,511094,Barbara Luddy,3,40s,314718,Ward Greene,Adventure,10,104164,7.3,1
+3785,12 Angry Men,12483,Henry Fonda,2,50s,712114,Reginald Rose,Crime,14,567370,8.9,1
+3786,The Bridge on the River Kwai,12497,William Holden,4,30s,98230,Pierre Boulle,Adventure,10,180630,8.2,1
+3787,Paths of Glory,12481,Kirk Douglas,3,40s,12503,Stanley Kubrick,Drama,1,149696,8.4,1
+3788,Det sjunde inseglet,13417,Max von Sydow,5,20s,12468,Ingmar Bergman,Drama,1,138034,8.2,1
+3789,Vertigo,12534,James Stewart,3,40s,183778,Alec Coppel,Mystery,8,308189,8.3,1
+3790,Ben-Hur,12495,Charlton Heston,4,30s,872201,Lew Wallace,Adventure,10,195750,8.1,1
+3791,North by Northwest,12489,Cary Grant,2,50s,488268,Ernest Lehman,Adventure,10,262620,8.3,1
+3792,Sleeping Beauty,161739,Mary Costa,5,20s,649749,Erdman Penner,Animation,11,118190,7.3,1
+3793,Some Like It Hot,12517,Marilyn Monroe,4,30s,13160,Billy Wilder,Comedy,3,212170,8.2,1
+3794,The Apartment,12956,Jack Lemmon,4,30s,13160,Billy Wilder,Comedy,3,137266,8.3,1
+3795,The Godfather,12471,Marlon Brando,3,40s,662596,Mario Puzo,Crime,14,1385556,9.2,1
+3796,Indiana Jones and the Temple of Doom,12611,Harrison Ford,3,40s,398236,Willard Huyck,Action,15,389879,7.6,1
+3797,The Karate Kid,12098,Ralph Macchio,5,20s,428205,Robert Mark Kamen,Action,15,153577,7.2,0
+3798,Kaze no tani no Naushika,764108,Sumi Shimamoto,5,20s,557781,Hayao Miyazaki,Adventure,10,123429,8.1,1
+3799,A Nightmare on Elm Street,12949,Heather Langenkamp,6,teenager,12590,Wes Craven,Horror,18,179462,7.5,1
+3800,Once Upon a Time in America,12597,Robert De Niro,3,40s,341344,Harry Grey,Crime,14,266834,8.4,1
+3801,Police Academy,12893,Steve Guttenberg,5,20s,392913,Neal Israel,Comedy,3,100637,6.7,0
+3802,The Terminator,12679,Arnold Schwarzenegger,4,30s,12579,James Cameron,Action,15,706664,8,1
+3803,This Is Spinal Tap,12265,Rob Reiner,4,30s,11906,Christopher Guest,Comedy,3,117670,8,1
+3804,Die unendliche Geschichte,12904,Noah Hathaway,6,teenager,13046,Wolfgang Petersen,Adventure,10,115600,7.4,1
+3805,Back to the Future,12613,Michael J. Fox,5,20s,13172,Robert Zemeckis,Adventure,10,896271,8.5,1
+3806,Brazil,13059,Jonathan Pryce,4,30s,12879,Terry Gilliam,Drama,1,171377,8,1
+3807,The Breakfast Club,12852,Emilio Estevez,5,20s,12918,John Hughes,Comedy,3,308301,7.9,1
+3808,Commando,12679,Arnold Schwarzenegger,4,30s,478439,Jeph Loeb,Action,15,129825,6.7,0
+3809,Star Wars,12897,Mark Hamill,5,20s,12647,George Lucas,Action,15,1085073,8.6,1
+3810,Dawn of the Dead,262398,David Emge,4,30s,12285,George A. Romero,Horror,18,101299,8,1
+3811,The Deer Hunter,12597,Robert De Niro,4,30s,11651,Michael Cimino,Drama,1,276537,8.1,1
+3812,Grease,12700,John Travolta,5,20s,406896,Jim Jacobs,Musical,19,201443,7.2,0
+3813,Halloween,13050,Donald Pleasence,2,50s,12581,John Carpenter,Horror,18,197875,7.8,1
+3814,Animal House,12467,John Belushi,5,20s,13064,Harold Ramis,Comedy,3,102659,7.6,1
+3815,Superman,12263,Christopher Reeve,5,20s,772308,Jerry Siegel,Action,15,143975,7.3,1
+3816,Alien,12707,Sigourney Weaver,5,20s,623984,Dan O'Bannon,Horror,18,689221,8.5,1
+3817,Apocalypse Now,13103,Martin Sheen,4,30s,570180,John Milius,Drama,1,529788,8.5,1
+3818,Escape from Alcatraz,12605,Clint Eastwood,3,40s,113281,J. Campbell Bruce,Biography,17,101410,7.6,1
+3819,Kramer vs. Kramer,12626,Dustin Hoffman,3,40s,180059,Avery Corman,Drama,1,114619,7.8,1
+3820,Life of Brian,11641,Graham Chapman,4,30s,11641,Graham Chapman,Comedy,3,323418,8.1,1
+3821,Mad Max,12617,Mel Gibson,5,20s,538904,James McCausland,Action,15,172523,7,0
+3822,Manhattan,12558,Woody Allen,3,40s,12558,Woody Allen,Comedy,3,119123,8,1
+3823,Rocky II,12693,Sylvester Stallone,4,30s,12693,Sylvester Stallone,Drama,1,164874,7.2,0
+3824,Airplane!,11936,Robert Hays,4,30s,74418,Hall Bartlett,Comedy,3,185085,7.8,1
+3825,The Blues Brothers,12467,John Belushi,4,30s,12564,Dan Aykroyd,Adventure,10,163220,7.9,1
+3826,The Elephant Man,12627,Anthony Hopkins,3,40s,204093,Christopher De Vore,Biography,17,194475,8.2,1
+3827,Star Wars: Episode V - The Empire Strikes Back,12897,Mark Hamill,5,20s,109665,Leigh Brackett,Action,15,1014952,8.8,1
+3828,Friday the 13th,625154,Betsy Palmer,2,50s,560737,Victor Miller,Horror,18,101885,6.5,0
+3829,Raging Bull,12597,Robert De Niro,4,30s,472898,Jake LaMotta,Biography,17,278750,8.2,1
+3830,The Shining,12660,Jack Nicholson,3,40s,12638,Stephen King,Drama,1,749363,8.4,1
+3831,Das Boot,12242,JÃ¼rgen Prochnow,4,30s,13046,Wolfgang Petersen,Adventure,10,201794,8.4,1
+3832,Conan the Barbarian,12679,Arnold Schwarzenegger,4,30s,396024,Robert E. Howard,Adventure,10,125530,6.9,0
+3833,Escape from New York,13084,Kurt Russell,5,20s,12581,John Carpenter,Action,15,108661,7.2,0
+3834,Mad Max 2,12617,Mel Gibson,5,20s,355453,Terry Hayes,Action,15,151458,7.6,1
+3835,Raiders of the Lost Ark,12611,Harrison Ford,4,30s,12014,Lawrence Kasdan,Action,15,782620,8.5,1
+3836,Blade Runner,12611,Harrison Ford,4,30s,263170,Hampton Fancher,Sci-Fi,2,606770,8.2,1
+3837,E.T. the Extra-Terrestrial,12398,Henry Thomas,6,teenager,528450,Melissa Mathison,Family,12,327088,7.9,1
+3838,The Evil Dead,144125,Bruce Campbell,5,20s,13063,Sam Raimi,Horror,18,165244,7.5,1
+3839,First Blood,12693,Sylvester Stallone,4,30s,572961,David Morrell,Action,15,196415,7.7,1
+3840,Gandhi,12030,Ben Kingsley,4,30s,103231,John Briley,Biography,17,202513,8.1,1
+3841,The Goonies,12739,Sean Astin,6,teenager,12692,Steven Spielberg,Adventure,10,210296,7.8,1
+3842,Mad Max Beyond Thunderdome,12617,Mel Gibson,5,20s,355453,Terry Hayes,Action,15,115347,6.3,0
+3843,Rambo: First Blood Part II,12693,Sylvester Stallone,4,30s,572961,David Morrell,Action,15,134080,6.4,0
+3844,Rocky IV,12693,Sylvester Stallone,4,30s,12693,Sylvester Stallone,Drama,1,160966,6.8,0
+3845,Aliens,12707,Sigourney Weaver,4,30s,12579,James Cameron,Action,15,582466,8.4,1
+3846,Big Trouble in Little China,13084,Kurt Russell,4,30s,323569,Gary Goldman,Action,15,109376,7.3,1
+3847,Blue Velvet,13081,Isabella Rossellini,4,30s,12649,David Lynch,Drama,1,157567,7.8,1
+3848,Ferris Bueller's Day Off,12574,Matthew Broderick,5,20s,12918,John Hughes,Comedy,3,281264,7.8,1
+3849,The Fly,12619,Jeff Goldblum,4,30s,659166,Charles Edward Pogue,Drama,1,140421,7.5,1
+3850,Highlander,12946,Christopher Lambert,5,20s,878067,Gregory Widen,Action,15,110538,7.2,0
+3851,Labyrinth,12772,David Bowie,4,30s,474461,Dennis Lee,Adventure,10,109844,7.4,1
+3852,Interview with the Vampire: The Vampire Chronicles,12556,Brad Pitt,4,30s,687529,Anne Rice,Drama,1,268460,7.6,1
+3853,Legends of the Fall,12556,Brad Pitt,4,30s,763993,Susan Shilliday,Drama,1,129077,7.5,1
+3854,The Lion King,12574,Matthew Broderick,4,30s,844172,Christopher Vogler,Adventure,10,798547,8.5,1
+3855,LÃ©on,13069,Jean Reno,3,40s,12571,Luc Besson,Crime,14,887226,8.6,1
+3856,The Mask,12583,Jim Carrey,4,30s,261072,Michael Fallon,Comedy,3,305199,6.9,0
+3857,Natural Born Killers,12900,Woody Harrelson,4,30s,12696,Quentin Tarantino,Crime,14,195475,7.3,1
+3858,Pulp Fiction,12700,John Travolta,4,30s,12696,Quentin Tarantino,Crime,14,1578153,8.9,1
+3859,The Shawshank Redemption,12672,Tim Robbins,4,30s,12638,Stephen King,Drama,1,2021785,9.3,1
+3860,Speed,12669,Keanu Reeves,5,20s,20887,Graham Yost,Action,15,294477,7.2,0
+3861,Stargate,13084,Kurt Russell,3,40s,13574,Dean Devlin,Action,15,162558,7.1,0
+3862,True Lies,12679,Arnold Schwarzenegger,3,40s,921034,Claude Zidi,Action,15,214428,7.2,0
+3863,The Exorcist,11599,Ellen Burstyn,3,40s,92255,William Peter Blatty,Horror,18,322652,8,1
+3864,Papillon,13000,Steve McQueen,3,40s,834526,Dalton Trumbo,Biography,17,109629,8,1
+3865,The Sting,12519,Paul Newman,3,40s,867193,David S. Ward,Comedy,3,211940,8.3,1
+3866,Blazing Saddles,12080,Cleavon Little,4,30s,12779,Mel Brooks,Comedy,3,112709,7.8,1
+3867,Chinatown,12660,Jack Nicholson,4,30s,12405,Robert Towne,Drama,1,257675,8.2,1
+3868,The Godfather: Part II,12662,Al Pacino,4,30s,12801,Francis Ford Coppola,Crime,14,959584,9,1
+3869,Monty Python and the Holy Grail,11641,Graham Chapman,4,30s,11641,Graham Chapman,Adventure,10,446545,8.3,1
+3870,The Texas Chain Saw Massacre,126612,Marilyn Burns,5,20s,376098,Kim Henkel,Horror,18,116966,7.5,1
+3871,Young Frankenstein,13161,Gene Wilder,3,40s,13161,Gene Wilder,Comedy,3,130383,8,1
+3872,Barry Lyndon,602384,Ryan O'Neal,4,30s,12503,Stanley Kubrick,Adventure,10,127512,8.1,1
+3873,Dog Day Afternoon,12662,Al Pacino,4,30s,659874,Frank Pierson,Biography,17,213535,8,1
+3874,Jaws,12306,Roy Scheider,3,40s,13473,Peter Benchley,Adventure,10,494921,8,1
+3875,One Flew Over the Cuckoo's Nest,12660,Jack Nicholson,4,30s,345101,Lawrence Hauben,Drama,1,803004,8.7,1
+3876,The Rocky Horror Picture Show,12810,Tim Curry,5,20s,619248,Richard O'Brien,Comedy,3,119199,7.4,1
+3877,Carrie,13114,Sissy Spacek,5,20s,12638,Stephen King,Horror,18,147416,7.4,1
+3878,Network,11763,Faye Dunaway,4,30s,156886,Paddy Chayefsky,Drama,1,126969,8.1,1
+3879,Rocky,12693,Sylvester Stallone,5,20s,12693,Sylvester Stallone,Drama,1,456457,8.1,1
+3880,Taxi Driver,12597,Robert De Niro,4,30s,12311,Paul Schrader,Crime,14,614014,8.3,1
+3881,Annie Hall,12558,Woody Allen,3,40s,12558,Woody Allen,Comedy,3,231870,8,1
+3882,Close Encounters of the Third Kind,12840,Richard Dreyfuss,5,20s,12692,Steven Spielberg,Drama,1,162847,7.7,1
+3883,Ace Ventura: When Nature Calls,12583,Jim Carrey,4,30s,76092,Jack Bernstein,Adventure,10,182689,6.3,0
+3884,Apollo 13,12621,Tom Hanks,4,30s,502149,Jim Lovell,Adventure,10,238824,7.6,1
+3885,Babe,12805,James Cromwell,2,50s,450133,Dick King-Smith,Comedy,3,106060,6.8,0
+3886,Bad Boys,12689,Will Smith,5,20s,306663,George Gallo,Action,15,200401,6.8,0
+3887,Batman Forever,12637,Val Kilmer,4,30s,18625,Bob Kane,Action,15,214882,5.4,0
+3888,Before Sunrise,12623,Ethan Hawke,5,20s,12963,Richard Linklater,Drama,1,229686,8.1,1
+3889,Billy Madison,11795,Adam Sandler,5,20s,369242,Tim Herlihy,Comedy,3,118317,6.4,0
+3890,Braveheart,12617,Mel Gibson,4,30s,872269,Randall Wallace,Biography,17,868002,8.4,1
+3891,Casino,12597,Robert De Niro,2,50s,656215,Nicholas Pileggi,Crime,14,400778,8.2,1
+3892,Casper,13060,Bill Pullman,3,40s,633385,Joseph Oriolo,Comedy,3,103129,6.1,0
+3893,Clueless,12687,Alicia Silverstone,6,teenager,13665,Amy Heckerling,Comedy,3,150049,6.8,0
+3894,Desperado,12567,Antonio Banderas,4,30s,12279,Robert Rodriguez,Action,15,155737,7.2,0
+3895,Die Hard with a Vengeance,12709,Bruce Willis,4,30s,372611,Jonathan Hensleigh,Action,15,332967,7.6,1
+3896,GoldenEye,12575,Pierce Brosnan,3,40s,11824,Ian Fleming,Action,15,218451,7.2,0
+3897,La haine,13526,Vincent Cassel,5,20s,431921,Mathieu Kassovitz,Crime,14,128094,8.1,1
+3898,Heat,12662,Al Pacino,2,50s,12983,Michael Mann,Crime,14,508600,8.2,1
+3899,Judge Dredd,12693,Sylvester Stallone,3,40s,864110,John Wagner,Action,15,100377,5.5,0
+3900,Jumanji,12708,Robin Williams,3,40s,372611,Jonathan Hensleigh,Adventure,10,260126,6.9,0
+3901,KÃ´kaku KidÃ´tai,796600,Atsuko Tanaka,4,30s,760624,Shirow Masamune,Action,15,111244,8,1
+3902,Leaving Las Vegas,12578,Nicolas Cage,4,30s,3759356,John O'Brien,Drama,1,104450,7.5,1
+3903,Awakenings,12597,Robert De Niro,3,40s,732420,Oliver Sacks,Biography,17,108575,7.8,1
+3904,Back to the Future Part III,12613,Michael J. Fox,5,20s,13172,Robert Zemeckis,Adventure,10,344011,7.4,1
+3905,Dances with Wolves,12589,Kevin Costner,4,30s,93343,Michael Blake,Adventure,10,214392,8,1
+3906,Die Hard 2,12709,Bruce Willis,4,30s,863874,Walter Wager,Action,15,304535,7.1,0
+3907,Edward Scissorhands,12599,Johnny Depp,5,20s,12781,Tim Burton,Drama,1,405129,7.9,1
+3908,Ghost,13127,Patrick Swayze,4,30s,710032,Bruce Joel Rubin,Drama,1,174087,7,0
+3909,The Godfather: Part III,12662,Al Pacino,3,40s,662596,Mario Puzo,Crime,14,318448,7.6,1
+3910,Goodfellas,12597,Robert De Niro,3,40s,656215,Nicholas Pileggi,Crime,14,871369,8.7,1
+3911,Home Alone,12809,Macaulay Culkin,7,childhood,12918,John Hughes,Comedy,3,384992,7.5,1
+3912,The Hunt for Red October,12588,Sean Connery,2,50s,13540,Tom Clancy,Action,15,160658,7.6,1
+3913,Kindergarten Cop,12679,Arnold Schwarzenegger,3,40s,728413,Murray Salem,Comedy,3,121887,6.1,0
+3914,Miller's Crossing,12784,Gabriel Byrne,4,30s,11658,Joel Coen,Crime,14,115679,7.8,1
+3915,Misery,11605,James Caan,3,40s,12638,Stephen King,Crime,14,159078,7.8,1
+3916,Predator 2,12881,Danny Glover,3,40s,820112,Jim Thomas,Action,15,128883,6.3,0
+3917,Pretty Woman,12615,Richard Gere,3,40s,481372,J.F. Lawton,Comedy,3,250428,7,0
+3918,Rocky V,12693,Sylvester Stallone,3,40s,12693,Sylvester Stallone,Drama,1,110644,5.2,0
+3919,Total Recall,12679,Arnold Schwarzenegger,3,40s,11744,Philip K. Dick,Action,15,271553,7.5,1
+3920,Tremors,12565,Kevin Bacon,4,30s,885354,S.S. Wilson,Comedy,3,105447,7.2,0
+3921,The Addams Family,11982,Anjelica Huston,4,30s,29500,Charles Addams,Comedy,3,111746,6.9,0
+3922,Barton Fink,12410,John Turturro,4,30s,11658,Joel Coen,Comedy,3,101647,7.7,1
+3923,Beauty and the Beast,615750,Paige O'Hara,4,30s,898462,Linda Woolverton,Animation,11,377507,8,1
+3924,Boyz n the Hood,12884,Cuba Gooding Jr.,5,20s,17472,John Singleton,Crime,14,108665,7.8,1
+3925,Cape Fear,12597,Robert De Niro,3,40s,506123,John D. MacDonald,Crime,14,148651,7.3,1
+3926,Hook,12626,Dustin Hoffman,2,50s,61737,J.M. Barrie,Adventure,10,208065,6.7,0
+3927,JFK,12589,Kevin Costner,4,30s,12694,Oliver Stone,Drama,1,128105,8,1
+3928,Point Break,13127,Patrick Swayze,4,30s,18941,Rick King,Action,15,133443,7.2,0
+3929,Robin Hood: Prince of Thieves,12589,Kevin Costner,4,30s,227158,Pen Densham,Action,15,162316,6.9,0
+3930,The Silence of the Lambs,12612,Jodie Foster,5,20s,345641,Thomas Harris,Crime,14,1085373,8.6,1
+3931,Terminator 2: Judgment Day,12679,Arnold Schwarzenegger,3,40s,12579,James Cameron,Action,15,876511,8.5,1
+3932,Thelma & Louise,12678,Susan Sarandon,3,40s,442659,Callie Khouri,Adventure,10,118195,7.4,1
+3933,Aladdin,870622,Scott Weinger,6,teenager,593499,John Musker,Adventure,10,308494,8,1
+3934,AlienÂ³,12707,Sigourney Weaver,3,40s,623984,Dan O'Bannon,Action,15,247839,6.4,0
+3935,Basic Instinct,12603,Michael Douglas,3,40s,12853,Joe Eszterhas,Drama,1,152544,6.9,0
+3936,Batman Returns,12937,Michael Keaton,3,40s,18625,Bob Kane,Action,15,246023,7,0
+3937,The Bodyguard,12589,Kevin Costner,4,30s,12014,Lawrence Kasdan,Drama,1,105021,6.2,0
+3938,Dracula,12661,Gary Oldman,4,30s,780583,Bram Stoker,Horror,18,168394,7.5,1
+3939,A Few Good Men,12592,Tom Cruise,5,20s,779305,Aaron Sorkin,Drama,1,208931,7.7,1
+3940,Home Alone 2: Lost in New York,12809,Macaulay Culkin,6,teenager,12918,John Hughes,Adventure,10,249872,6.7,0
+3941,The Last of the Mohicans,12821,Daniel Day-Lewis,4,30s,188309,James Fenimore Cooper,Action,15,132381,7.8,1
+3942,Lethal Weapon 3,12617,Mel Gibson,4,30s,104395,Jeffrey Boam,Action,15,142841,6.7,0
+3943,Reservoir Dogs,12635,Harvey Keitel,2,50s,12696,Quentin Tarantino,Crime,14,794748,8.3,1
+3944,Scent of a Woman,12662,Al Pacino,2,50s,38643,Giovanni Arpino,Drama,1,224996,8,1
+3945,Unforgiven,12605,Clint Eastwood,1,+60s,644244,David Webb Peoples,Drama,1,330157,8.2,1
+3946,Wayne's World,12659,Mike Myers,5,20s,12659,Mike Myers,Comedy,3,128849,7,0
+3947,The X Files,12604,David Duchovny,4,30s,521446,Steven Maeda,Drama,1,178380,8.7,1
+3948,Army of Darkness,144125,Bruce Campbell,4,30s,13063,Sam Raimi,Comedy,3,147779,7.6,1
+3949,A Bronx Tale,12597,Robert De Niro,3,40s,12194,Chazz Palminteri,Crime,14,113198,7.8,1
+3950,Carlito's Way,12662,Al Pacino,2,50s,823037,Edwin Torres,Crime,14,181665,7.9,1
+3951,Cliffhanger,12693,Sylvester Stallone,3,40s,509883,John Long,Action,15,108220,6.4,0
+3952,Dazed and Confused,509596,Jason London,5,20s,12963,Richard Linklater,Comedy,3,143325,7.7,1
+3953,Demolition Man,12693,Sylvester Stallone,3,40s,24711,Peter M. Lenkov,Action,15,141249,6.6,0
+3954,Mallrats,11751,Shannen Doherty,5,20s,20845,Kevin Smith,Comedy,3,107232,7.2,0
+3955,Pocahontas,12617,Mel Gibson,4,30s,72003,Carl Binder,Adventure,10,145815,6.7,0
+3956,Se7en,12614,Morgan Freeman,2,50s,12429,Andrew Kevin Walker,Crime,14,1236050,8.6,1
+3957,Fight Club,12556,Brad Pitt,4,30s,630901,Chuck Palahniuk,Drama,1,1617370,8.8,1
+3958,Shakespeare in Love,13032,Gwyneth Paltrow,5,20s,615406,Marc Norman,Comedy,3,197020,7.1,0
+3959,Pi,339642,Sean Gullette,5,20s,16753,Darren Aronofsky,Drama,1,158139,7.4,1
+3960,Cruel Intentions,11868,Sarah Michelle Gellar,5,20s,448262,Choderlos de Laclos,Drama,1,164832,6.8,0
+3961,Training Day,12706,Denzel Washington,3,40s,55585,David Ayer,Crime,14,347571,7.7,1
+3962,The Insider,12591,Russell Crowe,4,30s,112133,Marie Brenner,Biography,17,146995,7.9,1
+3963,The Sopranos,11858,James Gandolfini,4,30s,160272,David Chase,Crime,14,238045,9.2,1
+3964,Big Daddy,11795,Adam Sandler,4,30s,270131,Steve Franks,Comedy,3,180823,6.4,0
+3965,The Ninth Gate,12599,Johnny Depp,4,30s,683474,Arturo PÃ©rez-Reverte,Mystery,8,151146,6.7,0
+3966,The World Is Not Enough,12575,Pierce Brosnan,3,40s,662276,Neal Purvis,Action,15,172435,6.4,0
+3967,American Psycho,12751,Christian Bale,5,20s,244557,Bret Easton Ellis,Crime,14,417514,7.6,1
+3968,The Boondock Saints,12816,Willem Dafoe,3,40s,247495,Troy Duffy,Action,15,213982,7.8,1
+3969,Spider-Man,12101,Tobey Maguire,5,20s,490611,Stan Lee,Action,15,621723,7.3,1
+3970,Platoon,12684,Charlie Sheen,5,20s,12694,Oliver Stone,Drama,1,342332,8.1,1
+3971,Stand by Me,13159,Wil Wheaton,6,teenager,12638,Stephen King,Adventure,10,324485,8.1,1
+3972,TenkÃ» no shiro Rapyuta,12197,Anna Paquin,7,childhood,557781,Hayao Miyazaki,Adventure,10,122541,8.1,1
+3973,Top Gun,12592,Tom Cruise,5,20s,145597,Jim Cash,Action,15,254272,6.9,0
+3974,Dirty Dancing,13127,Patrick Swayze,4,30s,85495,Eleanor Bergstein,Drama,1,168144,6.9,0
+3975,Empire of the Sun,12751,Christian Bale,6,teenager,12383,Tom Stoppard,Drama,1,103087,7.8,1
+3976,Evil Dead II,144125,Bruce Campbell,5,20s,13063,Sam Raimi,Comedy,3,131933,7.8,1
+3977,Full Metal Jacket,13009,Matthew Modine,5,20s,12503,Stanley Kubrick,Drama,1,587633,8.3,1
+3978,"Good Morning, Vietnam",12708,Robin Williams,4,30s,512852,Mitch Markowitz,Biography,17,113506,7.3,1
+3979,Lethal Weapon,12617,Mel Gibson,4,30s,11552,Shane Black,Action,15,214863,7.6,1
+3980,The Lost Boys,13037,Jason Patric,5,20s,279288,Jan Fischer,Comedy,3,108296,7.3,1
+3981,"Planes, Trains & Automobiles",12651,Steve Martin,3,40s,12918,John Hughes,Comedy,3,106561,7.6,1
+3982,Predator,12679,Arnold Schwarzenegger,4,30s,820112,Jim Thomas,Action,15,336505,7.8,1
+3983,The Princess Bride,12607,Cary Elwes,5,20s,11883,William Goldman,Adventure,10,347319,8.1,1
+3984,Raising Arizona,12578,Nicolas Cage,5,20s,11657,Ethan Coen,Comedy,3,113603,7.4,1
+3985,RoboCop,13156,Peter Weller,4,30s,586637,Edward Neumeier,Action,15,209304,7.6,1
+3986,The Running Man,12679,Arnold Schwarzenegger,4,30s,12638,Stephen King,Action,15,127059,6.7,0
+3987,Spaceballs,12779,Mel Brooks,1,+60s,12779,Mel Brooks,Adventure,10,154973,7.1,0
+3988,The Untouchables,12589,Kevin Costner,4,30s,284041,Oscar Fraley,Crime,14,248451,7.9,1
+3989,Wall Street,12684,Charlie Sheen,5,20s,24854,Stanley Weiser,Crime,14,131950,7.4,1
+3990,Akira,390451,Mitsuo Iwata,5,20s,905293,Katsuhiro Ã”tomo,Action,15,132614,8.1,1
+3991,Beetlejuice,12748,Alec Baldwin,5,20s,548886,Michael McDowell,Comedy,3,224004,7.5,1
+3992,Big,12621,Tom Hanks,4,30s,14188,Gary Ross,Comedy,3,173371,7.3,1
+3993,Coming to America,13015,Eddie Murphy,5,20s,13015,Eddie Murphy,Comedy,3,140855,7,0
+3994,Die Hard,12709,Bruce Willis,4,30s,828000,Roderick Thorp,Action,15,696221,8.2,1
+3995,A Fish Called Wanda,12555,John Cleese,3,40s,12555,John Cleese,Comedy,3,119791,7.6,1
+3996,The Naked Gun: From the Files of Police Squad!,13021,Leslie Nielsen,1,+60s,907318,Jerry Zucker,Comedy,3,132559,7.6,1
+3997,Nuovo Cinema Paradiso,618591,Philippe Noiret,2,50s,815174,Giuseppe Tornatore,Drama,1,192431,8.5,1
+3998,Rain Man,12626,Dustin Hoffman,2,50s,593898,Barry Morrow,Drama,1,431320,8,1
+3999,Rambo III,12693,Sylvester Stallone,3,40s,572961,David Morrell,Action,15,105648,5.8,0
+4000,Tonari no Totoro,810087,Hitoshi Takagi,1,+60s,557781,Hayao Miyazaki,Animation,11,227537,8.2,1
+4001,Twins,12679,Arnold Schwarzenegger,3,40s,212373,William Davies,Comedy,3,100378,6,0
+4002,Who Framed Roger Rabbit,11968,Bob Hoskins,3,40s,893937,Gary K. Wolf,Adventure,10,163993,7.7,1
+4003,The Simpsons,140095,Dan Castellaneta,4,30s,132909,Michael Carrington,Animation,11,322308,8.7,1
+4004,The Abyss,12901,Ed Harris,4,30s,12579,James Cameron,Adventure,10,148138,7.6,1
+4005,Back to the Future Part II,12613,Michael J. Fox,5,20s,292990,Bob Gale,Adventure,10,408637,7.8,1
+4006,Batman,12937,Michael Keaton,4,30s,18625,Bob Kane,Action,15,304927,7.5,1
+4007,Dead Poets Society,12708,Robin Williams,4,30s,752372,Tom Schulman,Comedy,3,351275,8.1,1
+4008,Ghostbusters II,12658,Bill Murray,4,30s,12564,Dan Aykroyd,Action,15,162538,6.5,0
+4009,Glory,12574,Matthew Broderick,5,20s,400588,Kevin Jarre,Biography,17,111328,7.9,1
+4010,"Honey, I Shrunk the Kids",12152,Rick Moranis,4,30s,13871,Stuart Gordon,Adventure,10,125320,6.3,0
+4011,Indiana Jones and the Last Crusade,12611,Harrison Ford,3,40s,104395,Jeffrey Boam,Action,15,612154,8.3,1
+4012,Lethal Weapon 2,12617,Mel Gibson,4,30s,104395,Jeffrey Boam,Action,15,145352,7.2,0
+4013,The Little Mermaid,77557,Jodi Benson,5,20s,593499,John Musker,Animation,11,204571,7.6,1
+4014,National Lampoon's Christmas Vacation,12794,Chevy Chase,3,40s,12918,John Hughes,Comedy,3,126203,7.6,1
+4015,When Harry Met Sally...,12808,Billy Crystal,3,40s,11792,Nora Ephron,Comedy,3,172232,7.6,1
+4016,The Fresh Prince of Bel-Air,386876,Janet Hubert,4,30s,110945,John Bowman,Comedy,3,104071,7.9,1
+4017,Seinfeld,13095,Jerry Seinfeld,4,30s,484674,Carol Leifer,Comedy,3,214205,8.9,1
+4018,Twin Peaks,12096,Kyle MacLachlan,4,30s,18567,Mark Frost,Crime,14,147708,8.8,1
+4019,Austin Powers: The Spy Who Shagged Me,12659,Mike Myers,4,30s,12659,Mike Myers,Action,15,199444,6.6,0
+4020,The Bone Collector,12706,Denzel Washington,3,40s,195787,Jeffery Deaver,Crime,14,137635,6.7,0
+4021,Lara Croft: Tomb Raider,12005,Angelina Jolie,5,20s,159933,Sara B. Cooper,Action,15,181282,5.8,0
+4022,Any Given Sunday,12662,Al Pacino,2,50s,13948,Daniel Pyne,Drama,1,105109,6.9,0

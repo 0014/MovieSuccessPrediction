@@ -38,6 +38,21 @@
     <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
       <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
     </Reference>
+    <Reference Include="SharpLearning.Common.Interfaces, Version=0.29.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SharpLearning.Common.Interfaces.0.29.0\lib\net461\SharpLearning.Common.Interfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpLearning.Containers, Version=0.29.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SharpLearning.Containers.0.29.0\lib\net461\SharpLearning.Containers.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpLearning.DecisionTrees, Version=0.29.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SharpLearning.DecisionTrees.0.29.0\lib\net461\SharpLearning.DecisionTrees.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpLearning.InputOutput, Version=0.29.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SharpLearning.InputOutput.0.29.0\lib\net461\SharpLearning.InputOutput.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpLearning.RandomForest, Version=0.29.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SharpLearning.RandomForest.0.29.0\lib\net461\SharpLearning.RandomForest.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
@@ -52,9 +67,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Entities\CleanData.cs" />
+    <Compile Include="Entities\GenreLookup.cs" />
     <Compile Include="Entities\ImdbContext.cs" />
+    <Compile Include="Entities\name_basics.cs" />
     <Compile Include="Entities\name_basics_clean.cs" />
     <Compile Include="Entities\title_basics_clean.cs" />
+    <Compile Include="Entities\title_crew_clean.cs" />
     <Compile Include="Entities\title_principals_clean.cs" />
     <Compile Include="Entities\title_ratings_clean.cs" />
     <Compile Include="Models\AgeGapModel.cs" />

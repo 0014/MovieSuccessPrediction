@@ -1,4 +1,4 @@
-﻿namespace IMDB
+﻿namespace IMDB.View
 {
     partial class Form1
     {

@@ -6,6 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using IMDB.Model;
 using IMDB.Properties;
 using SharpLearning.Containers.Matrices;
 using SharpLearning.CrossValidation.CrossValidators;
@@ -60,17 +61,17 @@ namespace IMDB.Controller
             Console.WriteLine($@"Success : {success}, Failure: {failure}");
         }
 
-        public void Test2()
+        public MetricModel Train()
         {
             // Use StreamReader(filepath) when running from filesystem
             var trainer = new CsvParser(() => new StringReader(File.ReadAllText(@"D:\Workspace\MovieSuccessPrediction\IMDB\Resources\CleanData.int.csv")), ',');
-            var targetName = "Success";
 
             // read feature matrix
             var observations = trainer.EnumerateRows("StaringActorId", "ActorAgeGapId", "WriterId", "GenreId")
                 .ToF64Matrix();
 
             // read regression targets
+            var targetName = "Success";
             var targets = trainer.EnumerateRows(targetName)
                 .ToF64Vector();
 
@@ -95,16 +96,35 @@ namespace IMDB.Controller
             // The training set is NOT a good estimate of how well the model will perfrom on unseen data. 
             Console.WriteLine("Training error: " + metric.Error(targets, predictions));
 
-            double success = 0, failure = 0;
+            var result = new MetricModel {Predictions = predictions};
             for (var i = 0; i < targets.Length; i++)
             {
                 if (predictions[i] == targets[i])
-                    success++;
+                {
+                    if (predictions[i] == 1)
+                    {
+                        result.TP++;
+                    }
+                    else
+                    {
+                        result.TN++;
+                    }
+                }
                 else
-                    failure++;
+                {
+                    if (predictions[i] == 1)
+                    {
+                        result.FP++;
+                    }
+                    else
+                    {
+                        result.FN++;
+                    }
+                }
             }
 
-            double rate = success / (success + failure) * 100;
+            var accuracy = (result.TP + result.TN) / predictions.Length * 100;
+            return result;
         }
     }
 }

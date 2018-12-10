@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{48CF039A-3351-4EDF-9146-C6DFB02635BB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>IMDB</RootNamespace>
+    <AssemblyName>IMDB</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.v17.1, Version=17.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v17.1.Core, Version=17.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Sparkline.v17.1.Core, Version=17.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v17.1, Version=17.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraEditors.v17.1, Version=17.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v17.1, Version=17.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v17.1, Version=17.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v17.1, Version=17.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="SharpLearning.Common.Interfaces, Version=0.29.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SharpLearning.Common.Interfaces.0.29.0\lib\net461\SharpLearning.Common.Interfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpLearning.Containers, Version=0.29.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SharpLearning.Containers.0.29.0\lib\net461\SharpLearning.Containers.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpLearning.CrossValidation, Version=0.29.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SharpLearning.CrossValidation.0.29.0\lib\net461\SharpLearning.CrossValidation.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpLearning.DecisionTrees, Version=0.29.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SharpLearning.DecisionTrees.0.29.0\lib\net461\SharpLearning.DecisionTrees.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpLearning.InputOutput, Version=0.29.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SharpLearning.InputOutput.0.29.0\lib\net461\SharpLearning.InputOutput.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpLearning.Metrics, Version=0.29.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SharpLearning.Metrics.0.29.0\lib\net461\SharpLearning.Metrics.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpLearning.RandomForest, Version=0.29.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SharpLearning.RandomForest.0.29.0\lib\net461\SharpLearning.RandomForest.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controller\MainController.cs" />
+    <Compile Include="Model\MetricModel.cs" />
+    <Compile Include="View\Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="View\Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Resources\CleanData.csv" />
+    <None Include="Resources\CleanData.test.csv" />
+    <None Include="Resources\CleanData.train.csv" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
